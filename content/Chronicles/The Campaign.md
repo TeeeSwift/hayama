@@ -1,12 +1,9 @@
 ---
-id: the-campaign
-aliases:
-  - The Campaign
+id: The Campaign
+aliases: []
 tags:
   - Story
 ---
-# The Campaign
-
 Newcomers draped in linen gathered to celebrate the "Interspecies Wellness
 Center" they’d built over the old fishing port, talking loudly about the town’s
 energy harmonization project. I stood there, feeling like a ghost in my own

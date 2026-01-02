@@ -53,7 +53,7 @@ reclaim the shelf.
 
 ### IV. The Hidden Clause
 
-As per the [[Providence and Heavenly Mandate#Law of Agency|Law of Agency]],
+As per the [[Providence and Heavenly Mandate#The Law of Agency|Law of Agency]],
 [[Watatsumi]], must provide a "Way Out". A contract that offers no escape isn't
 a "Lease" — it's an execution. 
 
@@ -66,7 +66,7 @@ to become the eternal guardian of the tide, effectively renewing the contract
 with their own spirit.
 
 > [!quote] 
-Life for Life
+> Life for Life
 
 #### The Path of Mending (繕い)
 
@@ -74,7 +74,7 @@ The city must find and return the Blue Pearl (青真珠)—the crystallized esse
 of a Blue Moon—which Watatsumi "lost" when he created the spirits' bodies.
 
 > [!quote]
-The Debt Repaid
+> The Debt Repaid
 
 #### The Path of Transcendence (昇華)
 
@@ -83,4 +83,4 @@ but a new race entirely. This involves a trial of cultural or spiritual merit at
 the underwater Deep Shrine.
 
 > [!quote]
-Evolved Form
+> Evolved Form
