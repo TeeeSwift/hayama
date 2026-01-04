@@ -1,9 +1,9 @@
 ---
 id: The Salt Lease
 aliases: []
-tags:
-  - Event
+tags: []
 ---
+
 ## Summary
 
 The founders of [[Hayama]] were not humans, but Spirits of the Foam and Shore
@@ -12,18 +12,36 @@ mortals—to experience the brevity, heat, and passion of human life. The great
 sea god [[Watatsumi]] granted this, but like the tide, all things he gives must
 eventually "ebb."
 
+Greater gods don't give blessings for free. This pact had a deal. First of all,
+it's a lease, so it has a time limit of 1000 years. If, in 1000 years, the
+original lesser gods [[The Morning Tide]], remembered [[Watatsumi]], the lease would be renewed.
+Otherwise, when the lease was due, Watatsumi would enact [[The Beckoning Tide]], reclaiming what he has given.
+
+Members of [[The Morning Tide]] are immortal, as they are gods, until they choose to reproduce.
+Once they have children, their divinity begins to fade and they start to age.
+
+By the time of the campaign, most of [[The Morning Tide]] are long gone. Hayama
+is inhabited by their descendants, who have no idea about [[Watatsumi]] or the
+original lease. These individuals and their descendants are known as [[The Drifted]]. They chose to reproduce because that's the whole point of mortality.
+They wanted to experience loss and toil and tiredness and the stakes of
+mortality.
+
+There are few who have maintained connection with Watatsumi, known as [[The Anchored]]. They've gone crazy,
+and must resort to various tricks to make sure that the mortals aren't
+suspicious that they don't age. Some hibernate or go away for decades at a time.
+They also use little tricks and ambiguity / anonymity to get by.
+
 ## The Clauses
 
 ### I. The Gift of Flesh (肉身の賦与)
 
 Watatsumi distilled the brine and the "Cotton-Foam" of the waves to weave bodies
-for the spirits.
+for the spirits. The spirits became human. They gained the ability to walk on
+soil, to feel the sun, and to reproduce.
 
-The spirits became human. They gained the ability to walk on soil, to feel the sun, and to reproduce.
-
-Their blood remains salty. When a resident of Hayama dies, they
-must be "returned" to the sea (sky burials or ground burials are forbidden;
-only sea burials are permitted).
+Their blood remains salty. When a resident of Hayama dies, they must be
+"returned" to the sea (sky burials or ground burials are forbidden; only sea
+burials are permitted).
 
 ### II. The Gift of the Receding Shelf (干潟の供与)
 
@@ -50,12 +68,11 @@ lunar year), the "Lease on the Salt" expires. The internal salt that holds
 the citizens' human forms together will begin to dissolve, and the sea will
 reclaim the shelf.
 
-
 ### IV. The Hidden Clause
 
 As per the [[Providence and Heavenly Mandate#The Law of Agency|Law of Agency]],
 [[Watatsumi]], must provide a "Way Out". A contract that offers no escape isn't
-a "Lease" — it's an execution. 
+a "Lease" — it's an execution.
 
 Watatsumi provides the following paths for his subjects to renew the lease.
 
@@ -65,7 +82,7 @@ A descendant of the original founders must willingly surrender their "humanity"
 to become the eternal guardian of the tide, effectively renewing the contract
 with their own spirit.
 
-> [!quote] 
+> [!quote]
 > Life for Life
 
 #### The Path of Mending (繕い)

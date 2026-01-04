@@ -2,7 +2,7 @@
 id: Hayama
 aliases: []
 tags:
-  - Location
+  - atlas/location
 ---
 
 A town in Japan

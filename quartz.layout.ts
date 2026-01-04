@@ -38,7 +38,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(
+      {
+        filterFn: (node) => {
+          // List of folder names or file names to exclude
+          const omit = new Set(["templates", "tags", "private"])
+          return !omit.has(node.displayName.toLowerCase())
+        },
+      }
+    ),
   ],
   right: [
     Component.Graph(),

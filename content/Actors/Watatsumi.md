@@ -2,9 +2,8 @@
 id: Watatsumi
 aliases: []
 tags:
-  - Character
+  - character
 ---
-
 Watatsumi, 綿津見 is one the major gods of the sea.
 
 It's name combines

@@ -1,5 +1,8 @@
 ---
 title: Campaign Dashboard
+aliases: []
+id: index
+tags: []
 ---
 
 # The Big Picture
