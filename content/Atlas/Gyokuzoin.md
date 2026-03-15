@@ -8,7 +8,7 @@ tags: []
 > type:: Site  
 > Region:: [[Hayama]]  
 > Ruler/Owner:: [[Nori-san]]  
-> Tags:: #Religion/Shingonshu
+> Tags:: #atlast/location
 
 ## 📍 Overview
 

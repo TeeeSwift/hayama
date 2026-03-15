@@ -10,23 +10,11 @@ tags: []
 
 ## 📜 The Record
 
-> [!quote] The "Common Knowledge"
-> [[Watatsumi]] reclaims what they've given in [[The Salt Lease]].
+[[Watatsumi]] reclaims what they've given in [[The Salt Lease]].
 
 - **The Core Truth:** (What actually happened or what the belief fundamentally is)
 - **Status:** (e.g., "Extinct," "Widely Practiced," "Forbidden," "Lost to Time")
 
----
-
-## 🔍 Detailed Breakdown
-
-### Origins & Development
-
-_How did this start? Who founded it? What event triggered this change in law/nature?_
-
-### Impact on the World
-
-_How does this affect people daily? (e.g., "Farmers pray to this god for rain," or "Arcane magic is taxed in this region")._
 
 | Order    | Japanese | Romaji        | "The ""Taking Back"" Nuance"                                                                        |
 | -------- | -------- | ------------- | --------------------------------------------------------------------------------------------------- |
@@ -39,15 +27,3 @@ _How does this affect people daily? (e.g., "Farmers pray to this god for rain," 
 | 7th Tide | ななの潮 | Nana no Shio  | "The Taking of the Light: The sun is obscured by massive, rising crests that never break."          |
 | 8th Tide | はちの潮 | Hachi no Shio | "The Final Beckoning: The ocean rises to meet the sky, and the land is no more."                    |
 
----
-
-## 🗝️ Symbols & Artifacts
-
-- **Iconography:** (e.g., "A sun with seven rays," "The color violet")
-- **Related Items:** [[Links_to_Items_or_Relics]]
-
----
-
-## 📝 DM Notes (The "Hidden" Truth)
-
-- (e.g., "The religion is actually a front for a cult," or "The 'historical' hero was actually the villain.")

@@ -17,3 +17,8 @@ vibration of a faucet recoiling under impossible water pressure.
 になったような気分で立ち尽くし、彼らが「地元民」を演じるのを眺めていた。誰も、そ
 の兆候には気づいていなかった。下水道を昇るサンゴ。異常な水圧に跳ね返る蛇口の振動
 に。
+
+Act 1. 
+
+Act 2.
+Act 3.

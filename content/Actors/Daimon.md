@@ -1,3 +1,8 @@
+---
+id: Daimon
+aliases: []
+tags: []
+---
 > [!abstract]-Metadata
 > type:: NPC, PC, Deity, Organization, Monster
 > Race:: race
