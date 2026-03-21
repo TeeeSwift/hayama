@@ -4,8 +4,8 @@ aliases: []
 tags: []
 ---
 > [!abstract]-Metadata
-> type:: NPC, PC, Deity, Organization, Monster
+> type:: Organization
 > Race:: race
 > Location:: Link_to_Location
-> Tags::
+> Tags:: #faction
 

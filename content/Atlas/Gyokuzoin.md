@@ -7,7 +7,7 @@ tags: []
 > [!abstract]-
 > type:: Site  
 > Region:: [[Hayama]]  
-> Ruler/Owner:: [[Nori-san]]  
+> Ruler/Owner:: [[Teru]]  
 > Tags:: #atlast/location
 
 ## 📍 Overview

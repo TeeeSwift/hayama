@@ -1,5 +1,5 @@
 ---
-id: Nori-san
+id: Teru
 aliases: []
 tags: []
 ---
