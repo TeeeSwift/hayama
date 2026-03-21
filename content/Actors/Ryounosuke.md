@@ -8,6 +8,8 @@ tags: []
 > Location:: Link_to_Location
 > Tags:: #NPC #Drifted
 
+![[ducks.jpg|300]]
+
 Child god and literal incarnation of Rain and Storms.
 
 His temperament is chaotic and can manifest as anything from a cool breeze, to a raging storm.
