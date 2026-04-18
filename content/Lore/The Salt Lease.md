@@ -4,6 +4,12 @@ aliases: []
 tags: []
 ---
 
+> Note: The "Salt Lease" is not a literal contract.
+> It is a term used by mortals and scholars to describe the perceived
+> relationship between Hayama and [[Watatsumi]].
+> In reality, the events attributed to the Salt Lease are part of
+> Watatsumi's natural cycle of ebb and reclaiming.
+
 The founders of [[Hayama]] were not humans, but Spirits of the Foam and Shore
 (perhaps Kodama of the coastal trees or Iso-onago). They desired to live as
 mortals—to experience the brevity, heat, and passion of human life. The great
