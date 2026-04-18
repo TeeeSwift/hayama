@@ -17,97 +17,113 @@ or the ringing in your ears after a temple bell.
 
 It lives in plain sight:
 
-- In the brief glimmer on the water just after dusk, as if the ocean playing with the last bit of sunlight.
-- In the laps of waves hitting the shore, that make you question whether it knowingly stops right before it hits your toes.
-- In fishing nets that never turn up empty, regardless of where they are cast.
-- In the sense, felt but never seen, that something is watching with calm, ancient eyes.
-
-Local legends echo this magic. It is these stories that become the foundations of prayers whispered at shrines and the fire of festival lanterns burning late into the summer nights. The repeated stories little old ladies tuck away within their familiar old yarns, threads of ancient lore. Fishermen's tales laced with superstitions and cast between each other the same way they cast their nets at dawn. The same way their fathers did, and their fathers' fathers. And those that came long before them.
+- In the brief glimmer on the water just after dusk
+- In waves that seem to stop just short of your feet
+- In nets that never return empty
+- In the sense that something vast is quietly watching
 
 For the sea in Hayama is different.
 
-People live their lives, run their shops, raise their families, and carry on as though Hayama is simply another coastal town.
+And lately, though no one speaks of it,
+things have begun to slip.
 
-And lately, though no one speaks of it, the air has taken on a quiet expectancy, like the breath held between tides.
-
-Your story begins here, in a place where the veil is thin,
-the ocean is old,
-and magic floats just beneath the waves,
-waiting for the right moment to rise.
+---
 
 ## Core Premise
 
-Hayama is a town built on a divine lease.
+Hayama exists in defiance of the sea.
 
-A thousand years ago, [[Watatsumi]] raised land from the sea so coastal spirits could live as mortals under [[Lore/The Salt Lease|The Salt Lease]]. That lease is now nearing its end.
+[[Watatsumi]] follows a natural cycle of ebb and reclaiming. Long ago, a group
+now known as [[Actors/The Anchored|The Anchored]] constructed
+[[Lore/The Barrier|The Barrier]] to prevent that cycle from reclaiming the town.
 
-Most of the town does not know this.
+For generations, it worked.
 
-The sea does.
+Recently, part of the Barrier was destroyed during modern development.
+
+Now the sea has begun to return — not all at once, but in fragments.
 
 ---
 
 ## Player-Facing Frame
 
-The campaign begins with the party entering Hayama as outsiders, drawn into a town that feels subtly wrong:
+The campaign begins with the party entering Hayama as outsiders, drawn into a
+town that feels subtly wrong:
 
-- infrastructure behaving strangely
-- natural systems under stress
+- localized supernatural events
+- infrastructure behaving inconsistently
 - people ignoring or rationalizing impossible phenomena
-- a growing sense that something obvious is being collectively missed
+- a sense that something is being collectively misinterpreted
 
-The surface story presents as a strange coastal town with social, ecological, and supernatural anomalies.
+Early on, events appear isolated or coincidental.
 
-The underlying story is a borrowed world approaching its expiration.
+They are not.
 
 ---
 
-## Hidden Truth Structure
+## What Is Actually Happening
 
-1. The town is strange
-2. The town is supernatural
-3. The town has a patron
-4. The town is leased
-5. The town is ending
+- The Barrier is failing
+- The sea is beginning to reclaim in localized, unstable ways
+- [[Actors/The Anchored|The Anchored]] are attempting to contain the damage
+- Their methods appear secretive, manipulative, or harmful
+
+Meanwhile:
+
+- A buried [[Lore/The Artifact|Artifact]] created by the Anchored has begun to
+  leak divine energy
+- This has created strange, fae-like entities in the mountains
+- These entities appear to be a separate threat, but are a byproduct of the
+  same failure
 
 ---
 
 ## Act Structure
 
-### Act I — Uncanny Normalcy
+### Act I — Misdiagnosis
 
-Small-scale anomalies, social denial, and early supernatural leakage.
+- Uncanny, deniable supernatural events
+- Repeated incidents in specific locations
+- The Anchored appear to be responsible
 
-### Act II — Revelation and Alignment
+Players are encouraged to believe the Anchored are causing or manipulating the
+crisis.
 
-Discovery of [[Lore/The Salt Lease|The Salt Lease]], [[Actors/The Drifted|The Drifted]], and [[Actors/The Anchored|The Anchored]]. Factions emerge.
+### Act II — System Reveal
 
-### Act III — The Beckoning Tide
+- Discovery of [[Lore/The Barrier|The Barrier]] and its failure
+- Understanding that the Anchored are managing a collapsing system
+- Uneasy cooperation begins
 
-The stages of [[Lore/The Beckoning Tide|The Beckoning Tide]] begin affecting daily life.
+### Act III — Compounding Failure
+
+- Barrier degradation accelerates
+- Artifact leakage worsens
+- Multiple threats overlap (tide events, fae entities, unstable zones)
+
+The situation becomes impossible to ignore.
 
 ### Act IV — Resolution
 
-The party must engage with the terms of the lease.
+The party must decide how to respond to the system itself:
 
-Possible paths:
-
-- Sacrifice
-- Recovery of a divine artifact
-- Transformation into something new
-- Reinterpretation of the pact
+- Repair or reinforce the Barrier
+- Allow the reclaiming to occur
+- Resolve or stabilize the Artifact
+- Create a new equilibrium
 
 ---
 
 ## Core Tensions
 
-- Ignorance vs awareness
-- Mortality vs origin
-- Belonging vs borrowing
-- Stability vs change
+- Misunderstanding vs truth
+- Control vs inevitability
+- Stability vs adaptation
+- Responsibility vs survival
 
 ---
 
 ## Campaign Question
 
-If a borrowed life becomes real through lived experience, does it still have to be given back?
+If a system that sustains life is built on resisting a natural force,
+should it be preserved, repaired, or allowed to fail?
