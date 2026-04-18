@@ -29,6 +29,12 @@ Watatsumi reclaiming what was granted through [[Lore/The Salt Lease|The Salt Lea
 - Most present-day residents do not understand the true origin of Hayama.
 - Some Anchored and restored divine figures know the danger is real.
 - The campaign note frames the story around an "Interspecies Wellness Center," outsider newcomers, strange infrastructure pressure, coral in the sewers, and a sense that locals are missing obvious omens.
+- The campaign follows a four-act structure:
+  - Act I: Uncanny normalcy and denial
+  - Act II: Revelation of the Salt Lease and faction alignment
+  - Act III: Active manifestation of the Beckoning Tide
+  - Act IV: Resolution of the lease terms
+- See [[Chronicles/The Campaign]] for the current campaign spine.
 
 ## Important Powers And Groups
 
