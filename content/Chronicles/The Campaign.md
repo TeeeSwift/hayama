@@ -8,7 +8,33 @@ tags:
 ## Session Planning
 
 - [[Chronicles/Session 1/index|Session 1]]
- 
+
+## Teaser
+
+Here, magic hums low and constant,
+like the soft rumble beneath a wave,
+or the ringing in your ears after a temple bell.
+
+It lives in plain sight:
+
+- In the brief glimmer on the water just after dusk, as if the ocean playing with the last bit of sunlight.
+- In the laps of waves hitting the shore, that make you question whether it knowingly stops right before it hits your toes.
+- In fishing nets that never turn up empty, regardless of where they are cast.
+- In the sense, felt but never seen, that something is watching with calm, ancient eyes.
+
+Local legends echo this magic. It is these stories that become the foundations of prayers whispered at shrines and the fire of festival lanterns burning late into the summer nights. The repeated stories little old ladies tuck away within their familiar old yarns, threads of ancient lore. Fishermen's tales laced with superstitions and cast between each other the same way they cast their nets at dawn. The same way their fathers did, and their fathers' fathers. And those that came long before them.
+
+For the sea in Hayama is different.
+
+People live their lives, run their shops, raise their families, and carry on as though Hayama is simply another coastal town.
+
+And lately, though no one speaks of it, the air has taken on a quiet expectancy, like the breath held between tides.
+
+Your story begins here, in a place where the veil is thin,
+the ocean is old,
+and magic floats just beneath the waves,
+waiting for the right moment to rise.
+
 ## Core Premise
 
 Hayama is a town built on a divine lease.
