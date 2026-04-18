@@ -29,6 +29,8 @@ ways.
 ## Canon Spine
 
 - [[Actors/Watatsumi|Watatsumi]] follows a natural cycle of ebb and reclaiming.
+- [[Actors/Watatsumi|Watatsumi]] reacts to concentrations of divinity more like
+  a natural force or organism than a thinking strategist.
 - [[Actors/The Anchored|The Anchored]] constructed [[Lore/The Barrier|The Barrier]]
   to interrupt this cycle.
 - [[Lore/The Barrier|The Barrier]] is physically grounded at multiple sacred
@@ -46,6 +48,19 @@ ways.
   town.
 - With [[Lore/The Barrier|The Barrier]] weakened, [[Lore/The Artifact|The Artifact]]
   is now leaking divine energy and creating fae-like entities in the mountains.
+- In response to instability, the Anchored have constructed multiple auxiliary
+  systems to manage divine pressure and tide behavior:
+  - a relief realm that acts as an overflow space for redirected tide events
+  - divinity tracking and monitoring of individuals with high latent divine
+    signatures
+  - bleed-off sites that disperse excess divine energy
+  - tide lures that redirect reclaiming events into controlled areas
+  - false anchor points designed to misdirect pressure away from critical sites
+  - suppression methods that reduce or mask divine presence in individuals
+  - dream or trance-based interfaces used to read changes in the tide
+  - controlled partial descent events used to relieve mounting pressure
+- These systems are imperfect and often produce visible side effects that
+  appear dangerous or malicious.
 
 ## Active Story Tension
 
@@ -62,6 +77,14 @@ ways.
   - conceal the existence of the barrier
   - conduct ongoing experiments
   - quietly relocate or monitor affected individuals
+- Multiple Anchored systems are active across Hayama, creating:
+  - repeated supernatural events in specific locations
+  - patterns of disappearances or disturbances
+  - the appearance of intentional manipulation
+- These systems are widely misinterpreted by the Drifted as evidence that the
+  Anchored are causing the crisis.
+- Some Anchored actions, such as redirecting or allowing small-scale reaping
+  events, appear indistinguishable from deliberate harm.
 - In truth, the Anchored are actively investigating the failure and attempting
   to repair [[Lore/The Barrier|The Barrier]].
 - Meanwhile, [[Lore/The Artifact|The Artifact]] has begun leaking divinity,
@@ -69,10 +92,26 @@ ways.
 
 ## Campaign Structure
 
-- Act I: Uncanny manifestations, denial, and suspicion of the Anchored
-- Act II: Discovery of the barrier, its failure, and the Anchored's true role
-- Act III: Escalation of the tide and emergence of tangible threats
-- Act IV: Resolution of the barrier, the artifact, and Watatsumi's cycle
+- Act I: Misdiagnosis
+  - Uncanny manifestations, deniable reaping events, and rising suspicion of
+    the Anchored
+  - Players are encouraged to interpret Anchored systems as conspiratorial,
+    manipulative, or openly harmful
+- Act II: System Reveal
+  - Discovery of the barrier, its failure, and the Anchored's true role as
+    operators trying to contain a worsening crisis
+  - Cooperation with the Anchored becomes possible, though they remain morally
+    compromised by past experiments and present methods
+- Act III: Compounding Failure
+  - Barrier degradation, artifact leakage, and relief-system instability create
+    overlapping threats
+  - The tide becomes harder to ignore, the mountains become more dangerous, and
+    public panic or factional fracture intensifies
+- Act IV: Resolution
+  - The campaign resolves around what to preserve, what to sacrifice, and how
+    to respond to Watatsumi's cycle
+  - The final choice may involve repairing the barrier, altering it, accepting
+    reclaiming, resolving the artifact, or constructing a new equilibrium
 - See [[Chronicles/The Campaign]] for the current campaign spine.
 
 ## Important Powers And Groups
