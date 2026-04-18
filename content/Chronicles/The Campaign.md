@@ -18,6 +18,10 @@ vibration of a faucet recoiling under impossible water pressure.
 の兆候には気づいていなかった。下水道を昇るサンゴ。異常な水圧に跳ね返る蛇口の振動
 に。
 
+## Session Planning
+
+- [[Chronicles/Session 1/index|Session 1]]
+
 Act 1. 
 
 Act 2.
