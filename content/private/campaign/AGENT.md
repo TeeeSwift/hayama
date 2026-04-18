@@ -1,0 +1,59 @@
+---
+tags:
+  - private
+  - campaign
+---
+
+# Codex Workflow
+
+## Startup Order
+
+1. Always begin by reading [[private/campaign/AGENT]].
+2. Then read [[private/campaign/_summary]].
+3. Treat [[private/campaign/_summary]] as the primary compressed context.
+4. Read additional files only when required by the task.
+
+## Working Rules
+
+1. Preserve Obsidian markdown conventions, including wikilinks, headings, and frontmatter.
+2. Prefer targeted edits over broad rewrites.
+3. Reuse existing notes, folders, and conventions when reasonable.
+4. Refactor only when it improves clarity, consistency, or future maintainability.
+5. If existing notes conflict, reconcile them carefully and preserve useful material.
+6. Preserve Quartz publishing compatibility and avoid unnecessary changes to site config, content organization, slugs, and published paths.
+7. Keep private coordination notes in `content/private/` unless they are intentionally meant to publish.
+
+## Summary Maintenance
+
+1. Update [[private/campaign/_summary]] whenever canon, world state, factions, NPC relationships, active arcs, or other future-relevant facts change.
+2. Keep [[private/campaign/_summary]] concise and high-signal.
+3. Do not duplicate full notes into the summary; link out to the source notes instead.
+4. Add only enough navigation context to help future sessions find the next relevant file quickly.
+
+## File Reading Strategy
+
+1. Start with the summary and identify the minimum additional files needed.
+2. Prefer reading index notes or the most canonical note for a topic before opening many leaf notes.
+3. Avoid scanning the whole vault unless the task genuinely requires it.
+4. When adding new notes, link them from an existing public index note if that improves discoverability.
+
+## Current Structure
+
+- Public campaign material lives in:
+  - `content/index.md`
+  - `content/Atlas/`
+  - `content/Actors/`
+  - `content/Lore/`
+  - `content/Chronicles/`
+- Private operational notes for Codex live in:
+  - `content/private/campaign/`
+- Quartz config and publishing live in:
+  - `quartz.config.ts`
+  - `.github/workflows/deploy.yml`
+
+## Publishing Guardrails
+
+1. `content/private/` is the safe place for non-published agent notes because Quartz already ignores `private`.
+2. Do not move or rename published notes casually; that can affect routes, backlinks, and existing links.
+3. Be cautious with frontmatter, aliases, ids, and folder names in `content/`.
+4. Preserve the current GitHub Pages workflow unless a task explicitly requires deployment changes.

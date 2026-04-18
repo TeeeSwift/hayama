@@ -7,5 +7,11 @@ tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
 private/
+!content/private/
+content/private/*
+!content/private/campaign/
+content/private/campaign/*
+!content/private/campaign/AGENT.md
+!content/private/campaign/_summary.md
 .replit
 replit.nix
