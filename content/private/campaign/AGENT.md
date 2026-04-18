@@ -57,3 +57,13 @@ tags:
 2. Do not move or rename published notes casually; that can affect routes, backlinks, and existing links.
 3. Be cautious with frontmatter, aliases, ids, and folder names in `content/`.
 4. Preserve the current GitHub Pages workflow unless a task explicitly requires deployment changes.
+
+## Write / Commit Preference
+
+1. Do not write files immediately after each small interaction.
+2. First gather the proposed set of file changes and summarize them.
+3. Ask for approval once before applying repo changes.
+4. When possible, batch related file edits into a single commit.
+5. Prefer fewer, grouped commits over many small commits unless explicitly requested otherwise.
+6. Default to planning mode first and write mode second.
+7. Do not create exploratory files without explicit approval.
