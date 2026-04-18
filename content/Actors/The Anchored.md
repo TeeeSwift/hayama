@@ -79,6 +79,74 @@ of the tide and its manifestations.
 This contributes to a growing belief that they are manipulating or controlling
 the population.
 
+## Systems and Interventions
+
+Beyond isolated experiments, the Anchored operate a network of active systems
+designed to manage the interaction between divine forces and the physical
+world.
+
+These systems are often invisible to the public and are frequently
+misinterpreted.
+
+### Relief Realm
+
+The Anchored have constructed a contained space that functions as an overflow
+for redirected tide events. When pressure from Watatsumi builds, it can be
+diverted into this realm instead of manifesting directly in Hayama.
+
+This space is unstable and not fully understood, and may trap or distort what
+enters it.
+
+### Divinity Tracking
+
+The Anchored monitor individuals with high latent divinity, particularly among
+the Drifted. These individuals are more likely to attract reclaiming events.
+
+This tracking often appears as surveillance or targeting.
+
+### Bleed-Off Sites
+
+Certain locations are used to disperse excess divine energy. These sites can
+cause discomfort or weakness in those nearby and are often avoided by animals.
+
+They are sometimes mistaken for harmful or cursed locations.
+
+### Tide Lures
+
+The Anchored use controlled signals or constructs to attract reclaiming events
+to specific locations. This allows them to redirect dangerous manifestations
+away from populated areas.
+
+These events can appear as if the Anchored are causing or summoning the tide.
+
+### False Anchor Points
+
+Decoy sites are used to misdirect pressure within the barrier system. These
+locations resemble functional anchor points but exist to draw attention or
+force away from more critical nodes.
+
+### Suppression Methods
+
+The Anchored employ methods to reduce or mask divine presence in individuals,
+making them less visible to Watatsumi's influence.
+
+These methods may take the form of objects, rituals, or environmental effects,
+and are often perceived as control mechanisms.
+
+### Dream Interface
+
+Some Anchored interact with the tide through dreams or altered states,
+interpreting its behavior and anticipating pressure changes.
+
+This practice can appear as possession or loss of control.
+
+### Partial Descent Protocol
+
+In extreme cases, the Anchored may allow limited reclaiming events to occur in
+controlled ways to prevent larger systemic collapse.
+
+These actions can appear indistinguishable from sacrifice or deliberate harm.
+
 ### Current Role
 
 Despite appearances, the Anchored are actively attempting to repair the
