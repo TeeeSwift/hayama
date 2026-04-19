@@ -20,11 +20,15 @@ constructed a distributed barrier system across Hayama to suppress this
 reclaiming phase and stabilize the town as a permanent settlement.
 
 Recently, that barrier has been compromised when a sacred anchor point was
-destroyed during modern development approved by a geological consultant,
-Ayaka.
+destroyed during modern development approved by [[Actors/Ayaka|Ayaka]].
 
 As a result, Watatsumi's reclaiming has begun again in fragmented, unnatural
 ways.
+
+## Player Character Anchors
+
+- [[Actors/Ayaka|Ayaka]]: outsider perspective, transformation, and emergent interaction with divine systems
+- [[Actors/Vincent|Vincent]]: local perspective, inherited lineage, and continuity across generations
 
 ## Canon Spine
 
@@ -172,7 +176,7 @@ ways.
   mortal interpretation rather than literal cosmology.
 - Many actor and atlas notes still contain template scaffolding or partial
   metadata.
-- Existing public index notes already provide lightweight navigation:
+- Existing public index notes now provide improved navigation:
   - [[index]]
   - [[Actors/index]]
   - [[Atlas/index]]
@@ -190,8 +194,8 @@ ways.
   [[Actors/The Morning Tide|The Morning Tide]].
 - For resurrection and temple threads, check [[Actors/Zenji|Zenji]],
   [[Actors/Teru|Teru]], and [[Atlas/Gyokuzoin|Gyokuzoin]].
-- For player-facing character context, inspect the specific actor notes as
-  needed instead of bulk-reading `Actors/`.
+- For player-facing character context, inspect [[Actors/Ayaka|Ayaka]] and
+  [[Actors/Vincent|Vincent]] before expanding into other actor notes.
 
 ## Private Publishing Convention
 
