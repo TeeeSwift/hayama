@@ -14,6 +14,7 @@ Planning a magical version of Hayama.
 - [[Chronicles/The Campaign|The Campaign]]
 - [[Lore/The Barrier|The Barrier]]
 - [[Lore/The Artifact|The Artifact]]
+- [[Lore/Themes and Motifs|Themes and Motifs]]
 
 ## Player Characters
 
