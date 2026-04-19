@@ -47,6 +47,18 @@ stabilize, or redefine their role within Watatsumi's cycle.
 These efforts are often hidden from the public and have contributed to their
 reputation as secretive or manipulative.
 
+### Underlying Assumption
+
+Most Anchored experimentation treats divinity as something that can be
+separated, stored, or redistributed.
+
+This assumption has repeatedly proven flawed.
+
+Divinity behaves less like a resource and more like an intrinsic pattern or
+state of being. Attempts to extract it directly tend to produce instability.
+
+More stable outcomes appear to involve transformation rather than separation.
+
 ### Divinity Separation
 
 One major line of experimentation attempted to externalize divine essence into
