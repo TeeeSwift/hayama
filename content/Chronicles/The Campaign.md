@@ -55,6 +55,9 @@ town that feels subtly wrong:
 - people ignoring or rationalizing impossible phenomena
 - a sense that something is being collectively misinterpreted
 
+Some individuals seem to notice more than others. A performer struggling to
+find her voice begins to hear something in the tide that others cannot.
+
 Early on, events appear isolated or coincidental.
 
 They are not.
