@@ -57,6 +57,8 @@ town that feels subtly wrong:
 
 Some individuals seem to notice more than others. A performer struggling to
 find her voice begins to hear something in the tide that others cannot.
+A local heir, long rooted in the town, begins to realize that something within
+his own household has never truly changed.
 
 Early on, events appear isolated or coincidental.
 
