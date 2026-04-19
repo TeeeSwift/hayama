@@ -19,8 +19,9 @@ Long ago, the group now known as [[Actors/The Anchored|The Anchored]]
 constructed a distributed barrier system across Hayama to suppress this
 reclaiming phase and stabilize the town as a permanent settlement.
 
-Recently, that barrier has been compromised when a sacred anchor point was
-destroyed during modern development approved by [[Actors/Ayaka|Ayaka]].
+Recently, that barrier has been compromised when a shoreline stabilization
+project—approved through normal civic processes and signed off by
+[[Actors/Ayaka|Ayaka]]—damaged a buried anchor point near the coast.
 
 As a result, Watatsumi's reclaiming has begun again in fragmented, unnatural
 ways.
@@ -43,7 +44,12 @@ ways.
   suppressing unstable divine energy.
 - A recent breach in [[Lore/The Barrier|The Barrier]] has destabilized both the
   tide and previously suppressed forces.
-- One such Anchored, [[Actors/Chizuru|Chizuru]], embodies the rare convergence of beings finding each other in darkness, and remains tied to a single lineage across generations.
+- The shoreline project that caused the breach was publicly justified as
+  erosion control and long-term coastal protection, and was supported by
+  [[Actors/The Mayor|The Mayor]] as part of normal civic governance.
+- One such Anchored, [[Actors/Chizuru|Chizuru]], embodies the rare convergence of
+  beings finding each other in darkness, and remains tied to a single lineage
+  across generations.
 - The Anchored have conducted multiple experiments attempting to:
   - escape their divine nature
   - stabilize or replace the barrier
@@ -58,14 +64,32 @@ ways.
 
 - [[Lore/The Barrier|The Barrier]] has been partially destroyed and is no longer
   functioning correctly.
-- Reaping events have begun
+- The initial breach occurred at a coastal stabilization site, but its effects
+  are not localized and appear to propagate through the system.
+- Reaping events have begun:
+  - localized, surreal manifestations of the sea
+  - disappearances that most residents cannot fully perceive
+- Early incidents appear subtle and deniable
+- The [[Actors/The Drifted|The Drifted]] believe the Anchored are responsible
+- The Anchored appear secretive and suspicious as they monitor sites,
+  intervene quietly, and attempt to contain emerging issues
 
 ## Campaign Structure
 
 - Act I: Misdiagnosis
+  - Uncanny manifestations and repeated incidents near development and
+    infrastructure sites
+  - The shoreline project appears to be a triggering event, but responsibility
+    is unclear
 - Act II: System Reveal
+  - Discovery of the barrier, its distributed nature, and its failure
+  - Understanding that the Anchored are managing a worsening situation
 - Act III: Compounding Failure
+  - Barrier degradation, artifact leakage, and cascading failures create
+    overlapping threats
 - Act IV: Resolution
+  - The campaign resolves around what to preserve, what to sacrifice, and how
+    to respond to Watatsumi's cycle
 
 ## Important Powers And Groups
 
@@ -78,8 +102,13 @@ ways.
 
 ## Known NPC And PC Relationships
 
-- [[Actors/Vincent|Vincent]] is served by [[Actors/Chizuru|Chizuru]], an Anchored who has remained with his family for generations
+- [[Actors/Vincent|Vincent]] is served by [[Actors/Chizuru|Chizuru]]
+- [[Actors/Ayaka|Ayaka]] approved the shoreline project that damaged a barrier
+  anchor point
 
 ## Navigation For Future Work
 
 - Start broad with [[index]]
+- For cosmology and system behavior, see [[Lore/The Barrier|The Barrier]]
+- For player-facing context, see [[Actors/Ayaka|Ayaka]] and
+  [[Actors/Vincent|Vincent]]
