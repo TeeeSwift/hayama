@@ -9,6 +9,19 @@ tags: []
 The Artifact is a failed creation of [[Actors/The Anchored|The Anchored]],
 resulting from an attempt to separate divine essence from an Anchored being.
 
+## Nature of the Failure
+
+Attempts to extract and store divinity have consistently resulted in
+instability.
+
+Divinity does not behave like a removable resource. It is closer to identity,
+pattern, or process.
+
+Efforts that treat it as something that can be cleanly separated or contained
+have produced volatile and destructive outcomes.
+
+More stable results appear to involve transformation rather than separation.
+
 ## Origin
 
 The Anchored sought to externalize their divinity into a physical vessel so
