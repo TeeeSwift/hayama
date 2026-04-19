@@ -6,30 +6,31 @@ tags:
   - actor
 ---
 
-> [!abstract]-Metadata
-> type:: NPC, PC, Deity, Organization, Monster
-> Race:: race
-> Location:: Link_to_Location
-> Tags:: #PlayerCharacter
-
 # Ayaka
 
 ## Elevator Pitch
 
-A geological researcher turned struggling singer who unknowingly triggered a
-barrier breach and now stands at the intersection of science, art, and divine
-transformation.
+A geological and environmental consultant who unknowingly triggered a barrier
+breach during a city-funded shoreline stabilization project, now standing at
+the intersection of science, civic responsibility, and divine transformation.
 
 ---
 
 ## Surface Identity
 
-- Profession: Geological consultant
+- Profession: Geological and environmental consultant
+- Specialization: Safety, disaster preparedness, and environmental assessment
+  for construction and development projects
 - Aspiration: Singer / performer
 - Disposition: Analytical, observant, but searching for expression
 
-Ayaka approaches the world through structure and systems, but feels drawn
-toward something less rigid—something expressive and transformative.
+Ayaka evaluates projects for:
+- geological stability
+- environmental risk
+- disaster preparedness
+
+She approaches the world through structure and systems, but feels drawn toward
+something less rigid—something expressive and transformative.
 
 ---
 
@@ -37,11 +38,16 @@ toward something less rigid—something expressive and transformative.
 
 Ayaka occupies a rare position within the current crisis in Hayama:
 
-- She approved the development project that destroyed a
-  [[Lore/The Barrier|The Barrier]] anchor point (unintentionally)
-- She has begun to perceive reaping events more clearly than most
-- She has been singled out by [[Actors/Mollusk|Mollusk]] for reasons not
-  immediately obvious to others
+- She approved a city-funded shoreline stabilization project near the coast
+- During drilling and reinforcement work, a buried
+  [[Lore/The Barrier|Barrier]] anchor point was damaged
+- The anomaly she observed at the site was interpreted as a stable geological
+  irregularity rather than something artificial or divine
+
+Her decision was technically reasonable based on available data.
+
+The resulting failure was not due to negligence, but to the limits of the
+framework she was working within.
 
 She is both a participant in and a catalyst for unfolding events.
 
@@ -80,6 +86,7 @@ Ayaka represents:
 - Structure → Expression
 - Analysis → Transformation
 - Control → Adaptation
+- Correct reasoning within incomplete systems
 
 She mirrors a fundamental tension in the setting: whether divine forces can
 be controlled, or must instead be reshaped.
@@ -101,7 +108,8 @@ bridge.
 ## Campaign Role
 
 - Early: Witness and partial perceiver of events others dismiss
-- Mid: Interpreter and participant in Anchored systems
+- Mid: Recognition that observed anomalies do not follow expected geological
+  or environmental patterns
 - Late: Potential mediator between opposing approaches to divinity
 
 Her choices may influence how the system surrounding Hayama ultimately
