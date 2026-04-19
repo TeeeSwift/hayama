@@ -21,6 +21,7 @@ tags: []
 - [[Actors/Watatsumi|Watatsumi]]
 - [[Actors/Mollusk|Mollusk]]
 - [[Actors/The Mayor|The Mayor]]
+- [[Actors/Chizuru|Chizuru]]
 
 ## NPCs
 
