@@ -39,7 +39,8 @@ now known as [[Actors/The Anchored|The Anchored]] constructed
 
 For generations, it worked.
 
-Recently, part of the Barrier was destroyed during modern development.
+Recently, part of the Barrier was damaged during a city-funded shoreline
+stabilization project near the coast.
 
 Now the sea has begun to return — not all at once, but in fragments.
 
@@ -47,18 +48,22 @@ Now the sea has begun to return — not all at once, but in fragments.
 
 ## Player-Facing Frame
 
-The campaign begins with the party entering Hayama as outsiders, drawn into a
-town that feels subtly wrong:
+The campaign begins with the party entering or moving through Hayama from
+different positions of familiarity:
+
+- a local heir tied to land, property, and long-standing relationships
+- an external consultant whose work intersects with civic development
+
+They are drawn into a town that feels subtly wrong:
 
 - localized supernatural events
 - infrastructure behaving inconsistently
 - people ignoring or rationalizing impossible phenomena
 - a sense that something is being collectively misinterpreted
 
-Some individuals seem to notice more than others. A performer struggling to
-find her voice begins to hear something in the tide that others cannot.
-A local heir, long rooted in the town, begins to realize that something within
-his own household has never truly changed.
+Some individuals seem to notice more than others. A consultant begins to
+recognize that observed anomalies do not match expected models. A local begins
+to see that similar problems are appearing across multiple sites.
 
 Early on, events appear isolated or coincidental.
 
@@ -69,6 +74,8 @@ They are not.
 ## What Is Actually Happening
 
 - The Barrier is failing
+- The initial breach occurred at a coastal stabilization site, but its effects
+  are not confined to that location
 - The sea is beginning to reclaim in localized, unstable ways
 - [[Actors/The Anchored|The Anchored]] are attempting to contain the damage
 - Their methods appear secretive, manipulative, or harmful
@@ -88,7 +95,7 @@ Meanwhile:
 ### Act I — Misdiagnosis
 
 - Uncanny, deniable supernatural events
-- Repeated incidents in specific locations
+- Repeated incidents near development and infrastructure sites
 - The Anchored appear to be responsible
 
 Players are encouraged to believe the Anchored are causing or manipulating the
@@ -124,7 +131,7 @@ The party must decide how to respond to the system itself:
 - Misunderstanding vs truth
 - Control vs inevitability
 - Stability vs adaptation
-- Responsibility vs survival
+- Responsibility vs incomplete knowledge
 
 ---
 
