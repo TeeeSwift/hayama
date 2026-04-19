@@ -9,26 +9,64 @@ tags: []
 > Location:: [[Town Hall]]  
 > Tags:: #Anchored  
 
-He's an anchored, and is an octopus deity.
+He is one of [[Actors/The Anchored|The Anchored]], an octopus deity serving as
+the mayor of [[Hayama]].
 
-Octopus characteristics I can use in his character creation
+## Characteristics
+
 - 3 hearts
 - Shapeshifting
-- Distributed intelligence (Neurons in arms)
-- Very Crafty
-- Die after offspring hatch
+- Distributed intelligence (neurons in arms)
+- Highly adaptive and strategic
 
-Is the mayor of [[Hayama]]. Every few decades, he'll ask a friend to defeat him in
-the election. Once he loses, he shapeshifts to a new form and continues to be
-mayor.
+## Public Role
 
-He is a go-to person for anchored who are trying to "die" or shapeshift. He
-basically helps them fake their death or come up with/feign reasons that they have to
-leave town.
+As mayor, he oversees civic initiatives, including:
 
-In the past, this has caused him to be suspected of serial murder or various conspiracies.
+- infrastructure maintenance
+- coastal management
+- development and construction approvals
 
-He's also the patron of [[Ryuta]]. He meant to consign someone to be his
-secretary, but made a mistake and formed a contract with Ryuta.
+He recently supported a city-funded shoreline stabilization initiative along
+the coast, intended to reduce erosion and protect long-term settlement
+viability.
 
+This project was approved through normal civic processes and appeared entirely
+reasonable.
 
+## Hidden Context
+
+As an Anchored, the Mayor understands aspects of the Barrier and its role in
+stabilizing Hayama.
+
+However, the system is:
+- distributed
+- partially obscured even to its operators
+- difficult to model precisely
+
+In supporting the shoreline project, he may have:
+
+- recognized the general importance of the area
+- underestimated the exact location or sensitivity of a Barrier anchor point
+- misjudged how local interventions would interact with deeper structures
+
+His involvement reflects not malice, but:
+
+> decision-making under incomplete understanding
+
+## Other Roles
+
+He is a go-to figure for Anchored who are attempting to "die" or transition
+forms. He helps them:
+
+- fake deaths
+- construct plausible identities
+- leave town without drawing attention
+
+This has led to rumors of:
+- conspiracies
+- disappearances
+- possible murder
+
+He is also the patron of [[Actors/Ryuta|Ryuta]], having unintentionally formed
+that contract.
