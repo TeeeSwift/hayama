@@ -22,6 +22,10 @@ tags:
 5. If existing notes conflict, reconcile them carefully and preserve useful material.
 6. Preserve Quartz publishing compatibility and avoid unnecessary changes to site config, content organization, slugs, and published paths.
 7. Keep private coordination notes in `content/private/` unless they are intentionally meant to publish.
+8. Actively align ideas with established themes and motifs.
+9. When proposing new elements, briefly indicate which themes they reinforce.
+10. Prefer expanding or sharpening existing themes before introducing new ones.
+11. If a new theme seems necessary, propose it explicitly and justify how it is distinct from existing themes before adding it.
 
 ## Summary Maintenance
 
