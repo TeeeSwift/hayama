@@ -30,6 +30,8 @@ ways.
 
 - [[Actors/Ayaka|Ayaka]]: outsider perspective, transformation, and emergent interaction with divine systems
 - [[Actors/Vincent|Vincent]]: local perspective, inherited lineage, and continuity across generations
+- [[Actors/Player Characters/Ryuta|Ryuta]]: system misidentification, unintended divine interface, and anomalous connection
+- [[Actors/Player Characters/Marin|Marin]]: misplaced divinity, drifted inheritance, and misalignment with natural systems
 
 ## Canon Spine
 
@@ -73,6 +75,20 @@ ways.
 - The [[Actors/The Drifted|The Drifted]] believe the Anchored are responsible
 - The Anchored appear secretive and suspicious as they monitor sites,
   intervene quietly, and attempt to contain emerging issues
+
+## Emerging System Anomalies
+
+- [[Actors/Player Characters/Ryuta|Ryuta]] has been incorrectly registered as a
+  valid interface for [[Actors/The Mayor|The Mayor]] due to a clerical error in
+  a divine system
+- This creates a weak, intermittent, bidirectional connection with no clear
+  intent or purpose
+- [[Actors/Player Characters/Marin|Marin]] is a Drifted carrying displaced
+  divinity originating from [[Actors/Zenjin|Zenjin]]
+- [[Actors/Zenjin|Zenjin]] was improperly revived by [[Actors/Teru|Teru]],
+  causing his divinity to settle incorrectly
+- Zenjin does not want the divinity returned and instead seeks to correct the
+  resulting instability
 
 ## Campaign Structure
 
