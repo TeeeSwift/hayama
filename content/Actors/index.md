@@ -10,6 +10,8 @@ tags: []
 
 - [[Actors/Ayaka|Ayaka]]
 - [[Actors/Vincent|Vincent]]
+- [[Actors/Player Characters/Ryuta|Ryuta]]
+- [[Actors/Player Characters/Marin|Marin]]
 
 [Player Character](/tags/PlayerCharacter)
 
