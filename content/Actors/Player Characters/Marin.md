@@ -54,17 +54,17 @@ This creates an internal tension:
 
 Marin is one of [[Actors/The Drifted|The Drifted]].
 
-Her condition originates from [[Actors/Zenjin|Zenjin]], an ancestor who was
+Her condition originates from [[Actors/Zenji|Zenji]], an ancestor who was
 recently revived by [[Actors/Teru|Teru]].
 
-Because Zenjin exists outside his intended lifecycle, his divinity did not
+Because Zenji exists outside his intended lifecycle, his divinity did not
 settle correctly.
 
 Instead, it manifested in Marin.
 
 She does not know:
 
-- about Zenjin
+- about Zenji
 - about the divinity
 - that anything supernatural is happening
 
