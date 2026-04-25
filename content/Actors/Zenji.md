@@ -11,15 +11,47 @@ tags: []
 > Tags::
 
 > [!quote] The "Elevator Pitch"
-> A lesser deity improperly returned to life through a disrupted ritual,
-> existing in a misaligned state while his divinity has been displaced.
+> A lesser deity of the ocean’s presence within living things—salinity and the
+> trace of the sea carried through life—improperly returned through a disrupted
+> ritual, now existing in a misaligned state while his divinity has been
+> displaced.
 
 ## 📖 Background
 
-- **Origin:** A lesser god associated with coral gardens who once sought
-  mortality.
+- **Origin:** A lesser god associated not with the sea as a whole, but with the
+  ocean’s trace within life—salt in water, blood, and tears.
 - **State:** Improperly revived by [[Actors/Teru|Teru]] during a funerary rite
-  affected by system instability.
+  affected by instability in [[Lore/The Barrier|The Barrier]].
+
+Zenji represents:
+
+> the persistence of the ocean within living systems
+
+---
+
+## Domain
+
+Zenji’s divinity is tied to:
+
+- salinity
+- the ocean’s chemical and spiritual trace within life
+- the continuity between seawater and living bodies
+
+This domain exists:
+
+- within the ocean
+- within human bodies
+- across boundaries between natural and human systems
+
+It is:
+- subtle
+- pervasive
+- foundational
+
+Rather than governing a place, Zenji governs a **property** that can exist in
+multiple contexts.
+
+---
 
 ## Current Condition
 
@@ -34,6 +66,8 @@ His presence is:
 - quiet
 - persistent
 - slightly out of place
+
+---
 
 ## Cognitive State
 
@@ -50,6 +84,8 @@ Over time:
 He cannot fully explain what is happening, but he can recognize when
 something deviates from how it should be.
 
+---
+
 ## Relationship with Teru
 
 Zenji and [[Actors/Teru|Teru]] form a collaborative loop:
@@ -62,6 +98,8 @@ Their process is:
 - iterative
 - uncertain
 
+---
+
 ## Missing Divinity
 
 Zenji becomes aware that something essential is absent.
@@ -70,7 +108,16 @@ He does not initially understand what it is, only that:
 
 > something that was his is no longer with him
 
-This displaced divinity has manifested elsewhere.
+His displaced divinity has manifested in
+[[Actors/Player Characters/Marin|Marin]].
+
+This results in:
+
+- Marin’s body subtly aligning with the ocean
+- the sea recognizing her as partially "correct"
+- systems responding to her as if she belongs to a different context
+
+---
 
 ## Motivation
 
@@ -79,14 +126,18 @@ Zenji does not seek to reclaim his former power.
 Instead, he wants to:
 - correct the instability caused by his return
 - restore proper alignment to the system
+- ensure that what was misplaced does not cause further harm
+
+---
 
 ## Thematic Role
 
 Zenji represents:
 
 - identity separated from role
-- existence outside intended systems
+- inheritance without proper placement
+- the persistence of natural systems within human bodies
 - recognition without full understanding
 
-He embodies the consequences of a system failure that restores a being
-without restoring their place.
+He embodies a system failure where something fundamental has not been lost,
+only **misplaced**.
