@@ -84,10 +84,10 @@ ways.
 - This creates a weak, intermittent, bidirectional connection with no clear
   intent or purpose
 - [[Actors/Player Characters/Marin|Marin]] is a Drifted carrying displaced
-  divinity originating from [[Actors/Zenjin|Zenjin]]
-- [[Actors/Zenjin|Zenjin]] was improperly revived by [[Actors/Teru|Teru]],
+  divinity originating from [[Actors/Zenji|Zenji]]
+- [[Actors/Zenji|Zenji]] was improperly revived by [[Actors/Teru|Teru]],
   causing his divinity to settle incorrectly
-- Zenjin does not want the divinity returned and instead seeks to correct the
+- Zenji does not want the divinity returned and instead seeks to correct the
   resulting instability
 
 ## Campaign Structure
