@@ -68,5 +68,27 @@ This has led to rumors of:
 - disappearances
 - possible murder
 
-He is also the patron of [[Actors/Ryuta|Ryuta]], having unintentionally formed
-that contract.
+## Ryuta Anomaly
+
+Due to a clerical error in a divine system that manages Anchored relationships,
+[[Actors/Player Characters/Ryuta|Ryuta]] was misregistered as a valid interface
+for the Mayor.
+
+This has created an unintended, intermittent connection between them.
+
+- The connection is bidirectional but weak
+- Neither party understands it fully
+- Interactions are rare and fragmentary
+
+The Mayor is aware of the anomaly, but currently treats it as a low-priority
+irregularity within a much larger and more unstable system.
+
+His attitude toward the connection is:
+
+> polite, slightly embarrassed, and mildly inconvenienced
+
+He did not intend this connection and does not actively make use of it.
+
+For now, it remains:
+
+> a minor leak in an otherwise functioning system
