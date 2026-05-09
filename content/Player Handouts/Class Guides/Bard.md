@@ -24,7 +24,7 @@ At level 1, you are a social, magical, skillful support character. You start wit
 - **Skills:** Any three skills of your choice.
 - **Spellcasting:** Two cantrips, four prepared level 1 bard spells, and two level 1 spell slots.
 - **Spellcasting ability:** Charisma.
-- **Bardic Inspiration:** Use a Bonus Action to give another creature an inspiration die that can help a d20 test.
+- **Bardic Inspiration:** Use a Bonus Action to give another creature a **d6** inspiration die that can help a d20 test.
 
 Starting equipment depends on your sheet or character builder. Use the exact items listed there.
 
@@ -52,7 +52,9 @@ Your default combat pattern is often:
 
 ## Bardic Inspiration
 
-Bardic Inspiration is one of your signature tools. In 2024-style rules, you use a Bonus Action to give an ally an inspiration die. They can spend it later when it might turn a failed d20 roll into a success.
+Bardic Inspiration is one of your signature tools. At level 1, your Bardic Inspiration die is a **d6**.
+
+In 2024-style rules, you use a Bonus Action to give an ally a d6 inspiration die. They can spend it later when it might turn a failed d20 roll into a success. When they spend it, they roll the d6 and add the result to the triggering d20 test.
 
 Use it before:
 
@@ -60,6 +62,8 @@ Use it before:
 - a clutch attack
 - a vital social roll
 - a stealth, investigation, or escape attempt
+
+Your Bardic Inspiration die gets bigger at later bard levels, so check your sheet when you level up.
 
 If your sheet uses 2014 rules, ask the DM exactly when the die is spent. The spirit is the same: you make someone else's important roll better.
 
