@@ -29,7 +29,7 @@ tags: []
 
 - [[Actors/Suzuki Daimon Keyholder|Suzuki Daimon Keyholder]]
 - [[Actors/Tsunoda Memory-Keeper|Tsunoda Memory-Keeper]]
-- [[Actors/Anchored Field Observer|Anchored Field Observer]]
+- [[Actors/Barnacle|Barnacle]]
 - [[Actors/Civic Shoreline Liaison|Civic Shoreline Liaison]]
 
 ## NPCs
