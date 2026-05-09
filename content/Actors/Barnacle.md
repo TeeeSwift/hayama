@@ -2,6 +2,8 @@
 tags:
   - Actor
   - NPC
+  - anchored
+  - faction/the-anchored
 ---
 
 # Barnacle
