@@ -19,6 +19,10 @@ Anchored]].
 This is Act I: Misdiagnosis. The first session should create wrong but reasonable
 suspects.
 
+## Supporting Prep
+
+- [[private/campaign/Hayama Locals and Rumors|Hayama Locals and Rumors]]
+
 ## Current Public Session Frame
 
 Public session hub: [[Chronicles/Session 1/index|Session 1]]
