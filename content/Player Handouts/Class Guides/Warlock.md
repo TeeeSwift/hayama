@@ -29,6 +29,21 @@ At level 1, you are a short-rest spellcaster with strange, focused magic. You st
 
 Starting equipment depends on your sheet or character builder. Use the exact items listed there.
 
+## What Is A Pact Magic Spell Slot?
+
+A Pact Magic spell slot is the warlock version of spell fuel.
+
+At level 1, you have **one** Pact Magic spell slot. When you cast a level 1 warlock spell, you usually spend that slot. After it is spent, you cannot cast another leveled warlock spell until you get the slot back.
+
+The important difference from most other spellcasters is recovery:
+
+- Most spellcasters get spell slots back after a **Long Rest**.
+- Warlocks get Pact Magic spell slots back after a **Short Rest or Long Rest**.
+
+So your rhythm is different. You have fewer slots at once, but you can refill them more often if the party takes Short Rests.
+
+Cantrips do **not** use Pact Magic spell slots. You can keep casting Eldritch Blast, Minor Illusion, Mage Hand, and other cantrips even when your Pact Magic slot is spent.
+
 ## What You Are Good At
 
 You are usually good at:
@@ -46,9 +61,23 @@ Warlocks have fewer spell slots than most casters, but those slots come back on 
 Your default combat pattern is often:
 
 1. Use a strong cantrip or weapon attack.
-2. Spend a spell slot when the scene is important.
+2. Spend your Pact Magic slot when the scene is important.
 3. Use your patron feature or Bonus Action option when it changes the fight.
-4. Ask for a Short Rest after a major scene if you spent your slots.
+4. Ask for a Short Rest after a major scene if you spent your slot.
+
+## Level 1 Eldritch Invocations
+
+At level 1, you choose one Eldritch Invocation. Think of it as a permanent supernatural upgrade, not a spell you prepare each day.
+
+| Invocation | Pick It If... | What It Changes |
+| --- | --- | --- |
+| Armor of Shadows | You want better defense without spending your one spell slot. | You can cast Mage Armor on yourself without spending a spell slot. This is good if your AC is low and you expect danger. |
+| Eldritch Mind | You expect to use Concentration spells like Hex, Bane, or Expeditious Retreat. | You have advantage on Constitution saving throws to maintain Concentration, making your important spells harder to break. |
+| Pact of the Blade | You want to fight with a weapon and make warlock magic part of your melee style. | You can conjure or bind a pact weapon. This supports a weapon-focused warlock and may let you use Charisma with that weapon, depending on your sheet. |
+| Pact of the Chain | You want a magical familiar for scouting, help, and weird problem-solving. | You learn Find Familiar and gain special familiar options. This is strong for exploration, delivering information, and interacting safely at a distance. |
+| Pact of the Tome | You want more spells and ritual/utility flexibility. | You gain a Book of Shadows with extra cantrips and ritual-style utility. This makes you feel more like a strange scholar or occult problem-solver. |
+
+Do not worry about finding the mathematically perfect option. Pick the one that matches how you want your warlock to solve problems.
 
 ## Fathomless Things To Watch
 
@@ -80,7 +109,7 @@ If these are on your sheet, here is when to think about using them:
 
 ## Ask Yourself
 
-- Am I saving my slot for a major moment, or is this the major moment?
+- Am I saving my Pact Magic slot for a major moment, or is this the major moment?
 - Do I need damage, control, escape, or information?
 - Is my Bonus Action already spoken for?
 - Would a Short Rest afterward make sense?
