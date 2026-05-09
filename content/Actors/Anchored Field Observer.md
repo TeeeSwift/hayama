@@ -8,8 +8,9 @@ tags:
 
 ## Role
 
-An Anchored operative who appears at anomaly sites, checks old markers, removes
-traces, and monitors the failing Barrier without explaining what they are doing.
+A seemingly ordinary local caretaker and maintenance contractor who appears at
+anomaly sites, checks old markers, removes traces, and monitors the failing
+Barrier without explaining what they are doing.
 
 This character should be named when they become active at the table. Until then,
 use this note as the functional slot for the first visible field presence of
@@ -17,35 +18,57 @@ use this note as the functional slot for the first visible field presence of
 
 ## Location
 
-They can appear anywhere the Barrier is showing symptoms:
+They are route-based rather than tied to a single home base.
 
-- shoreline stabilization site
-- drainage channels
-- old stone markers
-- shrine edges
-- service alleys
+Use them around:
+
 - storm drains
 - seawalls
+- shrine edges
+- beach access stairs
+- old property boundaries
+- utility covers
+- drainage channels
+- locked coastal sheds
+- service alleys
 - abandoned or locked coastal structures
+- places where civic infrastructure overlaps older sacred infrastructure
 - places where the sea leaves impossible objects behind
 
 They should rarely appear in places of ordinary social comfort. They are more
 likely to be seen at thresholds, damage points, and liminal infrastructure.
+
+## Public Cover
+
+They are known around Hayama as a local caretaker and maintenance contractor.
+
+Different people explain their presence differently:
+
+- municipal staff know them as an on-call coastal repair contact
+- shrine workers know them as someone who fixes old ropes, gutters, and stonework
+- [[Chronicles/Campaign Prep/Drifted Families and Daimon|Daimon]] knows them as
+  someone with access to delivery gates and storage sheds
+- old families know not to ask too many questions
+- ordinary locals think they are simply handy, quiet, and always nearby when
+  something breaks
+
+This lets them appear repeatedly without immediately seeming supernatural.
 
 ## Faction
 
 - [[Actors/The Anchored|The Anchored]]
 
 They are not necessarily a leader. They are a field-level observer, containment
-agent, surveyor, or ritual technician.
+agent, surveyor, or ritual technician hidden behind mundane maintenance work.
 
 Publicly, they may pass as:
 
-- a surveyor
+- local caretaker
+- maintenance contractor
 - utility inspector
-- shrine maintenance worker
-- environmental monitor
-- old-family assistant
+- shrine repair worker
+- coastal repair contact
+- old-property handyman
 - quiet passerby with the wrong tools for the scene
 
 Privately, they are monitoring the Barrier's failures and deciding what evidence
@@ -57,6 +80,7 @@ They provide suspicion.
 
 Use this character when the story needs the players to ask:
 
+- why the same local keeps appearing near unrelated incidents
 - why someone arrived before the authorities
 - why evidence vanished
 - who knows more than they are saying
@@ -80,7 +104,9 @@ They embody:
 - containment
 - inherited duty
 - institutional secrecy
+- hidden maintenance
 - competence without trust
+- repair disguised as ordinary labor
 - the moral cost of managing a crisis from the shadows
 
 They are the first human-scale face of the Anchored's core contradiction: they
@@ -109,6 +135,8 @@ They can reveal through action, not exposition, that:
 - sacred sites and civic infrastructure overlap
 - someone has been monitoring the system for a long time
 - the Anchored fear escalation more than blame
+- the Barrier is embedded in drains, retaining walls, shrine ropes, utility
+  covers, old property lines, and beach access stairs
 
 ### Early Antagonism Without Villainy
 
@@ -137,6 +165,8 @@ Possible methods:
 - shell dust used like forensic powder
 - knots tied around damaged markers
 - small offerings placed like emergency patches
+- old maintenance tags that double as ward labels
+- keys with Daimon tags attached to Anchored access points
 
 They may have limited power to:
 
@@ -145,6 +175,28 @@ They may have limited power to:
 - tell whether something has been touched by Watatsumi's reclaiming
 - prevent one witness from being forgotten for a short period
 - close a threshold at the cost of making another one worse
+
+## Ocean Phenomenon
+
+Choose one subtle phenomenon and repeat it so the players start recognizing the
+pattern before they understand it.
+
+Possible expressions:
+
+- they never leave wet footprints, even when standing in seawater
+- salt dries on their sleeves in the shape of old survey lines
+- water beads on their tools but refuses to touch their skin
+- gulls go quiet when they begin working
+- their shadow ripples like shallow water when cast on concrete
+- they always seem to know the tide height without checking
+- their measuring cord comes back damp even when used on dry stone
+- small barnacles die and fall away when they touch a sealed site
+- their keys smell faintly of low tide
+- when they listen to a wall or pipe, the sound of waves briefly stops nearby
+
+Recommended default: their shadow ripples like shallow water when cast on
+concrete. It is visible, eerie, and easy for players to notice without proving
+anything.
 
 ## Relationship Hooks
 
@@ -166,10 +218,39 @@ May be alarmed when Ryuta is recognized by systems he should not be able to touc
 
 May perceive Marin as a destabilizing variable because of her displaced divinity.
 
+## Faction Relationships
+
+### [[Chronicles/Campaign Prep/Drifted Families and Daimon|Daimon]]
+
+They sometimes use Daimon access. This does not mean they are Suzuki-aligned.
+It means Daimon has keys.
+
+Old arrangements allow them into places that should be closed. Neither side fully
+trusts the other, and both sides pretend the arrangement is just deliveries or
+maintenance.
+
+### [[Actors/Civic Shoreline Liaison|Civic Shoreline Liaison]]
+
+The Civic Shoreline Liaison may know them as a useful local contractor on an
+emergency repair list.
+
+The liaison trusts them because they always show up fast and solve problems, but
+does not understand what they are actually solving.
+
+### [[Actors/Tsunoda Memory-Keeper|Tsunoda Memory-Keeper]]
+
+The Tsunoda Memory-Keeper likely dislikes them.
+
+To the Tsunodas, this character does not repair. They silence. They patch over
+wounds without naming them.
+
 ## First Scene
 
 After the first reaping event, the party notices someone quietly scraping
 barnacles from fresh concrete and sealing the residue in a small glass vial.
+
+They look like a local maintenance worker. Their tool bag has municipal repair
+tags, shrine rope, and a Daimon key tag clipped to the same ring.
 
 If confronted, they say:
 
@@ -189,3 +270,5 @@ They speak like someone measuring how much truth the room can survive.
 - [[Lore/The Barrier|The Barrier]]
 - [[Actors/Watatsumi|Watatsumi]]
 - [[Chronicles/Campaign Prep/Drifted Families and Daimon|Drifted Families and Daimon]]
+- [[Actors/Civic Shoreline Liaison|Civic Shoreline Liaison]]
+- [[Actors/Tsunoda Memory-Keeper|Tsunoda Memory-Keeper]]
