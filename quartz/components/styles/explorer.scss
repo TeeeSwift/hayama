@@ -31,8 +31,8 @@
   flex-direction: column;
   overflow-y: hidden;
 
-  min-height: 1.2rem;
-  flex: 0 1 auto;
+  min-height: 0;
+  flex: 1 1 auto;
   &.collapsed {
     flex: 0 1 1.2rem;
     & .fold {
@@ -113,6 +113,8 @@ button.desktop-explorer {
   overflow: hidden;
   overflow-y: auto;
   margin-top: 0.5rem;
+  min-height: 0;
+  flex: 1 1 auto;
 
   & ul {
     list-style: none;
@@ -248,7 +250,9 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       transition:
         transform 200ms ease,
         visibility 200ms ease;
-      overflow: hidden;
+      overflow-x: hidden;
+      overflow-y: auto;
+      overscroll-behavior: contain;
       padding: 4rem 0 2rem 0;
       height: 100dvh;
       max-height: 100dvh;
