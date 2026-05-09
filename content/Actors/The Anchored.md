@@ -19,7 +19,7 @@ tags: []
 - Sea glass 
 - Driftwood
 - Hermit crab 
-- Barnacle 
+- [[Barnacle]]
 - Sea foam 
 - Coral
 - The light patterns on the surface of the water 
