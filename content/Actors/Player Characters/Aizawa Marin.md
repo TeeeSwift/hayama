@@ -1,11 +1,13 @@
 ---
-id: Marin
+id: Aizawa Marin
+aliases:
+  - Marin
 tags:
   - pc
   - actor
 ---
 
-# Marin
+# Aizawa Marin
 
 ## Elevator Pitch
 
@@ -14,10 +16,83 @@ improper revival, causing the ocean itself to respond to her differently.
 
 ---
 
+## Character Sheet
+
+- Class: Druid
+- Background: Acolyte
+- Max HP: 9
+- Spellcasting ability: Wisdom
+- Spell attack bonus: +5 at level 1
+- Spell save DC: 13 at level 1
+- Cantrips: Druidcraft, Shillelagh
+
+### Ability Scores
+
+| Ability | Score | Modifier |
+| --- | --- | --- |
+| Strength | 9 | -1 |
+| Dexterity / Agility | 11 | +0 |
+| Constitution | 13 | +1 |
+| Intelligence | 11 | +0 |
+| Wisdom | 16 | +3 |
+| Charisma | 11 | +0 |
+
+### Skills
+
+Assuming level 1 proficiency bonus is +2:
+
+| Skill | Ability | Bonus |
+| --- | --- | --- |
+| Nature | Intelligence | +2 |
+| Religion | Intelligence | +2 |
+| Animal Handling | Wisdom | +5 |
+| Insight | Wisdom | +5 |
+
+Useful passive scores:
+
+- Passive Perception: 13
+- Passive Insight: 15
+
+### Saving Throws
+
+Marin is proficient in Intelligence and Wisdom saving throws.
+
+Assuming level 1 proficiency bonus is +2:
+
+| Save | Bonus |
+| --- | --- |
+| Strength | -1 |
+| Dexterity / Agility | +0 |
+| Constitution | +1 |
+| Intelligence | +2 |
+| Wisdom | +5 |
+| Charisma | +0 |
+
+### Spells
+
+At level 1, Marin knows two druid cantrips and prepares level 1 druid spells
+after a Long Rest.
+
+Cantrips:
+
+- Druidcraft
+- Shillelagh
+
+Notes:
+
+- Druidcraft is a utility cantrip for small natural signs and sensory effects.
+- Shillelagh turns a club or quarterstaff into a Wisdom-based magic weapon
+  attack for the duration.
+- In 2024 rules, Druids can change their prepared level 1+ spells after a Long
+  Rest.
+- In 2024 rules, Speak with Animals is always prepared from the Druidic feature.
+
+---
+
 ## Surface Identity
 
 - High school student
-- Assists her father with diving instruction on weekends
+- Assists [[Actors/Marin's Father|her father]] with diving instruction on weekends
 - Deeply respectful of the ocean
 
 She was raised to approach the sea with:
@@ -72,8 +147,8 @@ She does not know:
 
 ## First Incident: The Ocean
 
-During a diving class, Marin assists her father while Ryuta participates as a
-student.
+During a diving class, Marin assists [[Actors/Marin's Father|her father]] while
+Ryuta participates as a student.
 
 While diving, she descends slightly deeper than the others.
 
@@ -103,7 +178,7 @@ She is misaligned.
 
 ### Resolution
 
-Her father pulls her back to the surface.
+[[Actors/Marin's Father|Her father]] pulls her back to the surface.
 
 The sensation breaks immediately.
 

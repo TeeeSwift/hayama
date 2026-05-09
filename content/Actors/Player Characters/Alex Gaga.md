@@ -1,18 +1,94 @@
 ---
-id: Ayaka
+id: Alex Gaga
 aliases: []
 tags:
   - pc
   - actor
 ---
 
-# Ayaka
+# Alex Gaga
 
 ## Elevator Pitch
 
-A geological and environmental consultant who unknowingly triggered a barrier
-breach during a city-funded shoreline stabilization project, now standing at
-the intersection of science, civic responsibility, and divine transformation.
+A geological and environmental consultant with a hermit's private revelations,
+who unknowingly triggered a barrier breach during a city-funded shoreline
+stabilization project and now carries an emergent bardic connection to divine
+systems.
+
+---
+
+## Character Sheet
+
+- Class: Bard
+- Background: Hermit
+- Max HP: 10
+- Spellcasting ability: Charisma
+- Spell attack bonus: +5 at level 1
+- Spell save DC: 13 at level 1
+- Cantrips: Message, Minor Illusion
+- Level 1 spells: Bane, Dissonant Whispers, Healing Word, Sleep
+
+### Ability Scores
+
+| Ability | Score | Modifier |
+| --- | --- | --- |
+| Strength | 10 | +0 |
+| Dexterity / Agility | 12 | +1 |
+| Constitution | 11 | +0 |
+| Intelligence | 8 | -1 |
+| Wisdom | 11 | +0 |
+| Charisma | 16 | +3 |
+
+### Skills
+
+Assuming level 1 proficiency bonus is +2:
+
+| Skill | Ability | Bonus |
+| --- | --- | --- |
+| Medicine | Wisdom | +2 |
+| Athletics | Strength | +2 |
+| Religion | Intelligence | +1 |
+| Investigation | Intelligence | +1 |
+| Animal Handling | Wisdom | +2 |
+
+### Saving Throws
+
+Bards are proficient in Dexterity and Charisma saving throws.
+
+Assuming level 1 proficiency bonus is +2:
+
+| Save | Bonus |
+| --- | --- |
+| Strength | +0 |
+| Dexterity / Agility | +3 |
+| Constitution | +0 |
+| Intelligence | -1 |
+| Wisdom | +0 |
+| Charisma | +5 |
+
+### Spells
+
+At level 1, Alex knows two bard cantrips and has four level 1 bard spells
+prepared.
+
+Cantrips:
+
+- Message
+- Minor Illusion
+
+Level 1 spells:
+
+- Bane
+- Dissonant Whispers
+- Healing Word
+- Sleep
+
+Notes:
+
+- Bane and Sleep require Concentration.
+- Healing Word uses a Bonus Action.
+- Dissonant Whispers forces a Wisdom saving throw against Alex's spell save DC.
+- Alex has two level 1 spell slots at level 1.
 
 ---
 
@@ -21,28 +97,33 @@ the intersection of science, civic responsibility, and divine transformation.
 - Profession: Geological and environmental consultant
 - Specialization: Safety, disaster preparedness, and environmental assessment
   for construction and development projects
+- D&D background: Hermit
 - Aspiration: Singer / performer
-- Disposition: Analytical, observant, but searching for expression
+- Disposition: analytical, inward, observant, but searching for expression
 
-Ayaka evaluates projects for:
+Alex evaluates projects for:
 - geological stability
 - environmental risk
 - disaster preparedness
 
-She approaches the world through structure and systems, but feels drawn toward
+She approaches the world through structure and systems, but her hermit
+background gives that work a private, revelatory edge. She feels drawn toward
 something less rigid—something expressive and transformative.
 
 ---
 
 ## Hidden Significance
 
-Ayaka occupies a rare position within the current crisis in Hayama:
+Alex occupies a rare position within the current crisis in Hayama:
 
 - She approved a city-funded shoreline stabilization project near the coast
 - During drilling and reinforcement work, a buried
   [[Lore/The Barrier|Barrier]] anchor point was damaged
 - The anomaly she observed at the site was interpreted as a stable geological
   irregularity rather than something artificial or divine
+- She carries a pearl given by [[Actors/Mollusk|Mollusk]]
+- The pearl gives her an emergent connection to divine systems
+- Her bardic expression may alter how divine energy manifests around her
 
 Her decision was technically reasonable based on available data.
 
@@ -55,7 +136,7 @@ She is both a participant in and a catalyst for unfolding events.
 
 ## The Pearl
 
-Ayaka has been given a pearl by [[Actors/Mollusk|Mollusk]].
+Alex has been given a pearl by [[Actors/Mollusk|Mollusk]].
 
 Unlike the failed attempts by other Anchored to extract and store divinity,
 the pearl represents a transformed state rather than a contained one.
@@ -70,7 +151,7 @@ separation.
 
 ### Effects (Emergent)
 
-- Ayaka can perceive certain supernatural phenomena more clearly
+- Alex can perceive certain supernatural phenomena more clearly
 - Her presence may alter or stabilize local anomalies
 - Her artistic expression (particularly music) may interact with divine
   phenomena in unpredictable ways
@@ -81,10 +162,11 @@ These effects are not fully understood and may change over time.
 
 ## Thematic Role
 
-Ayaka represents:
+Alex represents:
 
 - Structure → Expression
 - Analysis → Transformation
+- Isolation → Revelation
 - Control → Adaptation
 - Correct reasoning within incomplete systems
 
@@ -97,7 +179,7 @@ be controlled, or must instead be reshaped.
 
 - Most Anchored operate under flawed assumptions about divinity
 - Mollusk diverges from this, favoring transformation
-- Ayaka aligns more naturally with Mollusk's approach than with the broader
+- Alex aligns more naturally with Mollusk's approach than with the broader
   Anchored methodology
 
 This places her in a unique position as both an outsider and a potential

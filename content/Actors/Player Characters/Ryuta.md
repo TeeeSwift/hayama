@@ -96,7 +96,7 @@ During the dive, he experiences a brief secondary awareness:
 - a subtle shift in perspective that is not his own
 
 This occurs at the same moment as an anomaly affecting
-[[Actors/Player Characters/Marin|Marin]].
+[[Actors/Player Characters/Aizawa Marin|Marin]].
 
 The experience ends without explanation.
 

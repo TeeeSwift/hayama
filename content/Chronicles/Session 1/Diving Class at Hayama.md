@@ -8,23 +8,23 @@ tags:
 
 ## Setup
 
-Junpei begins her first day preparing to teach a diving class along the Hayama coast.
+[[Actors/Player Characters/Aizawa Marin|Marin]] begins the day preparing to assist with a diving class along the Hayama coast.
 
-[[Actors/Ryuta|Ryuta]] is among the participants, new to town and eager to try marine sports.
+[[Actors/Player Characters/Ryuta|Ryuta]] is among the participants, new to town and eager to try marine sports.
 
 ## Opening Beats
 
 - Early morning coastal air, strong scent of salt
 - Equipment prep: wetsuits, tanks, gear checks
-- Junpei demonstrates professionalism and familiarity with the water
+- [[Actors/Player Characters/Aizawa Marin|Marin]] demonstrates professionalism and familiarity with the water
 - Ryuta asks basic questions, clearly inexperienced but curious
 
-## Junpei's Father (Optional Scene)
+## Marin's Father (Optional Scene)
 
-[[Actors/Junpei's Father|Junpei's Father]] appears briefly before the class:
+[[Actors/Marin's Father|Marin's Father]] appears briefly before the class:
 
 - Offers a small warning: "Water feels different today."
-- Encourages Junpei to stay aware
+- Encourages [[Actors/Player Characters/Aizawa Marin|Marin]] to stay aware
 - Leaves without elaborating
 
 ## Class Interaction
@@ -48,7 +48,7 @@ During or just after entry into the water:
 
 - One diver panics after feeling something brush past them
 - Ryuta experiences something unusual (vision, whisper, pressure shift)
-- Junpei notices the dive site is "wrong" compared to memory
+- [[Actors/Player Characters/Aizawa Marin|Marin]] notices the dive site is "wrong" compared to memory
 
 ## Exit Beat
 

@@ -18,8 +18,13 @@ Planning a magical version of Hayama.
 
 ## Player Characters
 
-- [[Actors/Ayaka|Ayaka]]
-- [[Actors/Vincent|Vincent]]
+- [[Actors/Player Characters/Alex Gaga|Alex Gaga]]
+- [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]
+
+## Player Handouts
+
+- [[Player Handouts/Class Quick Guides|Class Quick Guides]]
+- [[Player Handouts/Level 1 Spell Lists|Level 1 Spell Lists]]
 
 # This Vault
 

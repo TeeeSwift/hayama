@@ -14,7 +14,7 @@ An Anchored being who embodies the rare miracle of two beings finding each other
 
 ## Surface Identity
 
-- Role: Housemaid in [[Actors/Vincent|Vincent]]’s household
+- Role: Housemaid in [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]’s household
 - Disposition: Composed, professional, unremarkable
 - Presence: Consistent across generations
 
@@ -40,7 +40,7 @@ This phenomenon is rare, mutual, and non-deterministic.
 
 ## Backstory
 
-Long ago, Chizuru formed a connection with one of Vincent’s ancestors.
+Long ago, Chizuru formed a connection with one of Vincent Uminashi’s ancestors.
 
 Their meeting was not inevitable. It was a convergence.
 
@@ -52,9 +52,9 @@ Chizuru understands this promise was not grounded in reality.
 
 She remains anyway.
 
-## Relationship to Vincent
+## Relationship to Vincent Uminashi
 
-Vincent is not the same person as her former partner.
+Vincent Uminashi is not the same person as her former partner.
 
 She does not treat him as a replacement.
 

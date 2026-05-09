@@ -8,12 +8,12 @@ tags: []
 
 ## Player Characters
 
-- [[Actors/Ayaka|Ayaka]]
-- [[Actors/Vincent|Vincent]]
+- [[Actors/Player Characters/Alex Gaga|Alex Gaga]]
+- [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]
 - [[Actors/Player Characters/Ryuta|Ryuta]]
-- [[Actors/Player Characters/Marin|Marin]]
+- [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]
 
-[Player Character](/tags/PlayerCharacter)
+[Player Characters](/tags/pc)
 
 ## Key Divine And Faction Notes
 

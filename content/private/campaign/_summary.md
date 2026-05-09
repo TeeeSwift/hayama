@@ -21,17 +21,18 @@ reclaiming phase and stabilize the town as a permanent settlement.
 
 Recently, that barrier has been compromised when a shoreline stabilization
 project—approved through normal civic processes and signed off by
-[[Actors/Ayaka|Ayaka]]—damaged a buried anchor point near the coast.
+[[Actors/Player Characters/Alex Gaga|Alex Gaga]]—damaged a buried anchor point
+near the coast.
 
 As a result, Watatsumi's reclaiming has begun again in fragmented, unnatural
 ways.
 
 ## Player Character Anchors
 
-- [[Actors/Ayaka|Ayaka]]: outsider perspective, transformation, and emergent interaction with divine systems
-- [[Actors/Vincent|Vincent]]: local perspective, inherited lineage, and continuity across generations
+- [[Actors/Player Characters/Alex Gaga|Alex Gaga]]: hermit perspective, transformation, and emergent interaction with divine systems
+- [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]: local perspective, inherited lineage, and continuity across generations
 - [[Actors/Player Characters/Ryuta|Ryuta]]: system misidentification, unintended divine interface, and anomalous connection
-- [[Actors/Player Characters/Marin|Marin]]: misplaced divinity, drifted inheritance, and misalignment with natural systems
+- [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]: misplaced divinity, drifted inheritance, and misalignment with natural systems
 
 ## Canon Spine
 
@@ -83,7 +84,7 @@ ways.
   a divine system
 - This creates a weak, intermittent, bidirectional connection with no clear
   intent or purpose
-- [[Actors/Player Characters/Marin|Marin]] is a Drifted carrying displaced
+- [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]] is a Drifted carrying displaced
   divinity originating from [[Actors/Zenji|Zenji]]
 - [[Actors/Zenji|Zenji]] was improperly revived by [[Actors/Teru|Teru]],
   causing his divinity to settle incorrectly
@@ -118,13 +119,16 @@ ways.
 
 ## Known NPC And PC Relationships
 
-- [[Actors/Vincent|Vincent]] is served by [[Actors/Chizuru|Chizuru]]
-- [[Actors/Ayaka|Ayaka]] approved the shoreline project that damaged a barrier
-  anchor point
+- [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]] is served by [[Actors/Chizuru|Chizuru]]
+- [[Actors/Player Characters/Alex Gaga|Alex Gaga]] approved the shoreline
+  project that damaged a barrier anchor point
+- [[Actors/Player Characters/Alex Gaga|Alex Gaga]] carries a pearl from
+  [[Actors/Mollusk|Mollusk]] that gives her emergent bardic interaction with
+  divine systems
 
 ## Navigation For Future Work
 
 - Start broad with [[index]]
 - For cosmology and system behavior, see [[Lore/The Barrier|The Barrier]]
-- For player-facing context, see [[Actors/Ayaka|Ayaka]] and
-  [[Actors/Vincent|Vincent]]
+- For player-facing context, see [[Actors/Player Characters/Alex Gaga|Alex Gaga]] and
+  [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]

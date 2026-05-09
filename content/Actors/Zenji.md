@@ -109,7 +109,7 @@ He does not initially understand what it is, only that:
 > something that was his is no longer with him
 
 His displaced divinity has manifested in
-[[Actors/Player Characters/Marin|Marin]].
+[[Actors/Player Characters/Aizawa Marin|Marin]].
 
 This results in:
 
