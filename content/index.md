@@ -15,6 +15,7 @@ Planning a magical version of Hayama.
 - [[Lore/The Barrier|The Barrier]]
 - [[Lore/The Artifact|The Artifact]]
 - [[Lore/Themes and Motifs|Themes and Motifs]]
+- [[Chronicles/Campaign Prep/index|Campaign Prep]]
 
 ## Player Characters
 
@@ -39,4 +40,4 @@ Religion, myth, beliefs, historical events, cultural practices.
 Anything non-physical
 
 ### [[Chronicles/]]
-Session Notes, Session Planning.
+Session Notes, Session Planning, Campaign Prep.
