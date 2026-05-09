@@ -21,42 +21,44 @@ At level 1, a warlock knows two cantrips, prepares two level 1 warlock spells, h
 
 Important 2024 note: Agonizing Blast is not a level 1 invocation in the 2024 Basic Rules. It unlocks at Warlock level 2+.
 
+Damage and effect notes use your warlock spellcasting ability, Charisma. If a spell says "save," the target rolls against your Spell Save DC. If a spell says "spell attack," you roll with your Spell Attack Bonus.
+
 ## Warlock Cantrips
 
-| Spell | School | Special |
-| --- | --- | --- |
-| Blade Ward | Abjuration | C |
-| Chill Touch | Necromancy |  |
-| Eldritch Blast | Evocation |  |
-| Friends | Enchantment | C |
-| Mage Hand | Conjuration |  |
-| Mind Sliver | Enchantment |  |
-| Minor Illusion | Illusion |  |
-| Poison Spray | Necromancy |  |
-| Prestidigitation | Transmutation |  |
-| Thunderclap | Evocation |  |
-| Toll the Dead | Necromancy |  |
-| True Strike | Divination |  |
+| Spell | School | Special | At The Table |
+| --- | --- | --- | --- |
+| Blade Ward | Abjuration | C | Defensive cantrip. While you keep Concentration, attacks against you are weakened by a small die penalty, usually `1d4` from the attack roll. |
+| Chill Touch | Necromancy |  | Ranged spell attack. On a hit, deals `1d10` necrotic damage and interferes with the target's ability to regain HP for a short time. |
+| Eldritch Blast | Evocation |  | Ranged spell attack. On a hit, deals `1d10` force damage. Later invocations can improve this. |
+| Friends | Enchantment | C | Gives magical social pressure against one creature for a brief conversation. No damage; risky if the target realizes magic was involved. |
+| Mage Hand | Conjuration |  | Creates a floating hand that manipulates unattended objects at range. No damage; useful for levers, doors, keys, and safe interaction. |
+| Mind Sliver | Enchantment |  | Target makes an Intelligence save. Failed save takes `1d6` psychic damage and subtracts `1d4` from its next saving throw before the penalty ends. |
+| Minor Illusion | Illusion |  | Creates a small sound or image. No damage; useful for distractions, hiding, fake cover, and misdirection. |
+| Poison Spray | Necromancy |  | Target makes a Constitution save. Failed save takes `1d12` poison damage. Many creatures resist or ignore poison, so check the target. |
+| Prestidigitation | Transmutation |  | Performs tiny magical tricks. No damage; cleans, flavors, chills, warms, marks, lights or snuffs small flames, and creates harmless sensory effects. |
+| Thunderclap | Evocation |  | Creatures near you make a Constitution save. Failed save takes `1d6` thunder damage. Loud and risky around bystanders. |
+| Toll the Dead | Necromancy |  | Target makes a Wisdom save. Failed save takes necrotic damage, usually `1d8`, or `1d12` if the target is already missing HP. |
+| True Strike | Divination |  | Make one weapon attack using your spellcasting ability. On a hit, the attack uses the weapon's normal damage and can turn the damage radiant. |
 
 ## Level 1 Warlock Spells
 
-| Spell | School | Special |
-| --- | --- | --- |
-| Armor of Agathys | Abjuration |  |
-| Arms of Hadar | Conjuration |  |
-| Bane | Enchantment | C |
-| Charm Person | Enchantment |  |
-| Comprehend Languages | Divination | R |
-| Detect Magic | Divination | C, R |
-| Expeditious Retreat | Transmutation | C |
-| Hellish Rebuke | Evocation |  |
-| Hex | Enchantment | C |
-| Illusory Script | Illusion | R, M |
-| Protection from Evil and Good | Abjuration | C, M |
-| Speak with Animals | Divination | R |
-| Tasha's Hideous Laughter | Enchantment | C |
-| Unseen Servant | Conjuration | R |
-| Witch Bolt | Evocation | C |
+| Spell | School | Special | At The Table |
+| --- | --- | --- | --- |
+| Armor of Agathys | Abjuration |  | Gain temporary HP, usually `5` at level 1. While those temporary HP last, a creature that hits you with a melee attack takes `5` cold damage. |
+| Arms of Hadar | Conjuration |  | Creatures close to you make Strength saves. Failed save takes `2d6` necrotic damage and cannot take Reactions briefly; successful save usually takes half damage. |
+| Bane | Enchantment | C | Up to three creatures make Charisma saves. Failed targets subtract `1d4` from attack rolls and saving throws while you maintain Concentration. |
+| Charm Person | Enchantment |  | One Humanoid makes a Wisdom save. On a failure, it is Charmed by you. No damage; social consequences may follow afterward. |
+| Comprehend Languages | Divination | R | For the duration, you understand the literal meaning of languages you hear or read. No damage. |
+| Detect Magic | Divination | C, R | Sense active magic nearby and read its school with focus. No damage; blocked by enough material or distance. |
+| Expeditious Retreat | Transmutation | C | Lets you Dash as a Bonus Action while the spell lasts. No damage; useful for escape, chase scenes, and repositioning. |
+| Hellish Rebuke | Evocation |  | Reaction after a creature damages you. Target makes a Dexterity save. Failed save takes `2d10` fire damage; successful save takes half. |
+| Hex | Enchantment | C | Mark one creature. Each time you hit it with an attack, add `1d6` necrotic damage. Also gives disadvantage on checks with one ability you choose. |
+| Illusory Script | Illusion | R, M | Hides a written message behind illusion. Intended readers see the true text; others see false or unreadable writing. No damage. |
+| Protection from Evil and Good | Abjuration | C, M | Protects a creature from certain supernatural creature types. Those creatures have trouble attacking, charming, frightening, or possessing the target. No damage. |
+| Speak with Animals | Divination | R | Lets you communicate with Beasts for the duration. No damage; animals answer from their own perspective. |
+| Tasha's Hideous Laughter | Enchantment | C | One creature makes a Wisdom save. On a failure, it falls Prone and is Incapacitated with laughter while the spell lasts. No damage. |
+| Unseen Servant | Conjuration | R | Creates an invisible force that performs simple tasks. No damage; useful for chores, traps, doors, and carrying light objects. |
+| Witch Bolt | Evocation | C | Ranged spell attack. On a hit, deals `2d12` lightning damage, and you can keep using your Action to deal more lightning damage while the link lasts. |
 
 ## Eldritch Invocations
 
@@ -109,7 +111,7 @@ The Fathomless patron comes from _Tasha's Cauldron of Everything_. If your sheet
 
 If using the Fathomless expanded spell list, these level 1 spells are added to that warlock's available spell options:
 
-| Spell | School | Special |
-| --- | --- | --- |
-| Create or Destroy Water | Transmutation |  |
-| Thunderwave | Evocation |  |
+| Spell | School | Special | At The Table |
+| --- | --- | --- | --- |
+| Create or Destroy Water | Transmutation |  | Creates clean water or destroys open water in a container or area. No damage by default; strong utility for survival, fire, clues, and water problems. |
+| Thunderwave | Evocation |  | Creatures in a close cube make Constitution saves. Failed save takes `2d8` thunder damage and is pushed away; successful save takes half and is not pushed. |
