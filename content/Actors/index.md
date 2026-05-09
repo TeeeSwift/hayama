@@ -25,6 +25,11 @@ tags: []
 - [[Actors/The Mayor|The Mayor]]
 - [[Actors/Chizuru|Chizuru]]
 
+## Recurring NPC Slots
+
+- [[Actors/Suzuki Daimon Keyholder|Suzuki Daimon Keyholder]]
+- [[Actors/Tsunoda Memory-Keeper|Tsunoda Memory-Keeper]]
+
 ## NPCs
 
 [NPCs](/tags/NPC)
