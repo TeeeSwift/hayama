@@ -21,6 +21,7 @@ suspects.
 ## Supporting Prep
 
 - [[Chronicles/Campaign Prep/Hayama Locals and Rumors|Hayama Locals and Rumors]]
+- [[Locations/Nagisabashi Cafe|Nagisabashi Cafe]]
 
 ## Current Public Session Frame
 
@@ -32,6 +33,22 @@ at Hayama]]
 Use the diving class as the first contact with the impossible tide. The shoreline
 stabilization site can be introduced afterward as the first civic/investigative
 lead rather than replacing the opening.
+
+Nagisabashi Cafe should function as the daytime emotional center of Hayama.
+
+All four PCs naturally pass through the cafe for unrelated ordinary reasons
+before the first major public reaping.
+
+- [[Actors/Player Characters/Alex Gaga|Alex Gaga]] and
+  [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]] can meet there
+  regarding local shoreline concerns or civic matters.
+- [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]] visits with a friend for
+  parfaits and ordinary social time.
+- [[Actors/Player Characters/Ryuta|Ryuta]] is present because the cafe is
+  experiencing strange electrical and systems irregularities.
+
+The reaping event interrupts ordinary daytime life rather than a suspicious or
+already supernatural situation.
 
 ## Session Shape
 
@@ -76,25 +93,66 @@ Possible leads:
   as an authorized interface for something official.
 - A local says the sea has been acting up since the construction, then immediately
   walks the statement back.
-- An Anchored observer appears nearby, taking notes or quietly checking old
-  markers.
+- [[Actors/Barnacle|Barnacle]] appears nearby, quietly checking markers,
+  seawalls, drainage channels, or old stone features.
 
-### Movement 3: First Reaping Event
+### Movement 3: Nagisabashi Reaping Event
 
-End with a contained manifestation of the sea's reclaiming phase.
+The first major public reaping event occurs at
+[[Locations/Nagisabashi Cafe|Nagisabashi Cafe]].
 
-Possible form:
+The scene should begin warm, ordinary, and socially grounded.
 
-- a section of beach briefly becomes black reef
-- an equipment shed fills with ankle-deep moonlit seawater
-- a road near the coast becomes slick with tide pools and barnacles
-- a diver vanishes from memory for several minutes, though their wet footprints
-  remain
-- the sea briefly appears to be above the characters rather than beside them
+Nagisabashi represents:
 
-The event should be survivable and actionable. The players can save someone,
-recover an object, notice a symbol, or interrupt the manifestation, but they
-should not be able to solve the cause.
+- daylight
+- routine
+- local continuity
+- ordinary human life
+- the version of Hayama everyone believes they live in
+
+The reaping should violate that sense of safety.
+
+Do not frame the event as a monster attack.
+
+Reality quietly fails in public.
+
+Possible progression:
+
+- a regular customer becomes increasingly difficult to notice
+- conversations skip over them
+- reflections lag behind their movement
+- their order remains active in the cafe system after people stop acknowledging
+  them socially
+- receipts continue printing their name correctly
+- timestamps and security systems continue recognizing them after human memory
+  begins failing
+- the person's seat still appears occupied in reflections or camera footage
+
+Each PC notices different aspects of the event.
+
+### [[Actors/Player Characters/Alex Gaga|Alex Gaga]]
+
+Alex notices institutional and procedural breakdown.
+
+Official logic stops explaining the situation.
+
+### [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]
+
+Vincent notices social discontinuity.
+
+The person belongs here. The town's social memory is failing around them.
+
+### [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]
+
+Marin feels the reaping emotionally and divinely before she understands it.
+
+### [[Actors/Player Characters/Ryuta|Ryuta]]
+
+Ryuta notices synchronization collapse.
+
+The cafe's systems continue acknowledging someone after reality begins failing to
+categorize them correctly.
 
 ## Core Clues To Seed
 
@@ -107,6 +165,7 @@ Use only a few at the table. Do not dump all of them.
 - The Anchored are aware of the crisis but are not ready to explain themselves.
 - The Drifted may interpret the same events as Anchored wrongdoing.
 - Watatsumi's activity feels patterned but not strategic.
+- Infrastructure systems remember differently than people do.
 
 ## PC-Specific Triggers
 
@@ -125,6 +184,8 @@ Use only a few at the table. Do not dump all of them.
   interface.
 - The connection should feel bureaucratic, accidental, and intermittent rather
   than chosen or prophetic.
+- Nagisabashi's systems continue acknowledging someone after social recognition
+  begins failing.
 
 ### [[Actors/Player Characters/Alex Gaga|Alex Gaga]]
 
@@ -238,13 +299,14 @@ become useful. Avoid canonizing all of them as major figures immediately.
 
 ### Suspicious / Supernatural-Adjacent NPCs
 
-#### Shindo Natsume — Anchored Observer
+#### [[Actors/Barnacle|Barnacle]]
 
-- Public role: quiet stranger checking markers, drainage channels, and old stone
-  features
-- Table use: suspicious presence who is actually monitoring barrier failure
+- Public role: local maintenance contractor quietly checking seawalls, drainage
+  channels, shrine edges, and old infrastructure
+- Table use: suspicious recurring presence who is actually monitoring barrier
+  failure
 - Surface: polite, evasive, physically still
-- Secret / pressure: knows the diving disturbance is a symptom, not the cause
+- Secret / pressure: knows the disturbances are symptoms, not causes
 - Voice: "Do not touch what the tide leaves behind unless you are prepared to be
   noticed."
 
@@ -297,6 +359,8 @@ Use these as modular beats.
 - a photo shows one extra wet figure in the background
 - a roll call has a blank line everyone skips over
 - locals rationalize the impossible as ordinary coastal inconvenience
+- infrastructure systems continue acknowledging someone after people stop doing
+  so
 
 ## Likely Ending States
 
@@ -340,6 +404,7 @@ Do show:
 - divine identity is unstable
 - the Anchored are hiding something
 - the town's permanence may be unnatural
+- infrastructure remembers differently than people do
 
 ## Prep Checklist
 
