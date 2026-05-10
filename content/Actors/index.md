@@ -31,6 +31,7 @@ tags: []
 - [[Actors/Tsunoda Memory-Keeper|Tsunoda Memory-Keeper]]
 - [[Actors/Barnacle|Barnacle]]
 - [[Actors/Civic Shoreline Liaison|Civic Shoreline Liaison]]
+- [[Actors/Overnight Convenience Store Clerk|Overnight Convenience Store Clerk]]
 
 ## NPCs
 
