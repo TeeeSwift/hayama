@@ -108,7 +108,7 @@ truths, strong opinions, and plausible wrong explanations.
 ### Nishimura Saki — Junior Records Clerk
 
 - Place: municipal archive, back office, convenience store after work
-- Function: paperwork access, altered records, Ryuta system weirdness
+- Function: paperwork access, altered records, Ryunnu system weirdness
 - First impression: anxious, sharp, too aware of procedural mistakes
 - Knows: records have changed after being filed
 - Avoids: becoming the scapegoat for impossible archival errors
@@ -163,37 +163,37 @@ truths, strong opinions, and plausible wrong explanations.
 
 Use these when the party talks to bystanders.
 
-| Name | Role | One Useful Detail |
-| --- | --- | --- |
-| Ueda Nami | convenience store clerk | says the bottled water delivery came in tasting faintly salty |
-| Sakurai Jun | bus driver | insists one coastal stop was never on his route, despite old schedules proving otherwise |
-| Baba Itsuki | fishmonger | recognizes fish from waters much deeper than local boats should reach |
-| Enomoto Rei | guesthouse owner | has a guest register with one wet, unreadable name |
-| Matsuda Ko | lifeguard | saw footprints leaving the sea but no one entering it |
-| Hirai Yoko | school nurse | treats children with ear pressure and seashell fragments in their shoes |
-| Okabe Minoru | retired surveyor | remembers an old map that showed a different harbor line |
-| Teshima Aoi | festival volunteer | says shrine lanterns relit themselves with blue-green flame |
-| Kanda Sho | delivery cyclist | swears one street sloped toward the ocean yesterday and away from it today |
-| Wakabayashi Mio | librarian | finds coastal history pages stuck together with salt though the room is dry |
+| Name            | Role                    | One Useful Detail                                                                        |
+| --------------- | ----------------------- | ---------------------------------------------------------------------------------------- |
+| Ueda Nami       | convenience store clerk | says the bottled water delivery came in tasting faintly salty                            |
+| Sakurai Jun     | bus driver              | insists one coastal stop was never on his route, despite old schedules proving otherwise |
+| Baba Itsuki     | fishmonger              | recognizes fish from waters much deeper than local boats should reach                    |
+| Enomoto Rei     | guesthouse owner        | has a guest register with one wet, unreadable name                                       |
+| Matsuda Ko      | lifeguard               | saw footprints leaving the sea but no one entering it                                    |
+| Hirai Yoko      | school nurse            | treats children with ear pressure and seashell fragments in their shoes                  |
+| Okabe Minoru    | retired surveyor        | remembers an old map that showed a different harbor line                                 |
+| Teshima Aoi     | festival volunteer      | says shrine lanterns relit themselves with blue-green flame                              |
+| Kanda Sho       | delivery cyclist        | swears one street sloped toward the ocean yesterday and away from it today               |
+| Wakabayashi Mio | librarian               | finds coastal history pages stuck together with salt though the room is dry              |
 
 ## Rumor Table
 
 Roll or choose. Most rumors should be partially true but misinterpreted.
 
-| d12 | Rumor | Truth Direction |
-| --- | --- | --- |
-| 1 | "The construction crew cracked an old drainage chamber and now seawater is backing up through town." | Mundane cover for a damaged Barrier anchor point |
-| 2 | "A diver saw a shrine gate underwater, but there has never been one at that beach." | Older shoreline memory surfacing |
-| 3 | "The Mayor's office already knew something was wrong and rushed the project anyway." | Civic responsibility exists, but not full knowledge |
-| 4 | "The old families are meeting again. That always means someone is about to disappear." | Anchored monitoring looks incriminating |
-| 5 | "A kid drew half the town underwater before the tide incident happened." | Sensitive locals are catching echoes of reclaiming |
-| 6 | "Tourists keep forgetting why they came here." | Memory softening near reaping sites |
-| 7 | "The fish market got a catch from a place no local boat could have reached." | Spatial overlap with deeper/older sea |
-| 8 | "Someone heard festival bells under the waves." | Watatsumi-patterned sensory bleedthrough |
-| 9 | "The sea wall is sweating." | Barrier stress presenting as physical condensation/saltwater |
-| 10 | "One of the municipal clerks has two versions of the same permit." | Records are changing under system pressure |
-| 11 | "The shrine keeps returning offerings unopened." | Ritual channels are misrouting |
-| 12 | "People are blaming the construction because blaming the sea sounds childish." | Social rationalization of the supernatural |
+| d12 | Rumor                                                                                                | Truth Direction                                              |
+| --- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1   | "The construction crew cracked an old drainage chamber and now seawater is backing up through town." | Mundane cover for a damaged Barrier anchor point             |
+| 2   | "A diver saw a shrine gate underwater, but there has never been one at that beach."                  | Older shoreline memory surfacing                             |
+| 3   | "The Mayor's office already knew something was wrong and rushed the project anyway."                 | Civic responsibility exists, but not full knowledge          |
+| 4   | "The old families are meeting again. That always means someone is about to disappear."               | Anchored monitoring looks incriminating                      |
+| 5   | "A kid drew half the town underwater before the tide incident happened."                             | Sensitive locals are catching echoes of reclaiming           |
+| 6   | "Tourists keep forgetting why they came here."                                                       | Memory softening near reaping sites                          |
+| 7   | "The fish market got a catch from a place no local boat could have reached."                         | Spatial overlap with deeper/older sea                        |
+| 8   | "Someone heard festival bells under the waves."                                                      | Watatsumi-patterned sensory bleedthrough                     |
+| 9   | "The sea wall is sweating."                                                                          | Barrier stress presenting as physical condensation/saltwater |
+| 10  | "One of the municipal clerks has two versions of the same permit."                                   | Records are changing under system pressure                   |
+| 11  | "The shrine keeps returning offerings unopened."                                                     | Ritual channels are misrouting                               |
+| 12  | "People are blaming the construction because blaming the sea sounds childish."                       | Social rationalization of the supernatural                   |
 
 ## Local Opinion Axes
 
@@ -251,7 +251,7 @@ should be described.
 Use for:
 
 - Alex implication
-- Ryuta's erroneous authorization
+- Ryunnu's erroneous authorization
 - connection to the stabilization site
 
 ### Dockside Net

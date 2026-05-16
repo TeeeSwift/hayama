@@ -145,9 +145,9 @@ paperwork admits.
 They may know old access arrangements tied to Vincent's family better than
 Vincent does.
 
-### [[Actors/Player Characters/Ryuta|Ryuta]]
+### [[Actors/Player Characters/Ryunnu|Ryunnu]]
 
-Ryuta's anomalous registration may recognize this character as authorized in
+Ryunnu's anomalous registration may recognize this character as authorized in
 places where they have no visible official right to be.
 
 ### [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]

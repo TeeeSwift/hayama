@@ -10,14 +10,14 @@ tags:
 
 [[Actors/Player Characters/Aizawa Marin|Marin]] begins the day preparing to assist with a diving class along the Hayama coast.
 
-[[Actors/Player Characters/Ryuta|Ryuta]] is among the participants, new to town and eager to try marine sports.
+[[Actors/Player Characters/Ryunnu|Ryunnu]] is among the participants, new to town and eager to try marine sports.
 
 ## Opening Beats
 
 - Early morning coastal air, strong scent of salt
 - Equipment prep: wetsuits, tanks, gear checks
 - [[Actors/Player Characters/Aizawa Marin|Marin]] demonstrates professionalism and familiarity with the water
-- Ryuta asks basic questions, clearly inexperienced but curious
+- Ryunnu asks basic questions, clearly inexperienced but curious
 
 ## Marin's Father (Optional Scene)
 
@@ -47,7 +47,7 @@ During or just after entry into the water:
 ## Escalation Options
 
 - One diver panics after feeling something brush past them
-- Ryuta experiences something unusual (vision, whisper, pressure shift)
+- Ryunnu experiences something unusual (vision, whisper, pressure shift)
 - [[Actors/Player Characters/Aizawa Marin|Marin]] notices the dive site is "wrong" compared to memory
 
 ## Exit Beat

@@ -28,25 +28,25 @@ improper revival, causing the ocean itself to respond to her differently.
 
 ### Ability Scores
 
-| Ability | Score | Modifier |
-| --- | --- | --- |
-| Strength | 9 | -1 |
-| Dexterity / Agility | 11 | +0 |
-| Constitution | 13 | +1 |
-| Intelligence | 11 | +0 |
-| Wisdom | 16 | +3 |
-| Charisma | 11 | +0 |
+| Ability             | Score | Modifier |
+| ------------------- | ----- | -------- |
+| Strength            | 9     | -1       |
+| Dexterity / Agility | 11    | +0       |
+| Constitution        | 13    | +1       |
+| Intelligence        | 11    | +0       |
+| Wisdom              | 16    | +3       |
+| Charisma            | 11    | +0       |
 
 ### Skills
 
 Assuming level 1 proficiency bonus is +2:
 
-| Skill | Ability | Bonus |
-| --- | --- | --- |
-| Nature | Intelligence | +2 |
-| Religion | Intelligence | +2 |
-| Animal Handling | Wisdom | +5 |
-| Insight | Wisdom | +5 |
+| Skill           | Ability      | Bonus |
+| --------------- | ------------ | ----- |
+| Nature          | Intelligence | +2    |
+| Religion        | Intelligence | +2    |
+| Animal Handling | Wisdom       | +5    |
+| Insight         | Wisdom       | +5    |
 
 Useful passive scores:
 
@@ -59,14 +59,14 @@ Marin is proficient in Intelligence and Wisdom saving throws.
 
 Assuming level 1 proficiency bonus is +2:
 
-| Save | Bonus |
-| --- | --- |
-| Strength | -1 |
-| Dexterity / Agility | +0 |
-| Constitution | +1 |
-| Intelligence | +2 |
-| Wisdom | +5 |
-| Charisma | +0 |
+| Save                | Bonus |
+| ------------------- | ----- |
+| Strength            | -1    |
+| Dexterity / Agility | +0    |
+| Constitution        | +1    |
+| Intelligence        | +2    |
+| Wisdom              | +5    |
+| Charisma            | +0    |
 
 ### Spells
 
@@ -148,7 +148,7 @@ She does not know:
 ## First Incident: The Ocean
 
 During a diving class, Marin assists [[Actors/Marin's Father|her father]] while
-Ryuta participates as a student.
+Ryunnu participates as a student.
 
 While diving, she descends slightly deeper than the others.
 

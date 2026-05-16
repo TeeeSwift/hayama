@@ -31,7 +31,7 @@ ways.
 
 - [[Actors/Player Characters/Alex Gaga|Alex Gaga]]: hermit perspective, transformation, and emergent interaction with divine systems
 - [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]: local perspective, inherited lineage, and continuity across generations
-- [[Actors/Player Characters/Ryuta|Ryuta]]: system misidentification, unintended divine interface, and anomalous connection
+- [[Actors/Player Characters/Ryunnu|Ryunnu]]: system misidentification, unintended divine interface, and anomalous connection
 - [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]: misplaced divinity, drifted inheritance, and misalignment with natural systems
 
 ## Canon Spine
@@ -79,7 +79,7 @@ ways.
 
 ## Emerging System Anomalies
 
-- [[Actors/Player Characters/Ryuta|Ryuta]] has been incorrectly registered as a
+- [[Actors/Player Characters/Ryunnu|Ryunnu]] has been incorrectly registered as a
   valid interface for [[Actors/The Mayor|The Mayor]] due to a clerical error in
   a divine system
 - This creates a weak, intermittent, bidirectional connection with no clear

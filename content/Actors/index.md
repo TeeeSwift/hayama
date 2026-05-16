@@ -10,7 +10,7 @@ tags: []
 
 - [[Actors/Player Characters/Alex Gaga|Alex Gaga]]
 - [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]
-- [[Actors/Player Characters/Ryuta|Ryuta]]
+- [[Actors/Player Characters/Ryunnu|Ryunnu]]
 - [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]
 
 [Player Characters](/tags/pc)

@@ -1,11 +1,11 @@
 ---
-id: Ryuta
+id: Ryunnu
 tags:
   - pc
   - actor
 ---
 
-# Ryuta
+# Ryunnu
 
 ## Elevator Pitch
 
@@ -20,10 +20,12 @@ Anchored deity.
 - Recently arrived in Hayama
 - Electrical systems engineer and salesman focused on electrical management,
   monitoring, and infrastructure systems
+- D&D background: Noble
+- Class: Warlock
 - Curious, somewhat uncertain, trying new experiences
 - Enrolls in a local diving class shortly after arriving
 
-Ryuta approaches the town as an outsider, without the inherited context that
+Ryunnu approaches the town as an outsider, without the inherited context that
 shapes many long-term residents.
 
 Despite not actually being an electrician, multiple people in Hayama continue to
@@ -40,7 +42,7 @@ People casually ask him to:
 - check grounding faults
 - help with electrical maintenance
 
-Ryuta repeatedly has to explain:
+Ryunnu repeatedly has to explain:
 
 > I sell systems. I do not install them.
 
@@ -48,13 +50,51 @@ The town rarely seems to care about the distinction.
 
 ---
 
+## Character Sheet Snapshot
+
+Core stats:
+
+| Ability      | Score | Modifier |
+| ------------ | ----: | -------: |
+| Strength     |    11 |       +0 |
+| Dexterity    |     7 |       -2 |
+| Constitution |    10 |       +0 |
+| Intelligence |    13 |       +1 |
+| Wisdom       |    10 |       +0 |
+| Charisma     |    13 |       +1 |
+
+Level 1 warlock numbers:
+
+- HP: 8
+- Proficiency bonus: +2
+- Spellcasting ability: Charisma
+- Spell attack: +3
+- Spell save DC: 11
+- Pact Magic slots: one 1st-level slot
+- Saving throw proficiencies: Wisdom, Charisma
+- Skill proficiencies: Arcana, History, Persuasion, Stealth
+
+Chosen magic:
+
+- Cantrips: Eldritch Blast, Mage Hand
+- 1st-level spells: Hellish Rebuke, Charm Person
+- Intended Eldritch Invocation: Devil's Sight
+
+Rules note: under the 2024 Warlock rules, Devil's Sight requires Warlock level
+2+. Ryunnu should choose a level-1-legal invocation instead, such as Armor of
+Shadows, Eldritch Mind, Pact of the Blade, Pact of the Chain, or Pact of the
+Tome.
+
+---
+
 ## The Error
 
 A divine system responsible for managing relationships between Anchored and
-other entities has misidentified Ryuta as a valid interface for
+other entities has misidentified Ryunnu as a valid interface for
 [[Actors/The Mayor|The Mayor]].
 
 This was not:
+
 - requested
 - intended
 - noticed immediately
@@ -71,14 +111,14 @@ The connection is:
 - bidirectional
 - poorly understood by both parties
 
-Ryuta occasionally:
+Ryunnu occasionally:
 
 - hears fragments of the Mayor’s thoughts
 - feels a presence or pressure that does not belong to him
 
 The Mayor may:
 
-- briefly perceive through Ryuta
+- briefly perceive through Ryunnu
 - receive stray impressions
 
 These interactions are:
@@ -87,7 +127,7 @@ These interactions are:
 - incomplete
 - lacking context
 
-Ryuta does not receive guidance, answers, or clear direction.
+Ryunnu does not receive guidance, answers, or clear direction.
 
 ---
 
@@ -103,7 +143,7 @@ Neither party chose this connection.
 
 The Mayor is aware of it, but treats it as a minor anomaly.
 
-Ryuta is left to interpret experiences that feel significant but provide no
+Ryunnu is left to interpret experiences that feel significant but provide no
 clear meaning.
 
 ---
@@ -111,7 +151,7 @@ clear meaning.
 ## First Incident: Nagisabashi Cafe
 
 During early strange electrical issues at
-[[Locations/Nagisabashi Cafe|Nagisabashi Cafe]], Ryuta is asked to look at
+[[Locations/Nagisabashi Cafe|Nagisabashi Cafe]], Ryunnu is asked to look at
 lighting instability, refrigeration resets, and inconsistent system behavior.
 
 The problems initially appear mundane:
@@ -123,7 +163,7 @@ The problems initially appear mundane:
 - network instability
 - inconsistent timestamps
 
-During the first major reaping event, Ryuta notices something impossible:
+During the first major reaping event, Ryunnu notices something impossible:
 
 the cafe's systems continue recognizing someone after people begin failing to do
 so.
@@ -137,14 +177,14 @@ Possible examples:
 - security systems continue acknowledging a person after social recognition
   begins failing
 
-Ryuta becomes one of the first people to encounter hard evidence that the town's
+Ryunnu becomes one of the first people to encounter hard evidence that the town's
 systems are becoming internally inconsistent.
 
 ---
 
 ## Relationship To Infrastructure
 
-Ryuta naturally interprets supernatural instability through systems behavior.
+Ryunnu naturally interprets supernatural instability through systems behavior.
 
 Where others perceive:
 
@@ -153,7 +193,7 @@ Where others perceive:
 - social instability
 - memory distortion
 
-Ryuta notices:
+Ryunnu notices:
 
 - synchronization collapse
 - contradictory readings
@@ -163,14 +203,14 @@ Ryuta notices:
 - devices recognizing the wrong people
 - electrical behavior that does not match physical conditions
 
-This makes Ryuta unusually sensitive to the interaction between reclaiming,
+This makes Ryunnu unusually sensitive to the interaction between reclaiming,
 records, infrastructure, and hidden systems.
 
 ---
 
 ## Thematic Role
 
-Ryuta represents:
+Ryunnu represents:
 
 - systems misidentifying individuals
 - assignment without consent

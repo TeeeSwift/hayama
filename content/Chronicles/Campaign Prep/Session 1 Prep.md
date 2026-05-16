@@ -44,7 +44,7 @@ before the first major public reaping.
   regarding local shoreline concerns or civic matters.
 - [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]] visits with a friend for
   parfaits and ordinary social time.
-- [[Actors/Player Characters/Ryuta|Ryuta]] is present because the cafe is
+- [[Actors/Player Characters/Ryunnu|Ryunnu]] is present because the cafe is
   experiencing strange electrical and systems irregularities.
 
 The reaping event interrupts ordinary daytime life rather than a suspicious or
@@ -63,7 +63,7 @@ Emphasize:
 - gentle local familiarity
 - tourists or new arrivals trying to fit in
 - Marin being competent and comfortable in the water
-- Ryuta being curious and out of his depth in a grounded, human way
+- Ryunnu being curious and out of his depth in a grounded, human way
 
 Then introduce one wrong detail:
 
@@ -89,7 +89,7 @@ Possible leads:
   the construction zone.
 - Marin notices the water is wrong in a way that feels remembered rather than
   observed.
-- Ryuta receives a notification, form, stamp, or intrusive thought treating him
+- Ryunnu receives a notification, form, stamp, or intrusive thought treating him
   as an authorized interface for something official.
 - A local says the sea has been acting up since the construction, then immediately
   walks the statement back.
@@ -147,9 +147,9 @@ The person belongs here. The town's social memory is failing around them.
 
 Marin feels the reaping emotionally and divinely before she understands it.
 
-### [[Actors/Player Characters/Ryuta|Ryuta]]
+### [[Actors/Player Characters/Ryunnu|Ryunnu]]
 
-Ryuta notices synchronization collapse.
+Ryunnu notices synchronization collapse.
 
 The cafe's systems continue acknowledging someone after reality begins failing to
 categorize them correctly.
@@ -177,7 +177,7 @@ Use only a few at the table. Do not dump all of them.
 - She can tell the dive site is wrong before anyone else has evidence.
 - Her father may warn her: "Water feels different today."
 
-### [[Actors/Player Characters/Ryuta|Ryuta]]
+### [[Actors/Player Characters/Ryunnu|Ryunnu]]
 
 - A divine/civic system treats him as authorized.
 - He receives a notice, voice, stamp, or pressure sensation meant for another
@@ -236,7 +236,7 @@ become useful. Avoid canonizing all of them as major figures immediately.
 
 - Public role: municipal office clerk managing permits, old maps, and inspection
   forms
-- Table use: access point for paperwork, maps, approvals, and Ryuta's erroneous
+- Table use: access point for paperwork, maps, approvals, and Ryunnu's erroneous
   registration
 - Surface: anxious, sharp, too aware of procedural mistakes
 - Secret / pressure: has seen records rewrite themselves overnight
@@ -377,7 +377,7 @@ office or municipal staff become interested in controlling the story.
 ### Missed Clue
 
 The manifestation ends without a clear object recovered. Use NPC testimony,
-changed records, or Ryuta's misdirected authorization to keep the investigation
+changed records, or Ryunnu's misdirected authorization to keep the investigation
 moving.
 
 ### Someone Is Partially Taken
@@ -394,7 +394,7 @@ Do not explain:
 - The Barrier also dampens unstable divinity.
 - [[Lore/The Artifact|The Artifact]] is leaking in the mountains.
 - The full Zenji / Teru / Marin divinity chain.
-- Ryuta's exact divine-system error.
+- Ryunnu's exact divine-system error.
 
 Do show:
 

@@ -3,11 +3,12 @@ id: The Mayor
 aliases: []
 tags: []
 ---
+
 > [!abstract]-Metadata
 > type:: NPC  
 > Race:: race  
 > Location:: [[Town Hall]]  
-> Tags:: #Anchored  
+> Tags:: #Anchored
 
 He is one of [[Actors/The Anchored|The Anchored]], an octopus deity serving as
 the mayor of [[Hayama]].
@@ -40,6 +41,7 @@ As an Anchored, the Mayor understands aspects of the Barrier and its role in
 stabilizing Hayama.
 
 However, the system is:
+
 - distributed
 - partially obscured even to its operators
 - difficult to model precisely
@@ -64,14 +66,15 @@ forms. He helps them:
 - leave town without drawing attention
 
 This has led to rumors of:
+
 - conspiracies
 - disappearances
 - possible murder
 
-## Ryuta Anomaly
+## Ryunnu Anomaly
 
 Due to a clerical error in a divine system that manages Anchored relationships,
-[[Actors/Player Characters/Ryuta|Ryuta]] was misregistered as a valid interface
+[[Actors/Player Characters/Ryunnu|Ryunnu]] was misregistered as a valid interface
 for the Mayor.
 
 This has created an unintended, intermittent connection between them.

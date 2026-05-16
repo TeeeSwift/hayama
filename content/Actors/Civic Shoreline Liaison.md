@@ -155,9 +155,9 @@ This character may:
 May treat Vincent as a useful local perspective while dismissing older family
 warnings as superstition.
 
-### [[Actors/Player Characters/Ryuta|Ryuta]]
+### [[Actors/Player Characters/Ryunnu|Ryunnu]]
 
-May accidentally expose Ryuta to records or systems that recognize him
+May accidentally expose Ryunnu to records or systems that recognize him
 incorrectly.
 
 ### [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]

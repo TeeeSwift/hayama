@@ -210,9 +210,9 @@ useful and dangerous.
 May know Vincent's family by reputation and expect him to understand more than he
 does.
 
-### [[Actors/Player Characters/Ryuta|Ryuta]]
+### [[Actors/Player Characters/Ryunnu|Ryunnu]]
 
-May be alarmed when Ryuta is recognized by systems he should not be able to touch.
+May be alarmed when Ryunnu is recognized by systems he should not be able to touch.
 
 ### [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]
 

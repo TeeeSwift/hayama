@@ -213,9 +213,9 @@ both useful and dangerous.
 Barnacle may know Vincent's family by reputation and expect him to understand
 more than he does.
 
-### [[Actors/Player Characters/Ryuta|Ryuta]]
+### [[Actors/Player Characters/Ryunnu|Ryunnu]]
 
-Barnacle may be alarmed when Ryuta is recognized by systems he should not be able
+Barnacle may be alarmed when Ryunnu is recognized by systems he should not be able
 to touch.
 
 ### [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]]

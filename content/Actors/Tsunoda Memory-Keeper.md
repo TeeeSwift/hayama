@@ -163,9 +163,9 @@ May know Vincent's family history and ask what his lineage chose to forget.
 May interpret Alex's shoreline project involvement as another example of
 institutions damaging sacred systems without understanding them.
 
-### [[Actors/Player Characters/Ryuta|Ryuta]]
+### [[Actors/Player Characters/Ryunnu|Ryunnu]]
 
-May recognize Ryuta's anomaly as a name filed into the wrong system.
+May recognize Ryunnu's anomaly as a name filed into the wrong system.
 
 ## First Scene
 
