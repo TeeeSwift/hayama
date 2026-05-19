@@ -244,7 +244,9 @@ It requires concentration, so if you cast another concentration spell you must c
 
 === Weapon Mastery
 
-Vincent has mastery with the shortsword and handaxe. When you hit, check the weapon's mastery effect and ask the DM if it applies.
+Vincent's shortsword and handaxe both use Vex. When you hit and deal damage, your next attack roll against that same creature has advantage before the end of your next turn.
+
+The handaxe can also be thrown. You can hit a distant enemy with it, apply Vex, and make your next attack against that target easier to land.
 
 === If You Are Unsure In Combat
 

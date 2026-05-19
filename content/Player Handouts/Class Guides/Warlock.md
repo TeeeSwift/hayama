@@ -11,6 +11,8 @@ This guide is for reading your sheet during play. Your sheet is the source of tr
 
 Spell list: [[Player Handouts/Spell Lists/Warlock Level 1 Spells|Warlock Level 1 Spells]]
 
+Fathomless patron reference: [[Player Handouts/Class Guides/Fathomless Warlock|Fathomless Warlock Reference]]
+
 ## As A Warlock, You Start With These Things At Level 1
 
 At level 1, you are a short-rest spellcaster with strange, focused magic. You start with:
@@ -71,11 +73,11 @@ At level 1, you choose one Eldritch Invocation. Think of it as a permanent super
 
 | Invocation | Pick It If... | What It Changes |
 | --- | --- | --- |
-| Armor of Shadows | You want better defense without spending your one spell slot. | You can cast Mage Armor on yourself without spending a spell slot. This is good if your AC is low and you expect danger. |
-| Eldritch Mind | You expect to use Concentration spells like Hex, Bane, or Expeditious Retreat. | You have advantage on Constitution saving throws to maintain Concentration, making your important spells harder to break. |
-| Pact of the Blade | You want to fight with a weapon and make warlock magic part of your melee style. | You can conjure or bind a pact weapon. This supports a weapon-focused warlock and may let you use Charisma with that weapon, depending on your sheet. |
-| Pact of the Chain | You want a magical familiar for scouting, help, and weird problem-solving. | You learn Find Familiar and gain special familiar options. This is strong for exploration, delivering information, and interacting safely at a distance. |
-| Pact of the Tome | You want more spells and ritual/utility flexibility. | You gain a Book of Shadows with extra cantrips and ritual-style utility. This makes you feel more like a strange scholar or occult problem-solver. |
+| Armor of Shadows | You want better defense without spending your one spell slot. | You can cast Mage Armor on yourself without a spell slot. While you are not wearing armor, your base AC becomes `13 + Dexterity modifier`; no Concentration. |
+| Eldritch Mind | You expect to use Concentration spells like Hex, Bane, or Expeditious Retreat. | You have advantage on Constitution saving throws to maintain Concentration, making your important spells harder to break after damage. |
+| Pact of the Blade | You want to fight with a weapon and make warlock magic part of your melee style. | Bonus Action to conjure or bond with a melee weapon. You are proficient, can use it as a spellcasting focus, and can usually attack and damage with Charisma. |
+| Pact of the Chain | You want a magical familiar for scouting, help, and weird problem-solving. | You learn Find Familiar and can cast it as a Magic action without a slot. You get special familiar forms and can trade one of your attacks for the familiar's Reaction attack. |
+| Pact of the Tome | You want more spells and ritual/utility flexibility. | At the end of a Short or Long Rest, conjure a Book of Shadows. It gives three cantrips and two level 1 Ritual spells from any class, and can be used as a spellcasting focus. |
 
 Do not worry about finding the mathematically perfect option. Pick the one that matches how you want your warlock to solve problems.
 
@@ -85,10 +87,12 @@ If your sheet has the Fathomless patron features, look for:
 
 | Feature Type | How To Think About It |
 | --- | --- |
-| Spectral tentacle | Bonus Action pressure, cold damage, and slowing |
-| Ocean adaptation | Swimming and underwater scenes are your home turf |
+| Tentacle of the Deeps | Bonus Action to create a spectral tentacle within 60 feet for 1 minute. It makes a melee spell attack against a creature within 10 feet of it; on a hit, `1d8` cold damage and speed reduced by 10 feet until your next turn starts. Later turns can use a Bonus Action to move it 30 feet and attack again. Uses per Long Rest: proficiency bonus. |
+| Gift of the Sea | You can breathe underwater and have a 40-foot swimming speed. This is always on. |
 | Expanded spells | Water, storm, cold, and battlefield control options |
 | Defensive tentacle features | Later levels may let your tentacle protect allies |
+
+Full patron details: [[Player Handouts/Class Guides/Fathomless Warlock|Fathomless Warlock Reference]]
 
 Important: several warlock options compete for your Bonus Action. If you have a tentacle, Hex, or another Bonus Action option, choose the one that matters most this turn.
 

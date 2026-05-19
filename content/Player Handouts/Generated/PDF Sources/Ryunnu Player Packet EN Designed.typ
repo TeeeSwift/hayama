@@ -74,9 +74,9 @@
     [
       #rect(width: 100%, radius: 5pt, fill: teal-dark, inset: 9pt)[
         #text(size: 7.8pt, fill: white)[TABLE ROLE] \
-        #text(size: 13.2pt, weight: "bold", fill: white)[Records and Pact Magic] \
+        #text(size: 13.2pt, weight: "bold", fill: white)[Sales and Pact Magic] \
         #v(3pt)
-        #text(size: 8.1pt, fill: rgb("#DDEFEF"))[Catch record mismatches and spend scarce magic at the right moment.]
+        #text(size: 8.1pt, fill: rgb("#DDEFEF"))[Navigate awkward social pressure and spend scarce magic at the right moment.]
       ]
     ],
   )
@@ -88,15 +88,15 @@
 
 === Public Face
 
-Ryunnu came to Hayama recently. He works in sales with a technical edge around electrical management, monitoring, and infrastructure systems.
+Ryunnu came to Hayama recently. He works in sales for electrical management systems, and he does not yet know the town's older local context.
 
-He is an outsider to the town's old stories. Because of that, he may notice things locals dismiss as normal and honestly treat them as strange.
+He is very much on the sales side, not the installation or repair side. Still, people keep treating him like a convenient electrical person.
 
 === Recent Events
 
-People in town often ask him for electrical work or equipment repair. He often has to clarify that he is not actually the installer.
+A few times now, Ryunnu has gone to cafes to work on his computer and somehow been included in speed dating rounds. Women sit at his table; he tries to explain, then sometimes just gives in and participates.
 
-Around cafes and equipment, he has seen behavior that does not look like normal malfunction. Machines may keep recording people or events that human witnesses fail to notice.
+A local event organizer somehow got his contact information once and later sent him a list of matches.
 
 === NPCs and Relationships
 
@@ -107,28 +107,26 @@ Around cafes and equipment, he has seen behavior that does not look like normal 
   fill: (x, y) => if y == 0 { sea } else { white },
   text(weight: "bold", fill: teal-dark)[Person],
   text(weight: "bold", fill: teal-dark)[Reminder],
-  [Town residents],
-  [They treat him like a convenient equipment person, which is awkward for him.],
-  [Nagisabashi Coffee area],
-  [May connect to anomalies in electricity, refrigeration, POS, time, or records.],
-  [A strange Mayor-related pressure],
-  [Sometimes he feels pressure or presence that does not seem to belong to him. The meaning is still unclear.],
-  [The other PCs],
-  [They notice different kinds of wrongness. Comparing information may change the picture.],
+  [Brazilian Jiu Jitsu instructor],
+  [An instructor at Ryunnu's gym. Teaches body control, distance, calm, and how not to panic under pressure.],
+  [Old man],
+  [Still thinks Ryunnu is an electrician no matter how many times Ryunnu explains that he works in sales.],
+  [Local event organizer],
+  [Runs speed dating events. Somehow got Ryunnu's contact info and once sent him a list of matches.],
 )
 
 === Places and Clues
 
-- Nagisabashi Coffee
-- Electrical panels and log-retaining equipment
-- Devices with mismatched timestamps or records
-- Everyday electrical systems the town casually asks him about
+- Cafes where he opens his laptop to work
+- Local speed dating events
+- The Brazilian Jiu Jitsu gym
+- The neighborhood where the old man asks for electrical help
 
 === Roleplay Anchors
 
 - People treat him like an expert installer, but he is not the installer.
-- He tries to organize weirdness in technical language.
-- He gets pulled into records and authentication that should not involve him.
+- He sometimes fails to escape awkward social situations and just participates.
+- Salesperson politeness and warlock unease sit strangely side by side.
 
 #pagebreak()
 
@@ -236,17 +234,23 @@ Around cafes and equipment, he has seen behavior that does not look like normal 
 
 == How To Play A Warlock
 
-Ryunnu is a warlock who notices mismatches in systems. Where other people feel rumors, moods, or strange pressure, he can look for records, times, power, synchronization, authentication, and machine behavior. In combat, Eldritch Blast is the default, and his single Pact Magic slot should be saved for important moments.
+Ryunnu is an electrical management systems salesman who came to Hayama recently. He is not an installer or repair technician, but people keep treating him like one. In combat, Eldritch Blast is the default, and his single Pact Magic slot should be saved for important moments.
 
-=== Look At The System
+=== As A Salesman
 
-Pay attention to electricity, equipment, records, apps, POS systems, security cameras, and timestamps. If human memory and machine records disagree, that can be a major clue.
+Ryunnu sells electrical management systems. He can talk about equipment, but he is not the person who installs or fixes it. When people misunderstand, he can explain politely like a salesman, or eventually give in and let the awkward moment happen.
 
 === Pact Magic
 
 At level 1, a warlock has one 1st-level spell slot. Pact Magic slots return after a short rest or long rest.
 
 Charm Person and Hellish Rebuke are both legal 1st-level warlock spell choices.
+
+=== Fathomless Features
+
+If Ryunnu's sheet uses the older Fathomless patron features at level 1, Tentacle of the Deeps is a bonus action option: create a spectral tentacle within 60 feet, attack a creature within 10 feet of it, deal 1d8 cold on a hit, and slow that creature by 10 feet.
+
+Gift of the Sea is always on: Ryunnu can breathe underwater and has a 40-foot swimming speed.
 
 === Eldritch Invocation
 
@@ -257,7 +261,7 @@ Devil's Sight fits the darkness theme, but in the 2024 rules it requires Warlock
 + Use Eldritch Blast from a safe distance as the default attack.
 + If someone damages you, consider Hellish Rebuke as a reaction.
 + If conversation or investigation can change the scene, consider Charm Person.
-+ Ask whether logs or timestamps contradict what people remember.
++ Outside combat, use sales talk, social connections, and awkward local events to pick up information.
 
 == Ryunnu's Chosen Spells And Invocation
 
@@ -268,15 +272,17 @@ Devil's Sight fits the darkness theme, but in the 2024 rules it requires Warlock
   spell-card([Mage Hand], [CANTRIP], [Action. Create a spectral hand that can manipulate light objects, doors, levers, containers, or traps from range.], [Strong for investigation and risky objects. No damage, but very useful with clever play.], accent: teal),
   spell-card([Hellish Rebuke], [1ST / REACTION], [Reaction. A creature that damaged you makes a Dexterity save. Failure takes 2d10 fire; success takes half.], [Spends your slot. Because it triggers when you are damaged, watch for the timing.], accent: coral),
   spell-card([Charm Person], [1ST], [Action. One Humanoid makes a Wisdom save. On a failure, it is Charmed by you.], [Useful in conversation or negotiation. When it ends, the target may know you magically influenced it.], accent: gold),
+  spell-card([Tentacle of the Deeps], [BONUS ACTION], [Create a spectral tentacle within 60 feet for 1 minute. It attacks a creature within 10 feet.], [On hit: 1d8 cold damage and speed -10 feet until your next turn starts. Later bonus actions move it 30 feet and attack again.], accent: teal),
+  spell-card([Gift of the Sea], [ALWAYS ON], [You can breathe underwater and gain a 40-foot swimming speed.], [No spell slot, action, or concentration. This makes underwater scenes much easier for Ryunnu.], accent: teal),
   spell-card([Devil's Sight], [REPLACE], [A darkness-seeing invocation, but in the 2024 rules it requires Warlock level 2+.], [Not legal at level 1. Choose one of the level 1 invocation options in the appendix.], accent: coral),
 )
 
 == Questions You Can Ask During Play
 
-- What do the machine logs or timestamps show?
-- Does human memory disagree with the records?
-- Does this look like an ordinary malfunction?
-- Can I roll Intelligence, Investigation, or work knowledge for this?
+- Does this person think I am an electrician?
+- Can I explain this smoothly as a salesman?
+- Do I know anything about this event organizer or participant?
+- Can I use my Jiu Jitsu calm or sense of distance here?
 
 #pagebreak()
 
@@ -328,18 +334,20 @@ Devil's Sight fits the darkness theme, but in the 2024 rules it requires Warlock
 #aside([Representative invocations available from level 1 in the 2024 Basic Rules. Devil's Sight requires Warlock level 2+, so it is not included here.])
 
 #compact-spell-table((
-  ..spell-row([Armor of Shadows], [], [Cast Mage Armor on yourself without spending a slot. Good for constant defense.], picked: false),
-  ..spell-row([Eldritch Mind], [], [Advantage on Constitution saves to maintain concentration. Helps keep Hex and similar spells.], picked: false),
-  ..spell-row([Pact of the Blade], [], [Create or bind a magical weapon. For weapon-focused warlocks.], picked: false),
-  ..spell-row([Pact of the Chain], [], [Find Familiar plus special familiar options. Strong for scouting, Help, and safe information.], picked: false),
-  ..spell-row([Pact of the Tome], [], [Book of Shadows grants extra cantrips and ritual flexibility. Problem-solving option.], picked: false),
+  ..spell-row([Armor of Shadows], [], [Cast Mage Armor on yourself without a slot. If unarmored, base AC becomes 13 + Dex; no concentration.], picked: false),
+  ..spell-row([Eldritch Mind], [], [Advantage on Constitution saves to maintain concentration after damage. Helps keep Hex and similar spells.], picked: false),
+  ..spell-row([Pact of the Blade], [bonus action], [Conjure or bond a melee weapon. You are proficient, can use it as a focus, and can attack/damage with Charisma.], picked: false),
+  ..spell-row([Pact of the Chain], [], [Learn Find Familiar; cast it as a Magic action without a slot. Special forms, scouting, Help, and safe information.], picked: false),
+  ..spell-row([Pact of the Tome], [], [Book of Shadows after a rest: 3 cantrips and 2 level 1 Ritual spells from any class, plus focus use.], picked: false),
 ))
 
 === Fathomless Expansion Options
 
-#aside([If using the Fathomless patron, confirm these 1st-level expanded spells against the sheet's rules version.])
+#aside([If using the older Fathomless level 1 features, Ryunnu also has Tentacle of the Deeps and Gift of the Sea. Confirm timing against the sheet's rules version.])
 
 #compact-spell-table((
+  ..spell-row([Tentacle of the Deeps], [bonus action], [Create within 60 ft for 1 minute. Melee spell attack within 10 ft; hit: 1d8 cold and speed -10 ft. Later bonus actions move 30 ft and attack again. Uses per long rest: PB.], picked: false),
+  ..spell-row([Gift of the Sea], [always on], [Breathe underwater and gain a 40 ft swim speed. No slot, action, or concentration.], picked: false),
   ..spell-row([Create or Destroy Water], [], [Action. Create or destroy water. Useful for fires, containers, traces, and water problems.], picked: false),
   ..spell-row([Thunderwave], [], [Action. Close-range area. Constitution save; failure takes 2d8 thunder and is pushed. Very loud.], picked: false),
 ))

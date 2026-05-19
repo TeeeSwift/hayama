@@ -29,28 +29,28 @@ modern civic growth and Hayama's older patterns.
 - Spell save DC: 12 at level 1
 - Always prepared: Hunter's Mark
 - Level 1 spells: Animal Friendship, Longstrider
-- Weapon masteries: Shortsword, Handaxe
+- Weapon masteries: Shortsword (Vex), Handaxe (Vex)
 
 ### Ability Scores
 
-| Ability | Score | Modifier |
-| --- | --- | --- |
-| Strength | 10 | +0 |
-| Dexterity / Agility | 16 | +3 |
-| Constitution | 13 | +1 |
-| Intelligence | 12 | +1 |
-| Wisdom | 14 | +2 |
-| Charisma | 12 | +1 |
+| Ability             | Score | Modifier |
+| ------------------- | ----- | -------- |
+| Strength            | 10    | +0       |
+| Dexterity / Agility | 16    | +3       |
+| Constitution        | 13    | +1       |
+| Intelligence        | 12    | +1       |
+| Wisdom              | 14    | +2       |
+| Charisma            | 12    | +1       |
 
 ### Skills
 
 Assuming level 1 proficiency bonus is +2:
 
-| Skill | Ability | Bonus |
-| --- | --- | --- |
-| Investigation | Intelligence | +3 |
-| Perception | Wisdom | +4 |
-| Animal Handling | Wisdom | +4 |
+| Skill           | Ability      | Bonus |
+| --------------- | ------------ | ----- |
+| Investigation   | Intelligence | +3    |
+| Perception      | Wisdom       | +4    |
+| Animal Handling | Wisdom       | +4    |
 
 Useful passive scores:
 
@@ -63,14 +63,14 @@ Vincent Uminashi is proficient in Strength and Dexterity saving throws.
 
 Assuming level 1 proficiency bonus is +2:
 
-| Save | Bonus |
-| --- | --- |
-| Strength | +2 |
-| Dexterity / Agility | +5 |
-| Constitution | +1 |
-| Intelligence | +1 |
-| Wisdom | +2 |
-| Charisma | +1 |
+| Save                | Bonus |
+| ------------------- | ----- |
+| Strength            | +2    |
+| Dexterity / Agility | +5    |
+| Constitution        | +1    |
+| Intelligence        | +1    |
+| Wisdom              | +2    |
+| Charisma            | +1    |
 
 ### Spells And Combat Notes
 
@@ -85,8 +85,12 @@ Prepared level 1 spells:
 
 Weapon masteries:
 
-- Shortsword
-- Handaxe
+- Shortsword: Vex
+- Handaxe: Vex
+
+Vex: when Vincent hits a creature with the weapon and deals damage, his next
+attack roll against that same creature has advantage before the end of his next
+turn. The handaxe can also apply Vex when thrown.
 
 ---
 
@@ -101,6 +105,7 @@ coordinate maintenance, access, contractors, and development relationships
 around town.
 
 He operates through a combination of:
+
 - his father's capital
 - his mother's local family connections
 - his own familiarity with Hayama and its people
@@ -133,6 +138,7 @@ isolated construction problems.
   relationships
 
 His family represents a convergence of:
+
 - modern power
 - inherited legacy
 
@@ -144,6 +150,7 @@ Vincent Uminashi's household has long employed a housemaid who has served the
 family across generations.
 
 She appears entirely normal:
+
 - composed
 - professional
 - unremarkable in demeanor
@@ -183,11 +190,13 @@ pattern.
 Chizuru does not treat him as a replacement.
 
 Instead:
+
 - she observes
 - she remains present
 - she waits
 
 Her connection to him is:
+
 - patient
 - unresolved
 - shaped more by time than by expectation

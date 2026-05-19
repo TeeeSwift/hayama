@@ -18,8 +18,7 @@ Anchored deity.
 ## Surface Identity
 
 - Recently arrived in Hayama
-- Electrical systems engineer and salesman focused on electrical management,
-  monitoring, and infrastructure systems
+- Electrical management systems salesman
 - D&D background: Noble
 - Class: Warlock
 - Curious, somewhat uncertain, trying new experiences
@@ -148,6 +147,22 @@ clear meaning.
 
 ---
 
+## Local Relationships
+
+- Brazilian Jiu Jitsu instructor: an older, practical teacher who helps Ryunnu
+  with body control, distance, and staying calm under pressure
+- Old man who wants electrical help: still thinks Ryunnu is an electrician no
+  matter how many times Ryunnu explains that he works in sales
+- Local event organizer: runs speed dating events; somehow got Ryunnu's contact
+  information and sent him a list of matches after he was accidentally included
+  in several rounds
+
+Ryunnu sometimes goes to cafes to work on his computer. A few times, he has been
+mistakenly folded into speed dating rounds. Women sit down at his table, he
+tries to clarify, and sometimes he simply gives in and participates.
+
+---
+
 ## First Incident: Nagisabashi Cafe
 
 During early strange electrical issues at
@@ -184,7 +199,9 @@ systems are becoming internally inconsistent.
 
 ## Relationship To Infrastructure
 
-Ryunnu naturally interprets supernatural instability through systems behavior.
+Ryunnu is not a deep infrastructure specialist. He sells electrical management
+systems, which means he knows enough to talk about equipment and customers, but
+he is not the person who installs or repairs anything.
 
 Where others perceive:
 
@@ -195,13 +212,12 @@ Where others perceive:
 
 Ryunnu notices:
 
-- synchronization collapse
-- contradictory readings
-- recursive signal behavior
-- impossible infrastructure responses
-- systems attempting to correct invalid inputs
-- devices recognizing the wrong people
-- electrical behavior that does not match physical conditions
+- when people misunderstand what he actually does
+- when a social situation becomes hard to escape
+- when a customer, organizer, or local contact is trying to pull him into a role
+  he did not ask for
+- electrical behavior that is strange enough that even a salesman knows it is
+  not normal
 
 This makes Ryunnu unusually sensitive to the interaction between reclaiming,
 records, infrastructure, and hidden systems.

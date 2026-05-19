@@ -62,23 +62,23 @@ Ranger spells are often:
 - emergency healing
 - animal and nature communication
 
-Vincent Uminashi currently has Hunter's Mark always prepared, plus Animal Friendship and Longstrider prepared as his level 1 ranger spells. He has Shortsword and Handaxe as his weapon masteries.
+Vincent Uminashi currently has Hunter's Mark always prepared, plus Animal Friendship and Longstrider prepared as his level 1 ranger spells. He has Shortsword (Vex) and Handaxe (Vex) as his weapon masteries.
 
 ## Spell Picks To Understand
 
 If these are on your sheet, here is when to think about using them:
 
-| Spell | Use It When... |
-| --- | --- |
-| Hunter's Mark | You will attack the same target repeatedly |
-| Cure Wounds | Someone needs healing and you can reach them |
-| Goodberry | You want reliable out-of-combat healing or survival food |
-| Ensnaring Strike | You want a weapon hit to restrain or pin a target |
-| Hail of Thorns | You want a weapon hit to splash damage nearby targets |
-| Fog Cloud | You need cover, escape, confusion, or concealment |
-| Detect Magic | Something supernatural may be present |
-| Speak with Animals | An animal might know what happened |
-| Longstrider | Movement will matter for a while |
+| Spell              | Use It When...                                           |
+| ------------------ | -------------------------------------------------------- |
+| Hunter's Mark      | You will attack the same target repeatedly               |
+| Cure Wounds        | Someone needs healing and you can reach them             |
+| Goodberry          | You want reliable out-of-combat healing or survival food |
+| Ensnaring Strike   | You want a weapon hit to restrain or pin a target        |
+| Hail of Thorns     | You want a weapon hit to splash damage nearby targets    |
+| Fog Cloud          | You need cover, escape, confusion, or concealment        |
+| Detect Magic       | Something supernatural may be present                    |
+| Speak with Animals | An animal might know what happened                       |
+| Longstrider        | Movement will matter for a while                         |
 
 ## Watch Your Concentration
 

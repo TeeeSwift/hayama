@@ -94,7 +94,7 @@ She lives in an apartment above a restaurant that hosts local music performances
 
 === Recent Events
 
-The owner of the restaurant and building, the "Mollusk lady," is a slow-spoken, dreamy, unassuming old woman. She has always been patient and supportive of Alex's art. At one point she gave Alex a bracelet with a cute pearl ornament. Her words stayed with Alex: "It is the artist's responsibility to help people realize that there is no them in us versus them."
+The owner of the restaurant and building, Beatrice, is a slow-spoken, dreamy, unassuming old woman. She has always been patient and supportive of Alex's art. Her words stayed with Alex: "It is the artist's responsibility to help people realize that there is no them in us versus them."
 
 Professionally, Alex has worked alongside Vincent several times. She consulted on municipal, public, private, renovation, and new construction projects while Vincent observed and coordinated from higher up the chain of command. They are not close, but they recognize each other, know each other's work, and can speak cordially.
 
@@ -107,8 +107,8 @@ Professionally, Alex has worked alongside Vincent several times. She consulted o
   fill: (x, y) => if y == 0 { sea } else { white },
   text(weight: "bold", fill: teal-dark)[Person],
   text(weight: "bold", fill: teal-dark)[Reminder],
-  [Mollusk lady],
-  [Owner of the restaurant and building. Slow, dreamy, unassuming, and warmly supportive of Alex's art. She gave Alex the pearl bracelet.],
+  [Beatrice],
+  [Owner of the restaurant and building. Slow, dreamy, unassuming, and warmly supportive of Alex's art.],
   [Vincent],
   [A professional contact from several local projects. He is higher in the chain of command, so they do not interact heavily, but the relationship is cordial.],
   [Old research friend],
@@ -127,7 +127,7 @@ Professionally, Alex has worked alongside Vincent several times. She consulted o
 - She is pulled between scientific rigor and artistic intuition.
 - She feels how hard it is to make art into work, but does not want to give up expression.
 - When her old friend asks about new research or the next geology conference, Alex has to ask where she is really going.
-- The pearl bracelet reminds her of kindness, responsibility, and art that crosses boundaries.
+- Beatrice's words remind her of kindness, responsibility, and art that crosses boundaries.
 
 #pagebreak()
 

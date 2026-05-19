@@ -102,11 +102,11 @@ const packets = [
       surface:
         "Alex has worked as a geology and environmental consultant, evaluating construction safety, disaster risk, development plans, and environmental hazards. She values structure, evidence, and careful investigation, but she is now trying to express things that scientific language cannot quite reach through song and performance.\n\nShe lives in an apartment above a restaurant that hosts local music performances and art events. From downstairs come music, conversation, cooking smells, and the low noise of the town gathering together. Her artistic career is not yet stable, and she feels the daily difficulty of turning art into a life.",
       recent:
-        'The owner of the restaurant and building, the "Mollusk lady," is a slow-spoken, dreamy, unassuming old woman. She has always been patient and supportive of Alex\'s art. At one point she gave Alex a bracelet with a cute pearl ornament. Her words stayed with Alex: "It is the artist\'s responsibility to help people realize that there is no them in us versus them."\n\nProfessionally, Alex has worked alongside Vincent several times. She consulted on municipal, public, private, renovation, and new construction projects while Vincent observed and coordinated from higher up the chain of command. They are not close, but they recognize each other, know each other\'s work, and can speak cordially.',
+        "The owner of the restaurant and building, Beatrice, is a slow-spoken, dreamy, unassuming old woman. She has always been patient and supportive of Alex's art. Her words stayed with Alex: \"It is the artist's responsibility to help people realize that there is no them in us versus them.\"\n\nProfessionally, Alex has worked alongside Vincent several times. She consulted on municipal, public, private, renovation, and new construction projects while Vincent observed and coordinated from higher up the chain of command. They are not close, but they recognize each other, know each other's work, and can speak cordially.",
       npcs: [
         [
-          "Mollusk lady",
-          "Owner of the restaurant and building. Slow, dreamy, unassuming, and warmly supportive of Alex's art. She gave Alex the pearl bracelet.",
+          "Beatrice",
+          "Owner of the restaurant and building. Slow, dreamy, unassuming, and warmly supportive of Alex's art.",
         ],
         [
           "Vincent",
@@ -127,7 +127,7 @@ const packets = [
         "She is pulled between scientific rigor and artistic intuition.",
         "She feels how hard it is to make art into work, but does not want to give up expression.",
         "When her old friend asks about new research or the next geology conference, Alex has to ask where she is really going.",
-        "The pearl bracelet reminds her of kindness, responsibility, and art that crosses boundaries.",
+        "Beatrice's words remind her of kindness, responsibility, and art that crosses boundaries.",
       ],
       questions: [
         "Does this spell require concentration?",
@@ -185,7 +185,8 @@ const packets = [
       {
         title: "Weapon Mastery",
         body: [
-          "Vincent has mastery with the shortsword and handaxe. When you hit, check the weapon's mastery effect and ask the DM if it applies.",
+          "Vincent's shortsword and handaxe both use Vex. When you hit and deal damage, your next attack roll against that same creature has advantage before the end of your next turn.",
+          "The handaxe can also be thrown. You can hit a distant enemy with it, apply Vex, and make your next attack against that target easier to land.",
         ],
       },
     ],
@@ -375,10 +376,6 @@ const packets = [
           "The sea",
           "Something she respects. Recently, it feels like it is responding to her as more than nature.",
         ],
-        [
-          "Ryunnu",
-          "A newcomer who joined the diving class and may have seen the strange events from another angle.",
-        ],
       ],
       places: [
         "Her father's diving class",
@@ -415,8 +412,8 @@ const packets = [
     name: "Ryunnu",
     fileBase: "Ryunnu Player Packet EN Designed",
     subtitle: "Warlock / Noble / Electrical management systems sales",
-    role: "Records and Pact Magic",
-    roleText: "Catch record mismatches and spend scarce magic at the right moment.",
+    role: "Sales and Pact Magic",
+    roleText: "Navigate awkward social pressure and spend scarce magic at the right moment.",
     stats: [
       ["Max HP", "8"],
       ["PB", "+2"],
@@ -437,12 +434,12 @@ const packets = [
     ],
     classHeading: "How To Play A Warlock",
     classIntro:
-      "Ryunnu is a warlock who notices mismatches in systems. Where other people feel rumors, moods, or strange pressure, he can look for records, times, power, synchronization, authentication, and machine behavior. In combat, Eldritch Blast is the default, and his single Pact Magic slot should be saved for important moments.",
+      "Ryunnu is an electrical management systems salesman who came to Hayama recently. He is not an installer or repair technician, but people keep treating him like one. In combat, Eldritch Blast is the default, and his single Pact Magic slot should be saved for important moments.",
     classSections: [
       {
-        title: "Look At The System",
+        title: "As A Salesman",
         body: [
-          "Pay attention to electricity, equipment, records, apps, POS systems, security cameras, and timestamps. If human memory and machine records disagree, that can be a major clue.",
+          "Ryunnu sells electrical management systems. He can talk about equipment, but he is not the person who installs or fixes it. When people misunderstand, he can explain politely like a salesman, or eventually give in and let the awkward moment happen.",
         ],
       },
       {
@@ -450,6 +447,13 @@ const packets = [
         body: [
           "At level 1, a warlock has one 1st-level spell slot. Pact Magic slots return after a short rest or long rest.",
           "Charm Person and Hellish Rebuke are both legal 1st-level warlock spell choices.",
+        ],
+      },
+      {
+        title: "Fathomless Features",
+        body: [
+          "If Ryunnu's sheet uses the older Fathomless patron features at level 1, Tentacle of the Deeps is a bonus action option: create a spectral tentacle within 60 feet, attack a creature within 10 feet of it, deal 1d8 cold on a hit, and slow that creature by 10 feet.",
+          "Gift of the Sea is always on: Ryunnu can breathe underwater and has a 40-foot swimming speed.",
         ],
       },
       {
@@ -463,7 +467,7 @@ const packets = [
       "Use Eldritch Blast from a safe distance as the default attack.",
       "If someone damages you, consider Hellish Rebuke as a reaction.",
       "If conversation or investigation can change the scene, consider Charm Person.",
-      "Ask whether logs or timestamps contradict what people remember.",
+      "Outside combat, use sales talk, social connections, and awkward local events to pick up information.",
     ],
     chosenHeading: "Ryunnu's Chosen Spells And Invocation",
     chosenSpells: [
@@ -496,6 +500,20 @@ const packets = [
         "gold",
       ],
       [
+        "Tentacle of the Deeps",
+        "BONUS ACTION",
+        "Create a spectral tentacle within 60 feet for 1 minute. It attacks a creature within 10 feet.",
+        "On hit: 1d8 cold damage and speed -10 feet until your next turn starts. Later bonus actions move it 30 feet and attack again.",
+        "teal",
+      ],
+      [
+        "Gift of the Sea",
+        "ALWAYS ON",
+        "You can breathe underwater and gain a 40-foot swimming speed.",
+        "No spell slot, action, or concentration. This makes underwater scenes much easier for Ryunnu.",
+        "teal",
+      ],
+      [
         "Devil's Sight",
         "REPLACE",
         "A darkness-seeing invocation, but in the 2024 rules it requires Warlock level 2+.",
@@ -505,43 +523,39 @@ const packets = [
     ],
     context: {
       surface:
-        "Ryunnu came to Hayama recently. He works in sales with a technical edge around electrical management, monitoring, and infrastructure systems.\n\nHe is an outsider to the town's old stories. Because of that, he may notice things locals dismiss as normal and honestly treat them as strange.",
+        "Ryunnu came to Hayama recently. He works in sales for electrical management systems, and he does not yet know the town's older local context.\n\nHe is very much on the sales side, not the installation or repair side. Still, people keep treating him like a convenient electrical person.",
       recent:
-        "People in town often ask him for electrical work or equipment repair. He often has to clarify that he is not actually the installer.\n\nAround cafes and equipment, he has seen behavior that does not look like normal malfunction. Machines may keep recording people or events that human witnesses fail to notice.",
+        "A few times now, Ryunnu has gone to cafes to work on his computer and somehow been included in speed dating rounds. Women sit at his table; he tries to explain, then sometimes just gives in and participates.\n\nA local event organizer somehow got his contact information once and later sent him a list of matches.",
       npcs: [
         [
-          "Town residents",
-          "They treat him like a convenient equipment person, which is awkward for him.",
+          "Brazilian Jiu Jitsu instructor",
+          "An instructor at Ryunnu's gym. Teaches body control, distance, calm, and how not to panic under pressure.",
         ],
         [
-          "Nagisabashi Coffee area",
-          "May connect to anomalies in electricity, refrigeration, POS, time, or records.",
+          "Old man",
+          "Still thinks Ryunnu is an electrician no matter how many times Ryunnu explains that he works in sales.",
         ],
         [
-          "A strange Mayor-related pressure",
-          "Sometimes he feels pressure or presence that does not seem to belong to him. The meaning is still unclear.",
-        ],
-        [
-          "The other PCs",
-          "They notice different kinds of wrongness. Comparing information may change the picture.",
+          "Local event organizer",
+          "Runs speed dating events. Somehow got Ryunnu's contact info and once sent him a list of matches.",
         ],
       ],
       places: [
-        "Nagisabashi Coffee",
-        "Electrical panels and log-retaining equipment",
-        "Devices with mismatched timestamps or records",
-        "Everyday electrical systems the town casually asks him about",
+        "Cafes where he opens his laptop to work",
+        "Local speed dating events",
+        "The Brazilian Jiu Jitsu gym",
+        "The neighborhood where the old man asks for electrical help",
       ],
       roleplay: [
         "People treat him like an expert installer, but he is not the installer.",
-        "He tries to organize weirdness in technical language.",
-        "He gets pulled into records and authentication that should not involve him.",
+        "He sometimes fails to escape awkward social situations and just participates.",
+        "Salesperson politeness and warlock unease sit strangely side by side.",
       ],
       questions: [
-        "What do the machine logs or timestamps show?",
-        "Does human memory disagree with the records?",
-        "Does this look like an ordinary malfunction?",
-        "Can I roll Intelligence, Investigation, or work knowledge for this?",
+        "Does this person think I am an electrician?",
+        "Can I explain this smoothly as a salesman?",
+        "Do I know anything about this event organizer or participant?",
+        "Can I use my Jiu Jitsu calm or sense of distance here?",
       ],
     },
     appendix: [
@@ -562,8 +576,18 @@ const packets = [
       },
       {
         title: "Fathomless Expansion Options",
-        note: "If using the Fathomless patron, confirm these 1st-level expanded spells against the sheet's rules version.",
+        note: "If using the older Fathomless level 1 features, Ryunnu also has Tentacle of the Deeps and Gift of the Sea. Confirm timing against the sheet's rules version.",
         rows: [
+          [
+            "Tentacle of the Deeps",
+            "bonus action",
+            "Create within 60 ft for 1 minute. Melee spell attack within 10 ft; hit: 1d8 cold and speed -10 ft. Later bonus actions move 30 ft and attack again. Uses per long rest: PB.",
+          ],
+          [
+            "Gift of the Sea",
+            "always on",
+            "Breathe underwater and gain a 40 ft swim speed. No slot, action, or concentration.",
+          ],
           [
             "Create or Destroy Water",
             "",
@@ -1452,23 +1476,27 @@ function warlockInvocationRows() {
     [
       "Armor of Shadows",
       "",
-      "Cast Mage Armor on yourself without spending a slot. Good for constant defense.",
+      "Cast Mage Armor on yourself without a slot. If unarmored, base AC becomes 13 + Dex; no concentration.",
     ],
     [
       "Eldritch Mind",
       "",
-      "Advantage on Constitution saves to maintain concentration. Helps keep Hex and similar spells.",
+      "Advantage on Constitution saves to maintain concentration after damage. Helps keep Hex and similar spells.",
     ],
-    ["Pact of the Blade", "", "Create or bind a magical weapon. For weapon-focused warlocks."],
+    [
+      "Pact of the Blade",
+      "bonus action",
+      "Conjure or bond a melee weapon. You are proficient, can use it as a focus, and can attack/damage with Charisma.",
+    ],
     [
       "Pact of the Chain",
       "",
-      "Find Familiar plus special familiar options. Strong for scouting, Help, and safe information.",
+      "Learn Find Familiar; cast it as a Magic action without a slot. Special forms, scouting, Help, and safe information.",
     ],
     [
       "Pact of the Tome",
       "",
-      "Book of Shadows grants extra cantrips and ritual flexibility. Problem-solving option.",
+      "Book of Shadows after a rest: 3 cantrips and 2 level 1 Ritual spells from any class, plus focus use.",
     ],
   ]
 }

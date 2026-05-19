@@ -68,11 +68,11 @@ At level 1, a warlock chooses one invocation. These 2024 Basic Rules invocations
 
 | Invocation | Pick It If... | What It Changes |
 | --- | --- | --- |
-| Armor of Shadows | You want better defense without spending your one Pact Magic slot. | You can cast Mage Armor on yourself without spending a spell slot. Good if your AC is low and you expect danger. |
-| Eldritch Mind | You expect to use Concentration spells like Hex, Bane, or Expeditious Retreat. | You have advantage on Constitution saving throws to maintain Concentration, making your important spells harder to break. |
-| Pact of the Blade | You want to fight with a weapon and make warlock magic part of your melee style. | You can conjure or bind a pact weapon. This supports a weapon-focused warlock and may let you use Charisma with that weapon, depending on your sheet. |
-| Pact of the Chain | You want a magical familiar for scouting, help, and weird problem-solving. | You learn Find Familiar and gain special familiar options. Strong for exploration, delivering information, and interacting safely at a distance. |
-| Pact of the Tome | You want more cantrips, rituals, and utility flexibility. | You gain a Book of Shadows with extra cantrips and ritual-style utility, making you feel more like a strange scholar or occult problem-solver. |
+| Armor of Shadows | You want better defense without spending your one Pact Magic slot. | You can cast Mage Armor on yourself without a spell slot. While you are not wearing armor, your base AC becomes `13 + Dexterity modifier`; no Concentration. |
+| Eldritch Mind | You expect to use Concentration spells like Hex, Bane, or Expeditious Retreat. | You have advantage on Constitution saving throws to maintain Concentration, making your important spells harder to break after damage. |
+| Pact of the Blade | You want to fight with a weapon and make warlock magic part of your melee style. | Bonus Action to conjure or bond with a melee weapon. You are proficient, can use it as a spellcasting focus, and can usually attack and damage with Charisma. |
+| Pact of the Chain | You want a magical familiar for scouting, help, and weird problem-solving. | You learn Find Familiar and can cast it as a Magic action without a slot. You get special familiar forms and can trade one of your attacks for the familiar's Reaction attack. |
+| Pact of the Tome | You want more cantrips, rituals, and utility flexibility. | At the end of a Short or Long Rest, conjure a Book of Shadows. It gives three cantrips and two level 1 Ritual spells from any class, and can be used as a spellcasting focus. |
 
 These unlock at warlock level 2:
 
@@ -110,6 +110,15 @@ Higher-level eldritch options:
 ## Fathomless Patron Note
 
 The Fathomless patron comes from _Tasha's Cauldron of Everything_. If your sheet uses the older Fathomless rules, your patron features may appear at level 1. If your sheet uses the 2024 warlock chassis, subclass features usually begin at level 3. Use the sheet at the table.
+
+Full patron reference: [[Player Handouts/Class Guides/Fathomless Warlock|Fathomless Warlock Reference]]
+
+If your sheet gives you the older level 1 Fathomless features, they work like this:
+
+| Feature | Action Type | At The Table |
+| --- | --- | --- |
+| Tentacle of the Deeps | Bonus Action | Create a spectral tentacle at a point you can see within 60 feet. It lasts 1 minute. When it appears, make a melee spell attack against one creature within 10 feet of it; on a hit, deal `1d8` cold damage and reduce the target's speed by 10 feet until the start of your next turn. On later turns, you can use a Bonus Action to move the tentacle up to 30 feet and repeat the attack. Uses per Long Rest: your proficiency bonus. |
+| Gift of the Sea | Always on | You can breathe underwater and have a 40-foot swimming speed. This does not use a spell slot, action, or Concentration. |
 
 If using the Fathomless expanded spell list, these level 1 spells are added to that warlock's available spell options:
 

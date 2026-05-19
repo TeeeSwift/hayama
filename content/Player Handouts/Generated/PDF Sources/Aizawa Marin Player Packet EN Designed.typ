@@ -113,8 +113,6 @@ It did not feel exactly like the sea dragged her down. It felt more like the sea
   [Relates to the sea in a lighter, freer, more stylish way. Marin feels a little jealous of that freedom.],
   [The sea],
   [Something she respects. Recently, it feels like it is responding to her as more than nature.],
-  [Ryunnu],
-  [A newcomer who joined the diving class and may have seen the strange events from another angle.],
 )
 
 === Places and Clues
