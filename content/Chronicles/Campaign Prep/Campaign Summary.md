@@ -89,8 +89,15 @@ ways.
 - [[Chronicles/Session 1/index|Session 1]] established the first public reaping
   at [[Atlas/Nagisabashi Coffee]], where an old woman was taken and erased from
   most residents' memory.
+- All four PCs were present for the Nagisabashi reaping: [[Actors/Player
+  Characters/Alex Gaga|Alex]], [[Actors/Player Characters/Vincent
+  Uminashi|Vincent]], [[Actors/Player Characters/Ryunnu|Ryunnu]], and
+  [[Actors/Player Characters/Aizawa Marin|Marin]].
 - [[Actors/Player Characters/Ryunnu|Ryunnu]] survived a dive despite his
   regulator tube being punctured and full of water.
+- [[Actors/Player Characters/Ryunnu|Ryunnu]] was working on the cafe's electrical
+  circuitry during the reaping, allowing [[Actors/The Mayor|the Mayor]] to sense
+  something through their unintended patron-interface connection.
 - The [[Atlas/Uminashi Seawall|Uminashi seawall]] has an exposed foundation on
   the third span of the north wall, and its deeper problem is that it disrupts
   the wave rhythm needed by the Barrier anchor beneath it.

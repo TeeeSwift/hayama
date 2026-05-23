@@ -19,7 +19,9 @@ memory.
 ## Player Signals
 
 - [[Actors/Player Characters/Ryunnu|Ryunnu]]'s repeated misclassification as an
-  electrician is funny, useful, and now structurally load-bearing.
+  electrician is funny, useful, and now structurally load-bearing. He was working
+  on [[Atlas/Nagisabashi Coffee|Nagisabashi Coffee]]'s electrical circuitry when
+  the first public reaping happened.
 - [[Actors/Player Characters/Vincent Uminashi|Vincent]]'s breakfast banana is
   canon and should be protected as a ritual object of ridiculous dignity.
 - [[Actors/Marin's Father|Marin's father]] works well as cozy embarrassment with
@@ -40,8 +42,18 @@ memory.
   [[Actors/Mollusk|Beatrice]].
 - [[Actors/Player Characters/Ryunnu|Ryunnu]] survived a dive despite a punctured,
   water-filled regulator tube.
+- All four PCs were present at [[Atlas/Nagisabashi Coffee]] for the first
+  visible reaping: [[Actors/Player Characters/Alex Gaga|Alex]] and
+  [[Actors/Player Characters/Vincent Uminashi|Vincent]] at the civic meeting,
+  [[Actors/Player Characters/Ryunnu|Ryunnu]] working on the electrical
+  circuitry, and [[Actors/Player Characters/Aizawa Marin|Marin]] eating parfait
+  in the corner.
 - The first visible reaping at [[Atlas/Nagisabashi Coffee]] removed an old woman
-  from social memory while leaving behind her phone and an extra coffee cup.
+  from social memory while leaving behind her unlocked phone and an extra coffee
+  cup.
+- The erased old woman was a generic [[Actors/The Drifted|Drifted]] resident who
+  did not understand divinity, [[Lore/The Barrier|the Barrier]], or the deeper
+  crisis.
 - The [[Atlas/Uminashi Seawall|Uminashi seawall]] sits over a divine Barrier
   anchor that requires wave rhythm; the wall disrupted that rhythm rather than
   simply breaking the anchor.
@@ -49,8 +61,9 @@ memory.
 
 ## Open Loops
 
-- Who was the erased old woman?
-- What is on the cell phone Vincent saw?
+- Who was the erased old woman in ordinary social terms?
+- What can the party learn from the old woman's unsecured grandma phone, given
+  that it has no texts, a few photos, and many call logs?
 - Who signed off on the [[Atlas/Uminashi Seawall|Uminashi seawall]] work, and
   what did they know?
 - How quickly can [[Actors/The Anchored|The Anchored]] bring down enough of the
@@ -70,20 +83,28 @@ memory.
   seawall, creating the appearance of sabotage.
 - The cafe should feel normal afterward in a way that is more disturbing than
   open panic.
-- The missing woman's absence can generate contradictions: receipts, phone
+- The missing woman's absence can generate contradictions: receipts, phone call
   records, empty chairs, loyalty cards, photos, or cafe staff muscle memory.
 - [[Actors/Watatsumi|Watatsumi]] should continue to feel patterned but not
   strategic.
 
 ## Prep For Next Session
 
-- Decide what Vincent can learn from the phone.
+- Open with [[Actors/Player Characters/Ryunnu|Ryunnu]] and his patron,
+  [[Actors/The Mayor|the Mayor]], because the Mayor sensed the cafe event through
+  Ryunnu while Ryunnu was connected to the circuitry.
+- Decide what the party can learn from the old woman's unsecured phone: no
+  texts, a few photos, and lots of call logs.
 - Prepare Hayashi's immediate procedural response to the exposed seawall
   foundation.
 - Decide what evidence reveals that the wall has disrupted wave rhythm rather
-  than merely exposing a bad foundation.
+  than merely exposing a bad foundation, while keeping the wrongness too subtle
+  for ordinary people to notice by watching the waves.
 - Decide whether [[Actors/Barnacle|Barnacle]] or another quiet responder appears
   at [[Atlas/Nagisabashi Coffee]] or the seawall.
+- Prepare a possible break-in at [[Atlas/Town Hall|Town Hall]] to identify the
+  person who made the specific infrastructure complaint.
+- Include a combat encounter in session 2.
 - Give each PC one clue that matches how they perceive systems:
   [[Actors/Player Characters/Alex Gaga|Alex]] through institutional logic,
   [[Actors/Player Characters/Vincent Uminashi|Vincent]] through social memory,

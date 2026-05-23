@@ -18,6 +18,7 @@ tags:
 - [[Chronicles/Session 1/index|Session 1]]
 - [[Chronicles/Campaign Prep/Session 1 Prep|Session 1 Prep]]
 - [[Chronicles/Campaign Prep/Debriefs/Session 1 Debrief|Session 1 Debrief]]
+- [[Chronicles/Campaign Prep/Session 2 Prep|Session 2 Prep]]
 
 ## Campaign Systems
 

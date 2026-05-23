@@ -183,6 +183,10 @@ During the first major reaping event, Ryunnu notices something impossible:
 the cafe's systems continue recognizing someone after people begin failing to do
 so.
 
+Because Ryunnu is physically working on the cafe's circuitry when the reaping
+hits, [[Actors/The Mayor|the Mayor]] senses part of the event through Ryunnu's
+misregistered patron interface.
+
 Possible examples:
 
 - a POS terminal keeps an open tab active

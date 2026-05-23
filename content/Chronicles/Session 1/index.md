@@ -195,9 +195,10 @@ Water had been pumping through his regulator the entire time.
 ## The Cafe Meeting
 
 At [[Atlas/Nagisabashi Coffee|Nagisabashi Coffee]], Alex and Vincent sat across
-from [[Actors/Hayashi|Hayashi-san]], a clean-cut municipal salaryman in a suit.
-He was polite, tidy, slightly timid, and extremely relieved to be giving someone
-else a problem.
+from [[Actors/Hayashi|Hayashi-san]], a clean-cut municipal salaryman in a suit,
+while [[Actors/Player Characters/Ryunnu|Ryunnu]] worked nearby on the cafe's
+electrical circuitry. He was polite, tidy, slightly timid, and extremely relieved
+to be giving someone else a problem.
 
 There had been complaints about the [[Atlas/Uminashi Seawall|Uminashi seawall]],
 completed two months ago. Most were ordinary civic grumbling. One was not. A
@@ -210,8 +211,10 @@ north wall.
 
 [[Actors/Hayashi|Hayashi]] explained that a third-party structural audit was now
 required. Vincent texted [[Actors/Chizuru|Chizuru]] to ask who had been
-responsible for the construction project. [[Actors/Hayashi|Hayashi]], visibly
-lighter after transferring the problem into richer hands, excused himself.
+responsible for the construction project. [[Actors/Player Characters/Aizawa
+Marin|Marin]] arrived for parfaits and settled into the corner as
+[[Actors/Hayashi|Hayashi]], visibly lighter after transferring the problem into
+richer hands, excused himself.
 
 ## The First Reaping
 
@@ -231,10 +234,13 @@ them.
 
 A thin layer of water spread across the floor.
 
-Vincent noticed three other people still conscious:
+Vincent realized that all four PCs were caught inside the event and still
+conscious, along with the old woman:
 
 - [[Actors/Player Characters/Alex Gaga|Alex]]
-- [[Actors/Player Characters/Aizawa Marin|a high schooler]] eating parfait in the corner
+- [[Actors/Player Characters/Vincent Uminashi|Vincent]]
+- [[Actors/Player Characters/Ryunnu|Ryunnu]], still near the cafe circuitry
+- [[Actors/Player Characters/Aizawa Marin|the high schooler]] eating parfait in the corner
 - an old woman sitting with two friends
 
 The water found the old woman.
