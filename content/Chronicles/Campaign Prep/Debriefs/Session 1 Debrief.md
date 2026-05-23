@@ -42,6 +42,9 @@ memory.
   water-filled regulator tube.
 - The first visible reaping at [[Atlas/Nagisabashi Coffee]] removed an old woman
   from social memory while leaving behind her phone and an extra coffee cup.
+- The [[Atlas/Uminashi Seawall|Uminashi seawall]] sits over a divine Barrier
+  anchor that requires wave rhythm; the wall disrupted that rhythm rather than
+  simply breaking the anchor.
 - Some people perceive reaping events. Most residents do not.
 
 ## Open Loops
@@ -50,6 +53,8 @@ memory.
 - What is on the cell phone Vincent saw?
 - Who signed off on the [[Atlas/Uminashi Seawall|Uminashi seawall]] work, and
   what did they know?
+- How quickly can [[Actors/The Anchored|The Anchored]] bring down enough of the
+  wall to restore the rhythm without making themselves look openly hostile?
 - Why did Ryunnu's regulator keep him alive?
 - What did [[Actors/Player Characters/Aizawa Marin|Marin]] feel when the
   boundary between herself and [[Actors/Watatsumi|the sea]] thinned?
@@ -61,6 +66,8 @@ memory.
   structural audit.
 - [[Actors/Chizuru|Chizuru]] may reveal or conceal who controlled the seawall
   construction.
+- [[Actors/The Anchored|The Anchored]] may begin acting urgently around the
+  seawall, creating the appearance of sabotage.
 - The cafe should feel normal afterward in a way that is more disturbing than
   open panic.
 - The missing woman's absence can generate contradictions: receipts, phone
@@ -73,6 +80,8 @@ memory.
 - Decide what Vincent can learn from the phone.
 - Prepare Hayashi's immediate procedural response to the exposed seawall
   foundation.
+- Decide what evidence reveals that the wall has disrupted wave rhythm rather
+  than merely exposing a bad foundation.
 - Decide whether [[Actors/Barnacle|Barnacle]] or another quiet responder appears
   at [[Atlas/Nagisabashi Coffee]] or the seawall.
 - Give each PC one clue that matches how they perceive systems:

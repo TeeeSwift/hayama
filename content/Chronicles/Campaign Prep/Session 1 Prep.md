@@ -161,8 +161,8 @@ Use only a few at the table. Do not dump all of them.
 
 - The disturbance is not confined to the dive site.
 - Municipal infrastructure and supernatural systems are entangled.
-- The shoreline stabilization project hit something older than the official
-  records admit.
+- The shoreline stabilization project changed the rhythm around something older
+  than the official records admit.
 - The Anchored are aware of the crisis but are not ready to explain themselves.
 - The Drifted may interpret the same events as Anchored wrongdoing.
 - Watatsumi's activity feels patterned but not strategic.
@@ -218,20 +218,20 @@ become useful. Avoid canonizing all of them as major figures immediately.
 - Table use: provides official explanations, schedules inspections, deflects
   blame from [[Actors/The Mayor|The Mayor]]
 - Surface: efficient, apologetic, overprepared
-- Secret / pressure: knows the project struck an undocumented stone structure but
-  believes hiding that detail prevents panic and lawsuits
+- Secret / pressure: knows the project interacted with undocumented coastal
+  stonework but believes hiding that detail prevents panic and lawsuits
 - Voice: "Let's not turn an engineering issue into a ghost story before we've
   checked the paperwork."
 
 #### Hasegawa Toru — Site Foreman
 
-- Public role: contractor who supervised work near the damaged anchor point
+- Public role: contractor who supervised work near the disrupted anchor point
 - Table use: practical witness who saw something weird before it was buried or
   removed
 - Surface: tired, blunt, protective of his crew
 - Secret / pressure: one worker quit after hearing waves underground
-- Voice: "Concrete cracks. Rebar sings. Ground settles. But stone does not bleed
-  saltwater."
+- Voice: "Concrete cracks. Rebar sings. Ground settles. But waves do not just
+  lose the beat."
 
 #### Nishimura Saki — Junior Records Clerk
 

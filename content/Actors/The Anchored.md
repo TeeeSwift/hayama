@@ -164,3 +164,13 @@ These actions can appear indistinguishable from sacrifice or deliberate harm.
 Despite appearances, the Anchored are actively attempting to repair the
 barrier and prevent total collapse. Their secrecy and morally ambiguous
 methods have made them appear culpable in the current crisis.
+
+The immediate crisis centers on the [[Atlas/Uminashi Seawall|Uminashi seawall]].
+Beneath it is a divine Barrier anchor that requires the rhythm of incoming waves
+to remain synchronized. The seawall disrupted that rhythm without visibly
+destroying the anchor point.
+
+The Anchored did not foresee this failure. To outsiders, their current urgency
+may look like sabotage, cover-up, or panic around a public-works project. Their
+actual goal is to bring the wall down quickly enough to restore the wave rhythm
+and repair [[Lore/The Barrier|The Barrier]] before the failure spreads.

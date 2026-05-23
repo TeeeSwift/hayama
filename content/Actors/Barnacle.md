@@ -164,7 +164,7 @@ Barnacle can:
 Barnacle can reveal through action, not exposition, that:
 
 - the incidents are connected
-- the shoreline breach is not isolated
+- the shoreline failure is not isolated
 - sacred sites and civic infrastructure overlap
 - someone has been monitoring the system for a long time
 - the Anchored fear escalation more than blame

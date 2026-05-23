@@ -98,9 +98,9 @@ truths, strong opinions, and plausible wrong explanations.
 - Place: inspection site, town office, public meeting
 - Function: official explanations, project paperwork, narrative control
 - First impression: efficient, apologetic, overprepared
-- Knows: the shoreline project struck undocumented stonework
-- Avoids: admitting the old structure was removed or damaged without proper
-  review
+- Knows: the shoreline project interacted with undocumented coastal stonework
+- Avoids: admitting the wall may be causing something stranger than ordinary
+  structural stress
 - Useful scene: reframes a supernatural incident as a safety inspection issue
 - Voice: "Let's not turn an engineering issue into a ghost story before we've
   checked the paperwork."
@@ -118,13 +118,13 @@ truths, strong opinions, and plausible wrong explanations.
 ### Hasegawa Toru — Site Foreman
 
 - Place: construction office, work truck, damaged shoreline site
-- Function: practical witness to the damaged anchor point
+- Function: practical witness to the strange behavior around the anchor point
 - First impression: tired, blunt, protective of his crew
-- Knows: stone does not normally leak saltwater when struck
+- Knows: coastal stonework should not make the tide go quiet
 - Avoids: naming the worker who quit after hearing waves underground
 - Useful scene: describes the impact before the site was covered again
-- Voice: "Concrete cracks. Rebar sings. Ground settles. But stone does not bleed
-  saltwater."
+- Voice: "Concrete cracks. Rebar sings. Ground settles. But waves do not just
+  lose the beat."
 
 ### Suzume — Shrine Helper With Missing Context
 
@@ -182,7 +182,7 @@ Roll or choose. Most rumors should be partially true but misinterpreted.
 
 | d12 | Rumor                                                                                                | Truth Direction                                              |
 | --- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 1   | "The construction crew cracked an old drainage chamber and now seawater is backing up through town." | Mundane cover for a damaged Barrier anchor point             |
+| 1   | "The construction crew cracked an old drainage chamber and now seawater is backing up through town." | Mundane cover for the seawall disrupting a Barrier anchor's rhythm |
 | 2   | "A diver saw a shrine gate underwater, but there has never been one at that beach."                  | Older shoreline memory surfacing                             |
 | 3   | "The Mayor's office already knew something was wrong and rushed the project anyway."                 | Civic responsibility exists, but not full knowledge          |
 | 4   | "The old families are meeting again. That always means someone is about to disappear."               | Anchored monitoring looks incriminating                      |

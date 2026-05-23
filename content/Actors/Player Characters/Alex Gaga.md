@@ -11,9 +11,8 @@ tags:
 ## Elevator Pitch
 
 A geological and environmental consultant with a hermit's private revelations,
-who unknowingly triggered a barrier breach during a city-funded shoreline
-stabilization project and now carries an emergent bardic connection to divine
-systems.
+who unknowingly approved a shoreline project that pushed a Barrier anchor out
+of rhythm and now carries an emergent bardic connection to divine systems.
 
 ---
 
@@ -117,10 +116,12 @@ something less rigid—something expressive and transformative.
 Alex occupies a rare position within the current crisis in Hayama:
 
 - She approved a city-funded shoreline stabilization project near the coast
-- During drilling and reinforcement work, a buried
-  [[Lore/The Barrier|Barrier]] anchor point was damaged
-- The anomaly she observed at the site was interpreted as a stable geological
-  irregularity rather than something artificial or divine
+- The project placed the [[Atlas/Uminashi Seawall|Uminashi seawall]] over a
+  buried [[Lore/The Barrier|Barrier]] anchor point
+- The anchor point required the rhythm of incoming waves, and the seawall
+  disrupted that rhythm
+- The anomaly she observed at the site was interpreted as a stable coastal or
+  geological irregularity rather than something artificial or divine
 - She carries a pearl given by [[Actors/Mollusk|Mollusk]]
 - The pearl gives her an emergent connection to divine systems
 - Her bardic expression may alter how divine energy manifests around her

@@ -41,8 +41,8 @@ Long ago, a group now known as [[Actors/The Anchored|The Anchored]] constructed
 
 For generations, it worked.
 
-Recently, part of the Barrier was damaged during a city-funded shoreline
-stabilization project near the coast.
+Recently, part of the Barrier fell out of rhythm after a city-funded shoreline
+stabilization project changed how waves strike a buried coastal anchor point.
 
 Now the sea has begun to return — not all at once, but in fragments.
 
@@ -82,11 +82,13 @@ They are not.
 ## What Is Actually Happening
 
 - [[Lore/The Barrier|The Barrier]] is failing
-- The initial breach occurred at a coastal stabilization site, but its effects
-  are not confined to that location
+- The initial failure occurred at the [[Atlas/Uminashi Seawall|Uminashi seawall]],
+  where a divine anchor point depends on the rhythm of incoming waves
 - The sea is beginning to reclaim in localized, unstable ways
 - [[Actors/The Anchored|The Anchored]] are attempting to contain the damage
 - Their methods appear secretive, manipulative, or harmful
+- The Anchored did not realize the seawall would disrupt the Barrier, and are
+  now trying to bring it down quickly enough to repair the system
 
 Meanwhile:
 

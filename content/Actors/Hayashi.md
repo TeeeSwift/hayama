@@ -13,7 +13,7 @@ aliases:
 
 Hayashi is a municipal representative responsible for shoreline stabilization,
 coastal safety communication, and public-facing explanations surrounding the
-project that breached [[Lore/The Barrier|The Barrier]].
+project that disrupted [[Lore/The Barrier|The Barrier]].
 
 He is the first major civic face of the shoreline project: polite, tidy,
 procedural, and visibly relieved whenever a problem can be moved from his desk
@@ -132,7 +132,8 @@ Hayashi should not know the full truth.
 
 At most, he may suspect:
 
-- the project struck undocumented structures
+- the project interacted with undocumented coastal structures
+- the exposed foundation and strange water behavior are related
 - municipal records are inconsistent
 - strange events cluster near infrastructure sites
 - some old families know more than they admit

@@ -19,10 +19,14 @@ Long ago, the group now known as [[Actors/The Anchored|The Anchored]]
 constructed a distributed barrier system across Hayama to suppress this
 reclaiming phase and stabilize the town as a permanent settlement.
 
-Recently, that barrier has been compromised when a shoreline stabilization
+Recently, that barrier has been compromised by a shoreline stabilization
 project—approved through normal civic processes and signed off by
-[[Actors/Player Characters/Alex Gaga|Alex Gaga]]—damaged a buried anchor point
-near the coast.
+[[Actors/Player Characters/Alex Gaga|Alex Gaga]]—that placed the
+[[Atlas/Uminashi Seawall|Uminashi seawall]] over a coastal anchor point.
+
+The anchor point requires the rhythm of incoming waves to stay aligned. The
+seawall changed that rhythm, pushing the Barrier out of phase without simply
+destroying the divine material.
 
 As a result, Watatsumi's reclaiming has begun again in fragmented, unnatural
 ways.
@@ -45,11 +49,14 @@ ways.
   sites across Hayama.
 - [[Lore/The Barrier|The Barrier]] also functions as a divinity dampener,
   suppressing unstable divine energy.
-- A recent breach in [[Lore/The Barrier|The Barrier]] has destabilized both the
-  tide and previously suppressed forces.
-- The shoreline project that caused the breach was publicly justified as
+- A recent rhythm failure in [[Lore/The Barrier|The Barrier]] has destabilized
+  both the tide and previously suppressed forces.
+- The shoreline project that caused the failure was publicly justified as
   erosion control and long-term coastal protection, and was supported by
   [[Actors/The Mayor|The Mayor]] as part of normal civic governance.
+- [[Actors/The Anchored|The Anchored]] did not realize the seawall would disrupt
+  the anchor point, and are now trying to bring the wall down quickly so they
+  can repair the Barrier.
 - One such Anchored, [[Actors/Chizuru|Chizuru]], embodies the rare convergence of
   beings finding each other in darkness, and remains tied to a single lineage
   across generations.
@@ -65,9 +72,9 @@ ways.
 
 ## Active Story Tension
 
-- [[Lore/The Barrier|The Barrier]] has been partially destroyed and is no longer
-  functioning correctly.
-- The initial breach occurred at a coastal stabilization site, but its effects
+- [[Lore/The Barrier|The Barrier]] has fallen out of rhythm at a coastal anchor
+  point and is no longer functioning correctly.
+- The initial failure occurred at a coastal stabilization site, but its effects
   are not localized and appear to propagate through the system.
 - Reaping events have begun:
   - localized, surreal manifestations of the sea
@@ -85,7 +92,8 @@ ways.
 - [[Actors/Player Characters/Ryunnu|Ryunnu]] survived a dive despite his
   regulator tube being punctured and full of water.
 - The [[Atlas/Uminashi Seawall|Uminashi seawall]] has an exposed foundation on
-  the third span of the north wall.
+  the third span of the north wall, and its deeper problem is that it disrupts
+  the wave rhythm needed by the Barrier anchor beneath it.
 - [[Actors/Hayashi|Hayashi]] is the named municipal liaison handling shoreline
   stabilization issues and procedural explanations.
 - [[Actors/Player Characters/Alex Gaga|Alex Gaga]] received a pearl bracelet
@@ -135,7 +143,7 @@ ways.
 
 - [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]] is served by [[Actors/Chizuru|Chizuru]]
 - [[Actors/Player Characters/Alex Gaga|Alex Gaga]] approved the shoreline
-  project that damaged a barrier anchor point
+  project that disrupted the rhythm of a barrier anchor point
 - [[Actors/Player Characters/Alex Gaga|Alex Gaga]] carries a pearl from
   [[Actors/Mollusk|Mollusk]] that gives her emergent bardic interaction with
   divine systems
