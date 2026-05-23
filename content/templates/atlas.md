@@ -30,7 +30,7 @@
 ---
 
 ## 🤝 Connections (Affinities & Politics)
-* **Notable Residents:** (Links to [[Actors]] who live or work here)
+* **Notable Residents:** (Links to actors who live or work here)
 * **Allied Locations:** (Trade partners or nearby friendly towns)
 * **Current Conflict:** (e.g., "A rising rat problem," "Political tension with the neighboring duchy")
 

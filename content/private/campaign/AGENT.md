@@ -9,9 +9,13 @@ tags:
 ## Startup Order
 
 1. Always begin by reading [[private/campaign/AGENT]].
-2. Then read [[private/campaign/_summary]].
-3. Treat [[private/campaign/_summary]] as the primary compressed context.
-4. Read additional files only when required by the task.
+2. Then read [[Chronicles/Campaign Prep/AGENT]].
+3. Then read [[Chronicles/Campaign Prep/Campaign Summary]].
+4. Treat [[Chronicles/Campaign Prep/Campaign Summary]] as the primary compressed
+   context.
+5. Use [[private/campaign/_summary]] only as a reminder that the private summary
+   is no longer canonical.
+6. Read additional files only when required by the task.
 
 ## Working Rules
 
@@ -29,8 +33,8 @@ tags:
 
 ## Summary Maintenance
 
-1. Update [[private/campaign/_summary]] whenever canon, world state, factions, NPC relationships, active arcs, or other future-relevant facts change.
-2. Keep [[private/campaign/_summary]] concise and high-signal.
+1. Update [[Chronicles/Campaign Prep/Campaign Summary]] whenever canon, world state, factions, NPC relationships, active arcs, or other future-relevant facts change.
+2. Keep [[Chronicles/Campaign Prep/Campaign Summary]] concise and high-signal.
 3. Do not duplicate full notes into the summary; link out to the source notes instead.
 4. Add only enough navigation context to help future sessions find the next relevant file quickly.
 

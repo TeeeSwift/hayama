@@ -11,7 +11,10 @@ tags:
 1. Always begin by reading [[Chronicles/Campaign Prep/AGENT]].
 2. Then read [[Chronicles/Campaign Prep/Campaign Summary]].
 3. Treat [[Chronicles/Campaign Prep/Campaign Summary]] as the primary compressed context.
-4. Read additional files only when required by the task.
+4. Use [[index|Campaign Dashboard]], [[Chronicles/index|Chronicles]],
+   [[Actors/index|Actors]], [[Atlas/index|Atlas]], and [[Lore/index|Lore]] as
+   maps of content areas.
+5. Read additional files only when required by the task.
 
 ## Working Rules
 
@@ -33,6 +36,8 @@ tags:
 2. Keep [[Chronicles/Campaign Prep/Campaign Summary]] concise and high-signal.
 3. Do not duplicate full notes into the summary; link out to the source notes instead.
 4. Add only enough navigation context to help future sessions find the next relevant file quickly.
+5. Prefer updating MOCs when adding notes that should be discoverable by future
+   agents.
 
 ## File Reading Strategy
 
@@ -45,6 +50,11 @@ tags:
 
 - Campaign dashboard:
   - `content/index.md`
+- MOCs / indexes:
+  - `content/Chronicles/index.md`
+  - `content/Actors/index.md`
+  - `content/Atlas/index.md`
+  - `content/Lore/index.md`
 - Campaign material lives in:
   - `content/Atlas/`
   - `content/Actors/`

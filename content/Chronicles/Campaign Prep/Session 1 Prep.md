@@ -21,20 +21,21 @@ suspects.
 ## Supporting Prep
 
 - [[Chronicles/Campaign Prep/Hayama Locals and Rumors|Hayama Locals and Rumors]]
-- [[Locations/Nagisabashi Cafe|Nagisabashi Cafe]]
+- [[Atlas/Nagisabashi Coffee|Nagisabashi Coffee]]
 
 ## Current Public Session Frame
 
-Public session hub: [[Chronicles/Session 1/index|Session 1]]
+Public session hub and actual recap: [[Chronicles/Session 1/index|Session 1]]
 
-Current opening scene: [[Chronicles/Session 1/Diving Class at Hayama|Diving Class
-at Hayama]]
+Debrief and next-session planning:
+[[Chronicles/Campaign Prep/Debriefs/Session 1 Debrief|Session 1 Debrief]]
 
 Use the diving class as the first contact with the impossible tide. The shoreline
 stabilization site can be introduced afterward as the first civic/investigative
 lead rather than replacing the opening.
 
-Nagisabashi Cafe should function as the daytime emotional center of Hayama.
+[[Atlas/Nagisabashi Coffee|Nagisabashi Coffee]] should function as the daytime
+emotional center of [[Atlas/Hayama|Hayama]].
 
 All four PCs naturally pass through the cafe for unrelated ordinary reasons
 before the first major public reaping.
@@ -99,7 +100,7 @@ Possible leads:
 ### Movement 3: Nagisabashi Reaping Event
 
 The first major public reaping event occurs at
-[[Locations/Nagisabashi Cafe|Nagisabashi Cafe]].
+[[Atlas/Nagisabashi Coffee|Nagisabashi Coffee]].
 
 The scene should begin warm, ordinary, and socially grounded.
 
@@ -210,7 +211,7 @@ become useful. Avoid canonizing all of them as major figures immediately.
 
 ### Civic / Project NPCs
 
-#### Kuroda Emi — Municipal Coastal Works Liaison
+#### Hayashi — Municipal Coastal Works Liaison
 
 - Public role: friendly city representative handling resident questions about
   the shoreline stabilization project

@@ -77,6 +77,20 @@ ways.
 - The Anchored appear secretive and suspicious as they monitor sites,
   intervene quietly, and attempt to contain emerging issues
 
+## Session 1 Canon
+
+- [[Chronicles/Session 1/index|Session 1]] established the first public reaping
+  at [[Atlas/Nagisabashi Coffee]], where an old woman was taken and erased from
+  most residents' memory.
+- [[Actors/Player Characters/Ryunnu|Ryunnu]] survived a dive despite his
+  regulator tube being punctured and full of water.
+- The [[Atlas/Uminashi Seawall|Uminashi seawall]] has an exposed foundation on
+  the third span of the north wall.
+- [[Actors/Hayashi|Hayashi]] is the named municipal liaison handling shoreline
+  stabilization issues and procedural explanations.
+- [[Actors/Player Characters/Alex Gaga|Alex Gaga]] received a pearl bracelet
+  from [[Actors/Mollusk|Beatrice]].
+
 ## Emerging System Anomalies
 
 - [[Actors/Player Characters/Ryunnu|Ryunnu]] has been incorrectly registered as a
@@ -128,7 +142,13 @@ ways.
 
 ## Navigation For Future Work
 
-- Start broad with [[index]]
-- For cosmology and system behavior, see [[Lore/The Barrier|The Barrier]]
-- For player-facing context, see [[Actors/Player Characters/Alex Gaga|Alex Gaga]] and
-  [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]]
+- Start broad with [[index|Campaign Dashboard]], then use
+  [[Chronicles/index|Chronicles]], [[Actors/index|Actors]],
+  [[Atlas/index|Atlas]], and [[Lore/index|Lore]] as MOCs.
+- For current table state, read [[Chronicles/Session 1/index|Session 1]] and
+  [[Chronicles/Campaign Prep/Debriefs/Session 1 Debrief|Session 1 Debrief]].
+- For next-session planning, use
+  [[Chronicles/Campaign Prep/Debriefs/Session 1 Debrief|Session 1 Debrief]] and
+  [[Chronicles/Campaign Prep/Session 1 Prep|Session 1 Prep]].
+- For cosmology and system behavior, see [[Lore/The Barrier|The Barrier]],
+  [[Lore/The Artifact|The Artifact]], and [[Actors/Watatsumi|Watatsumi]].

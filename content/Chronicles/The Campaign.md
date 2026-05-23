@@ -8,6 +8,8 @@ tags:
 ## Session Planning
 
 - [[Chronicles/Session 1/index|Session 1]]
+- [[Chronicles/Campaign Prep/Debriefs/Session 1 Debrief|Session 1 Debrief]]
+- [[Chronicles/Campaign Prep/Session 1 Prep|Session 1 Prep]]
 
 ## Teaser
 
@@ -33,8 +35,8 @@ things have begun to slip.
 
 Hayama exists in defiance of the sea.
 
-[[Watatsumi]] follows a natural cycle of ebb and reclaiming. Long ago, a group
-now known as [[Actors/The Anchored|The Anchored]] constructed
+[[Actors/Watatsumi|Watatsumi]] follows a natural cycle of ebb and reclaiming.
+Long ago, a group now known as [[Actors/The Anchored|The Anchored]] constructed
 [[Lore/The Barrier|The Barrier]] to prevent that cycle from reclaiming the town.
 
 For generations, it worked.
@@ -48,11 +50,17 @@ Now the sea has begun to return — not all at once, but in fragments.
 
 ## Player-Facing Frame
 
-The campaign begins with the party entering or moving through Hayama from
-different positions of familiarity:
+The campaign begins with the party entering or moving through
+[[Atlas/Hayama|Hayama]] from different positions of familiarity:
 
-- a local heir tied to land, property, and long-standing relationships
-- an external consultant whose work intersects with civic development
+- [[Actors/Player Characters/Vincent Uminashi|Vincent Uminashi]], a local heir
+  tied to land, property, and long-standing relationships
+- [[Actors/Player Characters/Alex Gaga|Alex Gaga]], an external consultant whose
+  work intersects with civic development and hidden systems
+- [[Actors/Player Characters/Ryunnu|Ryunnu]], a newcomer misidentified by a
+  divine/civic system
+- [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]], a local diver carrying
+  displaced divinity
 
 They are drawn into a town that feels subtly wrong:
 
@@ -73,7 +81,7 @@ They are not.
 
 ## What Is Actually Happening
 
-- The Barrier is failing
+- [[Lore/The Barrier|The Barrier]] is failing
 - The initial breach occurred at a coastal stabilization site, but its effects
   are not confined to that location
 - The sea is beginning to reclaim in localized, unstable ways

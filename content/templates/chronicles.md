@@ -33,5 +33,5 @@
 ---
 
 ## 📋 To-Do for Next Session
-* [ ] Update [[NPC_Note]] regarding the fight.
-* [ ] Prep the [[Atlas_Note]] for the next town.
+* [ ] Update NPC note regarding the fight.
+* [ ] Prep the atlas note for the next town.

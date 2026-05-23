@@ -163,10 +163,10 @@ tries to clarify, and sometimes he simply gives in and participates.
 
 ---
 
-## First Incident: Nagisabashi Cafe
+## First Incident: Nagisabashi Coffee
 
 During early strange electrical issues at
-[[Locations/Nagisabashi Cafe|Nagisabashi Cafe]], Ryunnu is asked to look at
+[[Atlas/Nagisabashi Coffee|Nagisabashi Coffee]], Ryunnu is asked to look at
 lighting instability, refrigeration resets, and inconsistent system behavior.
 
 The problems initially appear mundane:

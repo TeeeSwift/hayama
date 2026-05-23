@@ -7,11 +7,11 @@ tags: []
 > [!abstract]-Metadata
 > type:: NPC  
 > Race:: race  
-> Location:: [[Town Hall]]  
+> Location:: [[Atlas/Town Hall|Town Hall]]  
 > Tags:: #Anchored
 
 He is one of [[Actors/The Anchored|The Anchored]], an octopus deity serving as
-the mayor of [[Hayama]].
+the mayor of [[Atlas/Hayama|Hayama]].
 
 ## Characteristics
 

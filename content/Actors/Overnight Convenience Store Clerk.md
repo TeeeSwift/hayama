@@ -149,9 +149,9 @@ leaves salt on the counter, and disappears before sunrise.
 
 The clerk may notice Barnacle appears before major incidents.
 
-### [[Actors/Civic Shoreline Liaison|Civic Shoreline Liaison]]
+### [[Actors/Hayashi|Hayashi]]
 
-The liaison may stop in during overtime shifts, exhausted and trying to hold the
+Hayashi may stop in during overtime shifts, exhausted and trying to hold the
 town together through procedure and caffeine.
 
 ### [[Actors/Suzuki Daimon Keyholder|Suzuki Daimon Keyholder]]
@@ -214,6 +214,6 @@ another one.
 ## Connections
 
 - [[Actors/Barnacle|Barnacle]]
-- [[Actors/Civic Shoreline Liaison|Civic Shoreline Liaison]]
+- [[Actors/Hayashi|Hayashi]]
 - [[Actors/Suzuki Daimon Keyholder|Suzuki Daimon Keyholder]]
 - [[Actors/Tsunoda Memory-Keeper|Tsunoda Memory-Keeper]]

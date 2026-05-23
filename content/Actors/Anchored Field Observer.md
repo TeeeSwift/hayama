@@ -229,12 +229,11 @@ Old arrangements allow them into places that should be closed. Neither side full
 trusts the other, and both sides pretend the arrangement is just deliveries or
 maintenance.
 
-### [[Actors/Civic Shoreline Liaison|Civic Shoreline Liaison]]
+### [[Actors/Hayashi|Hayashi]]
 
-The Civic Shoreline Liaison may know them as a useful local contractor on an
-emergency repair list.
+Hayashi may know them as a useful local contractor on an emergency repair list.
 
-The liaison trusts them because they always show up fast and solve problems, but
+Hayashi trusts them because they always show up fast and solve problems, but
 does not understand what they are actually solving.
 
 ### [[Actors/Tsunoda Memory-Keeper|Tsunoda Memory-Keeper]]
@@ -270,5 +269,5 @@ They speak like someone measuring how much truth the room can survive.
 - [[Lore/The Barrier|The Barrier]]
 - [[Actors/Watatsumi|Watatsumi]]
 - [[Chronicles/Campaign Prep/Drifted Families and Daimon|Drifted Families and Daimon]]
-- [[Actors/Civic Shoreline Liaison|Civic Shoreline Liaison]]
+- [[Actors/Hayashi|Hayashi]]
 - [[Actors/Tsunoda Memory-Keeper|Tsunoda Memory-Keeper]]

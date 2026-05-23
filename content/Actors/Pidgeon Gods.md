@@ -8,7 +8,8 @@ tags: []
 > Location:: Link_to_Location
 > Tags:: #faction
 
-A trio of pidgeon gods in human form. They day-drink at [[Nango Park]] and dislike crabby old people.
+A trio of pidgeon gods in human form. They day-drink at
+[[Atlas/Nango Park|Nango Park]] and dislike crabby old people.
 
 [[Girl Pidgeon]]
 

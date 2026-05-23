@@ -2,23 +2,26 @@
 tags:
   - Actor
   - NPC
+aliases:
+  - Civic Shoreline Liaison
+  - Hayashi-san
 ---
 
-# Civic Shoreline Liaison
+# Hayashi
 
 ## Role
 
-A municipal representative responsible for shoreline stabilization, coastal
-safety communication, and public-facing explanations surrounding the project that
-breached the Barrier.
+Hayashi is a municipal representative responsible for shoreline stabilization,
+coastal safety communication, and public-facing explanations surrounding the
+project that breached [[Lore/The Barrier|The Barrier]].
 
-This character should be named when they become active at the table. Until then,
-use this note as the functional slot for the first major civic face of the
-shoreline project.
+He is the first major civic face of the shoreline project: polite, tidy,
+procedural, and visibly relieved whenever a problem can be moved from his desk
+to someone else's.
 
 ## Location
 
-They operate in spaces where the town explains itself to itself:
+He operates in spaces where [[Atlas/Hayama|the town]] explains itself to itself:
 
 - shoreline stabilization site
 - town hall
@@ -29,16 +32,17 @@ They operate in spaces where the town explains itself to itself:
 - coastal survey locations
 - community events near the waterfront
 
-Unlike the Anchored observer, this character belongs in visible public space.
+Unlike the [[Actors/The Anchored|Anchored]] observer, Hayashi belongs in visible
+public space.
 
 ## Faction
 
-- Civic Hayama
+- Civic [[Atlas/Hayama|Hayama]]
 - [[Actors/The Mayor|The Mayor]]'s administrative structure
 
-They are not secretly all-knowing.
+He is not secretly all-knowing.
 
-Publicly, they may appear as:
+Publicly, he may appear as:
 
 - municipal liaison
 - project coordinator
@@ -47,14 +51,14 @@ Publicly, they may appear as:
 - public safety representative
 - infrastructure planner
 
-Privately, they are trying to keep the town functioning while increasingly
+Privately, he is trying to keep the town functioning while increasingly
 realizing the official explanation is incomplete.
 
 ## Narrative Function
 
-They provide rationalization.
+He provides rationalization.
 
-Use this character when the story needs:
+Use Hayashi when the story needs:
 
 - official explanations
 - public-facing reassurance
@@ -63,17 +67,17 @@ Use this character when the story needs:
 - pressure to classify supernatural incidents as manageable infrastructure issues
 - a civic perspective that is sincere rather than villainous
 
-This character should often be wrong, but understandably wrong.
+Hayashi should often be wrong, but understandably wrong.
 
-## What They Represent
+## What He Represents
 
-They represent institutional responsibility under incomplete knowledge.
+He represents institutional responsibility under incomplete knowledge.
 
-Their implied philosophy:
+His implied philosophy:
 
 > If people panic, the town breaks before the sea reaches it.
 
-They embody:
+He embodies:
 
 - modern governance
 - public trust
@@ -82,15 +86,15 @@ They embody:
 - rationalization under pressure
 - the human need to keep systems functioning
 
-They are important because the shoreline project genuinely helped real people.
+Hayashi is important because the shoreline project genuinely helped real people.
 Without that truth, the campaign risks becoming a simplistic anti-development
 story.
 
-## What They Provide The Story
+## What He Provides The Story
 
 ### Public Explanations
 
-They can:
+He can:
 
 - explain coastal erosion concerns
 - describe the shoreline project timeline
@@ -102,7 +106,7 @@ They can:
 
 ### Institutional Pressure
 
-They can create pressure by:
+He can create pressure by:
 
 - asking the party not to spread rumors
 - controlling site access
@@ -114,7 +118,7 @@ This pressure should feel human and civic, not malicious.
 
 ### Human Stakes
 
-They can remind the players:
+He can remind the players:
 
 - the project protected homes and roads
 - local residents wanted shoreline reinforcement
@@ -124,9 +128,9 @@ They can remind the players:
 
 ## Knowledge Boundaries
 
-This character should not know the full truth.
+Hayashi should not know the full truth.
 
-At most, they may suspect:
+At most, he may suspect:
 
 - the project struck undocumented structures
 - municipal records are inconsistent
@@ -134,16 +138,17 @@ At most, they may suspect:
 - some old families know more than they admit
 - the situation is escalating faster than official channels can explain
 
-They should not understand Watatsumi, the Barrier, or Drifted cosmology clearly
-at first.
+He should not understand [[Actors/Watatsumi|Watatsumi]],
+[[Lore/The Barrier|The Barrier]], or [[Actors/The Drifted|Drifted]] cosmology
+clearly at first.
 
 ## Relationship Hooks
 
 ### [[Actors/Player Characters/Alex Gaga|Alex Gaga]]
 
-Alex's project approval ties directly into this character's work.
+Alex's project approval ties directly into Hayashi's work.
 
-This character may:
+Hayashi may:
 
 - defend Alex publicly
 - quietly pressure Alex for answers
@@ -167,20 +172,20 @@ unreliable until evidence accumulates.
 
 ## First Scene
 
-At a shoreline inspection after a minor reaping event, this character reassures
+At a shoreline inspection after a minor reaping event, Hayashi reassures
 residents that the damage appears to be:
 
 > localized coastal stress combined with unstable groundwater pressure.
 
-While speaking, they notice saltwater dripping upward along a retaining wall.
+While speaking, he notices saltwater dripping upward along a retaining wall.
 
-They continue the explanation anyway.
+He continues the explanation anyway.
 
 ## Voice
 
 Calm, organized, reassuring even when exhausted.
 
-They speak like someone trying to hold a system together with paperwork,
+He speaks like someone trying to hold a system together with paperwork,
 scheduling, and good intentions.
 
 ## Connections

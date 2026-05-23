@@ -25,7 +25,7 @@ But NOT:
 
 ---
 
-## Ryuta Connection Rules
+## Ryunnu Connection Rules
 
 - Communication is **event-driven**, not player-controlled
 - The Mayor cannot be summoned or called reliably
@@ -34,7 +34,7 @@ But NOT:
   - context-dependent
   - often misinterpreted
 
-Ryuta functions as:
+Ryunnu functions as:
 
 > a diagnostic signal leaking from a stressed system
 
@@ -124,14 +124,14 @@ Use these when players push directly:
 
 ### Phase 1 — Noise
 - fragmented statements
-- no recognition of Ryuta
+- no recognition of Ryunnu
 
 ### Phase 2 — Recognition
 - "You again"
 - reactive observations
 
 ### Phase 3 — Utilization
-- asks Ryuta questions
+- asks Ryunnu questions
 - gives minimal directives
 
 ### Phase 4 — Strain

@@ -1,35 +1,46 @@
 ---
 id: index
 aliases: []
-tags: []
+tags:
+  - atlas
+  - moc
 ---
-## Categories of Locations
 
-- [ ] The Social Hubs (Inns & Taverns)
-    - [x] [[Nagisabashi Coffee]]
-    - [ ] Kikusuitei
-    - [ ] Tiny Stand (Cafe)
-- [ ] The Commercial Core (Markets & Trade)
-    - [ ] 7-11 / HAC
-    - [ ] Union / Keikyu / Rosen
-    - [ ] Morning Farmer's Market (Isshiki + Shinnase)
-- [ ] Industry & Infrastructure
-    - [ ] Kuroneko Yamato Center
-    - [ ] Suzukiya Food Prep
-    - [ ] Hayama-beef farm
-    - [ ] Ryou-kun's carpenters
-    - [ ] Fishing Union / Association
-    - [ ] Ship Repair
-    - [ ] Gardeners
-    - [ ] Gyokuzoin (Funerals / burial)
-- [ ] Governance & Law (Order)
-    - [ ] Town Hall
-    - [ ] Cops
-    - [ ] Marina
-- [ ] Spiritual & Arcane (The Beyond)
-    - [ ] Moriyama Shrine
-    - [ ] Morito Shrine
-    - [ ] Najima (island with the torii)
-- [ ] Points of Interest
-    - [ ] Goyoutei
-    - [ ] Nango Park
+# Atlas
+
+Locations and physical infrastructure in and around [[Atlas/Hayama|Hayama]].
+
+## Core Locations
+
+- [[Atlas/Hayama|Hayama]]
+- [[Atlas/Nagisabashi Coffee|Nagisabashi Coffee]]
+- [[Atlas/Uminashi Seawall|Uminashi Seawall]]
+- [[Atlas/Town Hall|Town Hall]]
+
+## Neighborhoods And Nearby Areas
+
+- [[Atlas/Horiuchi|Horiuchi]]
+- [[Atlas/Shinnase|Shinnase]]
+- [[Atlas/Inamura|Inamura]]
+
+## Spiritual And Public Sites
+
+- [[Atlas/Gyokuzoin|Gyokuzoin]]
+- [[Atlas/Nango Park|Nango Park]]
+
+## Possible Future Locations
+
+- Kikusuitei
+- Tiny Stand
+- 7-11 / HAC
+- Union / Keikyu / Rosen
+- Morning Farmer's Market
+- Kuroneko Yamato Center
+- Suzukiya Food Prep
+- Hayama-beef farm
+- Ryou-kun's carpenters
+- Fishing Union / Association
+- Ship Repair
+- Moriyama Shrine
+- Morito Shrine
+- Najima

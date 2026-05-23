@@ -25,10 +25,10 @@ suspects.
 
 ## Current Public Session Frame
 
-Public session hub: [[Chronicles/Session 1/index|Session 1]]
+Public session hub and actual recap: [[Chronicles/Session 1/index|Session 1]]
 
-Current opening scene: [[Chronicles/Session 1/Diving Class at Hayama|Diving Class
-at Hayama]]
+Debrief and next-session planning:
+[[Chronicles/Campaign Prep/Debriefs/Session 1 Debrief|Session 1 Debrief]]
 
 Use the diving class as the first contact with the impossible tide. The shoreline
 stabilization site can be introduced afterward as the first civic/investigative
@@ -47,7 +47,7 @@ Emphasize:
 - gentle local familiarity
 - tourists or new arrivals trying to fit in
 - Marin being competent and comfortable in the water
-- Ryuta being curious and out of his depth in a grounded, human way
+- Ryunnu being curious and out of his depth in a grounded, human way
 
 Then introduce one wrong detail:
 
@@ -73,7 +73,7 @@ Possible leads:
   the construction zone.
 - Marin notices the water is wrong in a way that feels remembered rather than
   observed.
-- Ryuta receives a notification, form, stamp, or intrusive thought treating him
+- Ryunnu receives a notification, form, stamp, or intrusive thought treating him
   as an authorized interface for something official.
 - A local says the sea has been acting up since the construction, then immediately
   walks the statement back.
@@ -119,7 +119,7 @@ Use only a few at the table. Do not dump all of them.
 - She can tell the dive site is wrong before anyone else has evidence.
 - Her father may warn her: "Water feels different today."
 
-### [[Actors/Player Characters/Ryuta|Ryuta]]
+### [[Actors/Player Characters/Ryunnu|Ryunnu]]
 
 - A divine/civic system treats him as authorized.
 - He receives a notice, voice, stamp, or pressure sensation meant for another
@@ -150,7 +150,7 @@ become useful. Avoid canonizing all of them as major figures immediately.
 
 ### Civic / Project NPCs
 
-#### Kuroda Emi — Municipal Coastal Works Liaison
+#### Hayashi — Municipal Coastal Works Liaison
 
 - Public role: friendly city representative handling resident questions about
   the shoreline stabilization project
@@ -176,7 +176,7 @@ become useful. Avoid canonizing all of them as major figures immediately.
 
 - Public role: municipal office clerk managing permits, old maps, and inspection
   forms
-- Table use: access point for paperwork, maps, approvals, and Ryuta's erroneous
+- Table use: access point for paperwork, maps, approvals, and Ryunnu's erroneous
   registration
 - Surface: anxious, sharp, too aware of procedural mistakes
 - Secret / pressure: has seen records rewrite themselves overnight
@@ -314,7 +314,7 @@ office or municipal staff become interested in controlling the story.
 ### Missed Clue
 
 The manifestation ends without a clear object recovered. Use NPC testimony,
-changed records, or Ryuta's misdirected authorization to keep the investigation
+changed records, or Ryunnu's misdirected authorization to keep the investigation
 moving.
 
 ### Someone Is Partially Taken
@@ -331,7 +331,7 @@ Do not explain:
 - The Barrier also dampens unstable divinity.
 - [[Lore/The Artifact|The Artifact]] is leaking in the mountains.
 - The full Zenji / Teru / Marin divinity chain.
-- Ryuta's exact divine-system error.
+- Ryunnu's exact divine-system error.
 
 Do show:
 

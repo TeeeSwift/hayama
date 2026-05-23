@@ -5,8 +5,8 @@ tags: []
 ---
 > [!abstract]-
 > type:: Landmark
-> Region:: [[Hayama]]
-> Ruler/Owner:: [[Pidgeon Gods]]
+> Region:: [[Atlas/Hayama|Hayama]]
+> Ruler/Owner:: [[Actors/Pidgeon Gods|Pidgeon Gods]]
 > Tags:: 
 
 ## 📍 Overview
@@ -35,7 +35,7 @@ tags: []
 ---
 
 ## 🤝 Connections (Affinities & Politics)
-* **Notable Residents:** (Links to [[Actors]] who live or work here)
+* **Notable Residents:** (Links to [[Actors/index|Actors]] who live or work here)
 * **Allied Locations:** (Trade partners or nearby friendly towns)
 * **Current Conflict:** (e.g., "A rising rat problem," "Political tension with the neighboring duchy")
 

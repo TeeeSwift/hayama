@@ -21,5 +21,6 @@ bio-filter purifiers. They literally breathe the water around them to clean it.
 
 As a mortal, this manifests in taking life experiences and turning it into something beautiful.
 
-Hands a pearl to [[Actors/Player Characters/Alex Gaga|Alex Gaga]], which activates and gives her bard powers, once the
-city's [[Divinity Dampener]] is broken.
+Hands a pearl to [[Actors/Player Characters/Alex Gaga|Alex Gaga]], which
+activates and gives her bard powers once [[Lore/The Barrier|the city's divinity
+dampener]] is broken.

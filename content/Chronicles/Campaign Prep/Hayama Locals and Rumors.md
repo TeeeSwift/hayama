@@ -93,7 +93,7 @@ truths, strong opinions, and plausible wrong explanations.
 - Useful scene: shows a map of Hayama with several streets underwater
 - Voice: "Adults only call things impossible when they don't want to do paperwork."
 
-### Kuroda Emi — Municipal Coastal Works Liaison
+### Hayashi — Municipal Coastal Works Liaison
 
 - Place: inspection site, town office, public meeting
 - Function: official explanations, project paperwork, narrative control
@@ -278,7 +278,7 @@ Use for:
 
 ### Public Explanation
 
-Kuroda Emi or another official explains the incident as a safety matter. Iwase
+Hayashi or another official explains the incident as a safety matter. Iwase
 Ren interrupts, accusing officials and old families of hiding disappearances.
 
 Use for:

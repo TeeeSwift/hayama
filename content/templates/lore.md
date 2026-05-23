@@ -22,7 +22,7 @@
 
 ## 🗝️ Symbols & Artifacts
 * **Iconography:** (e.g., "A sun with seven rays," "The color violet")
-* **Related Items:** [[Links_to_Items_or_Relics]]
+* **Related Items:** Links to items or relics
 
 ---
 

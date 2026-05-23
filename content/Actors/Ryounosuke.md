@@ -8,7 +8,7 @@ tags: []
 > Location:: Link_to_Location
 > Tags:: #NPC #Drifted
 
-![[ducks.jpg|300]]
+![[assets/ducks.jpg|300]]
 
 Child god and literal incarnation of Rain and Storms.
 
@@ -16,7 +16,7 @@ His temperament is chaotic and can manifest as anything from a cool breeze, to a
 
 He is an anomaly, in that he combines 2 lines of divinitiy.
 
-On his father's side, he is one of [[The Drifted]].
+On his father's side, he is one of [[Actors/The Drifted|The Drifted]].
 On his mother's side, he inherits divinity of the mountain. 
 
 Combining the fluid, rhythmic nature of The Drifted with the ancient, grounded

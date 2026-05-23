@@ -6,8 +6,8 @@ tags: []
 
 > [!abstract]-
 > type:: Site  
-> Region:: [[Hayama]]  
-> Ruler/Owner:: [[Teru]]  
+> Region:: [[Atlas/Hayama|Hayama]]  
+> Ruler/Owner:: [[Actors/Teru|Teru]]  
 > Tags:: #atlast/location
 
 ## 📍 Overview
@@ -42,7 +42,7 @@ tags: []
 
 ## 🤝 Connections (Affinities & Politics)
 
-- **Notable Residents:** (Links to [[Actors]] who live or work here)
+- **Notable Residents:** (Links to [[Actors/index|Actors]] who live or work here)
 - **Allied Locations:** (Trade partners or nearby friendly towns)
 - **Current Conflict:** (e.g., "A rising rat problem," "Political tension with the neighboring duchy")
 

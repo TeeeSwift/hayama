@@ -94,7 +94,7 @@ truths, strong opinions, and plausible wrong explanations.
 - Useful scene: shows a map of Hayama with several streets underwater
 - Voice: "Adults only call things impossible when they don't want to do paperwork."
 
-### Kuroda Emi — Municipal Coastal Works Liaison
+### Hayashi — Municipal Coastal Works Liaison
 
 - Place: inspection site, town office, public meeting
 - Function: official explanations, project paperwork, narrative control
@@ -109,7 +109,7 @@ truths, strong opinions, and plausible wrong explanations.
 ### Nishimura Saki — Junior Records Clerk
 
 - Place: municipal archive, back office, convenience store after work
-- Function: paperwork access, altered records, Ryuta system weirdness
+- Function: paperwork access, altered records, Ryunnu system weirdness
 - First impression: anxious, sharp, too aware of procedural mistakes
 - Knows: records have changed after being filed
 - Avoids: becoming the scapegoat for impossible archival errors
@@ -252,7 +252,7 @@ should be described.
 Use for:
 
 - Alex implication
-- Ryuta's erroneous authorization
+- Ryunnu's erroneous authorization
 - connection to the stabilization site
 
 ### Dockside Net
@@ -279,7 +279,7 @@ Use for:
 
 ### Public Explanation
 
-Kuroda Emi or another official explains the incident as a safety matter. Iwase
+Hayashi or another official explains the incident as a safety matter. Iwase
 Ren interrupts, accusing officials and old families of hiding disappearances.
 
 Use for:
