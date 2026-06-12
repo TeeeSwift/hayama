@@ -27,9 +27,9 @@ Damage to even a single anchor point can destabilize the entire system.
 
 ## Rhythm Dependence
 
-At least one coastal anchor point is not merely buried under the shore. It is a
-divine piece of the Barrier that requires the rhythm of incoming waves to remain
-aligned.
+At least one coastal anchor point is not merely buried under the shore. It is an
+old divine medallion or medallion-like piece of the Barrier that requires the
+rhythm of incoming waves to remain aligned.
 
 The anchor point does not use the ocean as a power source in a simple mechanical
 sense. It depends on the repeated pattern of impact, withdrawal, delay, return,
@@ -40,6 +40,27 @@ reclaiming cycle.
 This means a structure can damage the Barrier without cracking the divine
 material directly. Anything that changes how the sea strikes, slows, reflects,
 or deadens the waves can throw the anchor point out of rhythm.
+
+## Access And Recalibration
+
+The coastal anchor is not permanently unreachable. It was installed with old
+maintenance and ritual access paths that predate modern municipal maps. These
+may run through drains, shrine-adjacent passages, Daimon/Suzuki access routes,
+old coastal service ways, and property boundaries that no longer match the
+paperwork.
+
+In theory, the anchor can be:
+
+- restored by removing or altering the structure that disrupted its rhythm
+- stabilized in place through temporary patches, false anchors, resonance marks,
+  offerings, or redirected water paths
+- relocated through the old access network, if someone can recalibrate the
+  surrounding Barrier afterward
+
+Removing or redesigning the wall is the crude, reliable solution because it
+restores conditions closest to the old rhythm. Relocation and in-place
+stabilization are possible but risky; a bad recalibration could widen the
+failure.
 
 ## Current State
 
@@ -56,6 +77,7 @@ This rhythm failure has caused:
 - Misreadings by both civic and divine systems, because the physical structure
   appears intact while its rhythm has failed
 
-The Anchored did not realize the seawall would cause this failure. They are now
-trying to bring the wall down quickly enough to restore the waves' rhythm and
-repair the Barrier before the failure propagates further.
+The Anchored did not realize the seawall would cause this failure. Their urgent
+goal is to restore the anchor's alignment before the failure propagates. Bringing
+the wall down is the fastest known solution, but they may also be testing
+stabilization in place or relocation through old access paths.

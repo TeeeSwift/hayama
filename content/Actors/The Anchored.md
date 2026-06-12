@@ -172,5 +172,11 @@ destroying the anchor point.
 
 The Anchored did not foresee this failure. To outsiders, their current urgency
 may look like sabotage, cover-up, or panic around a public-works project. Their
-actual goal is to bring the wall down quickly enough to restore the wave rhythm
-and repair [[Lore/The Barrier|The Barrier]] before the failure spreads.
+actual goal is to restore the anchor's alignment and repair
+[[Lore/The Barrier|The Barrier]] before the failure spreads.
+
+Bringing the wall down or forcing a redesign is the crude, reliable solution
+because it restores conditions closest to the old wave rhythm. The Anchored may
+also be trying riskier alternatives: stabilizing the anchor in place, reaching it
+through old access paths, or relocating the medallion-like anchor and
+recalibrating the surrounding system.

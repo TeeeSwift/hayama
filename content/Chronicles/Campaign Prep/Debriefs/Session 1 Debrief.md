@@ -66,8 +66,9 @@ memory.
   that it has no texts, a few photos, and many call logs?
 - Who signed off on the [[Atlas/Uminashi Seawall|Uminashi seawall]] work, and
   what did they know?
-- How quickly can [[Actors/The Anchored|The Anchored]] bring down enough of the
-  wall to restore the rhythm without making themselves look openly hostile?
+- How quickly can [[Actors/The Anchored|The Anchored]] restore the anchor's
+  rhythm through wall removal, redesign, in-place stabilization, or relocation
+  without making themselves look openly hostile?
 - Why did Ryunnu's regulator keep him alive?
 - What did [[Actors/Player Characters/Aizawa Marin|Marin]] feel when the
   boundary between herself and [[Actors/Watatsumi|the sea]] thinned?

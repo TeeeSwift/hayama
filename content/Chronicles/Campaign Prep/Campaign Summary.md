@@ -55,8 +55,10 @@ ways.
   erosion control and long-term coastal protection, and was supported by
   [[Actors/The Mayor|The Mayor]] as part of normal civic governance.
 - [[Actors/The Anchored|The Anchored]] did not realize the seawall would disrupt
-  the anchor point, and are now trying to bring the wall down quickly so they
-  can repair the Barrier.
+  the anchor point, and are now trying to restore the anchor's alignment before
+  the failure spreads. Bringing the wall down or redesigning it is the fastest
+  known fix, but old access routes, in-place stabilization, and relocation may
+  also be possible.
 - One such Anchored, [[Actors/Chizuru|Chizuru]], embodies the rare convergence of
   beings finding each other in darkness, and remains tied to a single lineage
   across generations.
