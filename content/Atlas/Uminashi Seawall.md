@@ -52,6 +52,11 @@ still reach it: drainage paths, shrine-adjacent passages, Daimon/Suzuki access
 routes, coastal service corridors, and property boundaries that do not match
 modern maps.
 
+One working possibility is that these routes lead to an
+[[Lore/WIP Underwater Cave Shrine|underwater cave shrine]]: a hidden sacred
+infrastructure site that may house the medallion, connect to the Relief Chamber,
+or function as a communing point with [[Actors/Watatsumi|Watatsumi]].
+
 The Anchored have several possible strategies:
 
 - remove or redesign the wall, restoring the old wave rhythm as directly as

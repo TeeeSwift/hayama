@@ -16,28 +16,28 @@ tags: []
 
 - [[The Mayor|Octopus]]
 - [[Mollusk]]
-- Sea glass 
-- Driftwood
-- Hermit crab 
+- [[Sea Glass]]
+- [[Driftwood]]
+- [[Hermit Crab]]
 - [[Barnacle]]
-- Sea foam 
-- Coral
-- The light patterns on the surface of the water 
-- Surf/waves/play
-- Tide pools 
-- Creatures that bury when the tide pulls away 
-- School of tiny fish 
-- Big tuna 
-- Shirasu (white bait)
-- Nagi (calm)
-- Kelp 
-- Bioluminescence 
-- Scallops 
-- The sound of waves 
-- Riptide 
-- Current 
-- horizon 
-- finding a mate in the deep dark
+- [[Sea Foam]]
+- [[Coral]]
+- [[Light Patterns on Water|The light patterns on the surface of the water]]
+- [[Surf and Waves|Surf/waves/play]]
+- [[Tide Pools]]
+- [[Burrowing Tide Creatures|Creatures that bury when the tide pulls away]]
+- [[School of Tiny Fish]]
+- [[Big Tuna]]
+- [[Shirasu|Shirasu (white bait)]]
+- [[Nagi|Nagi (calm)]]
+- [[Kelp]]
+- [[Bioluminescence]]
+- [[Scallops]]
+- [[Sound of Waves|The sound of waves]]
+- [[Riptide]]
+- [[Current]]
+- [[Horizon]]
+- [[Chizuru|finding a mate in the deep dark]]
 
 ## Experiments
 
@@ -107,7 +107,9 @@ for redirected tide events. When pressure from Watatsumi builds, it can be
 diverted into this realm instead of manifesting directly in Hayama.
 
 This space is unstable and not fully understood, and may trap or distort what
-enters it.
+enters it. It may be the metaphysical side of the Barrier's relief chamber: a
+hidden anti-flood system where divine-ocean pressure is temporarily stored,
+equalized, and released.
 
 ### Divinity Tracking
 

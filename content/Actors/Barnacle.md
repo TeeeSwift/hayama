@@ -96,6 +96,33 @@ Use Barnacle when the story needs the players to ask:
 Barnacle should often be doing the right thing in the least trustworthy possible
 way.
 
+## Early Mundane Presentation
+
+At first, Barnacle should read as annoyingly plausible rather than supernatural.
+
+Before the players understand the Anchored, describe Barnacle through ordinary
+maintenance details:
+
+- fresh caulk around a drain, service conduit, or archive wall seam
+- an open access panel with screws set neatly on a folded paper towel
+- a municipal inspection sticker dated earlier the same morning
+- a clipboard with a generic water intrusion or humidity check form
+- a flashlight, utility knife, nitrile gloves, damp rag, and gray sealant tube
+- a receipt from Daimon tucked into a work-order sleeve
+- the same brand of sealant later found at the seawall
+- phone photos of cracks, drains, locks, utility covers, and service doors
+- a handwritten span, room, or location code that later matches a seawall
+  section, complaint record, or project file
+
+The early clue is not that Barnacle is magical. It is that the same maintenance
+worker keeps appearing around places connected to the erased woman, access
+records, water damage, and the seawall.
+
+Do not use visible shells, barnacles, salt crust, or impossible concrete effects
+at civic locations like Town Hall until after the players have seen more overt
+supernatural pressure. Save those tells for the seawall, drains, shrine edges,
+or later escalation.
+
 ## What Barnacle Represents
 
 Barnacle represents control as protection and secrecy as harm.
@@ -118,6 +145,59 @@ They embody:
 Barnacle is the first human-scale face of the Anchored's core contradiction: they
 may be trying to save the town, but they have made themselves impossible to
 trust.
+
+## Natural Model
+
+Barnacle should draw from real barnacles without requiring literal barnacles to
+appear in every scene.
+
+In nature, barnacles are crustaceans related to crabs and shrimp. They begin as
+free-drifting larvae, then settle onto a surface, attach themselves head-first,
+and build a hard protective shell around a soft body. Adults live fixed in
+place, often in intertidal zones where sea, land, air, sunlight, salt, impact,
+and drying all meet.
+
+This makes Barnacle a threshold figure:
+
+- once drifting, now attached
+- soft inside, hard outside
+- small alone, transformative through accumulation
+- fed by the tide but protected from it
+- fixed in place, yet present across many surfaces
+- living at the boundary between wet and dry, motion and stillness, sea and town
+
+Barnacle's power should not feel like command over the sea. It should feel like
+the power to make things stay attached when they would otherwise come loose.
+
+They keep:
+
+- memories attached to places
+- seals attached to thresholds
+- old obligations attached to families
+- damaged infrastructure attached long enough to survive
+- the Barrier attached to civic systems that have outlived their meaning
+
+This should make Barnacle useful and disturbing at the same time. They preserve
+continuity, but continuity may itself be part of the problem.
+
+Use barnacle nature as a campaign metaphor:
+
+- Barnacle does not build new things. They keep existing things from coming
+  apart.
+- Barnacle opens only when the tide is right. They reveal truth after pressure,
+  restraint, proof, or crisis, not because someone demands an answer.
+- Barnacle's faction has not made one dramatic evil choice. They have made
+  thousands of small necessary patches until Hayama is encrusted with compromise.
+- One patch is care. Many patches become drag, weight, cover-up, and altered
+  structure.
+
+Useful motif:
+
+> Loose things become hazards.
+
+At first, this can sound like a contractor talking about panels, screws, pipes,
+and records. Later, it can also mean people, memories, gods, promises, and
+history.
 
 ## Anchored Phenomenon
 
@@ -153,6 +233,8 @@ To the players, Barnacle should raise the question:
 Barnacle can:
 
 - remove a barnacled stone fragment before officials notice it
+- remove a work order, access photo, or damp inspection note before officials
+  notice its importance
 - mark old infrastructure with chalk, thread, salt, or ink
 - seal a minor tide leak without explaining how
 - warn the party not to touch an object
@@ -200,6 +282,19 @@ Possible methods:
 - small offerings placed like emergency patches
 - old maintenance tags that double as ward labels
 - keys with Daimon tags attached to Anchored access points
+
+In early appearances, keep the methods deniable:
+
+- gray sealant
+- moisture meters
+- zip ties
+- nitrile gloves
+- access-panel keys
+- generic contractor forms
+- utility tape
+- waterproof phone case
+- folded paper towels holding tiny screws
+- clipboard notes with project, span, or room codes
 
 ## Relationship Hooks
 
@@ -251,15 +346,37 @@ without naming them.
 
 ## First Scene
 
-After the first reaping event, the party notices Barnacle quietly scraping
-barnacles from fresh concrete and sealing the residue in a small glass vial.
+After the first reaping event, the party notices Barnacle quietly doing a water
+intrusion check near a drain, service hatch, archive wall, or utility panel.
 
 They look like a local maintenance worker. Their tool bag has municipal repair
-tags, shrine rope, and a Daimon key tag clipped to the same ring.
+tags and a Daimon key tag clipped to the same ring. Nothing about the scene is
+openly impossible.
+
+What makes the sighting suspicious is the pattern:
+
+- Barnacle arrived before the official response made sense.
+- Their work order is vague or difficult to verify.
+- They are photographing cracks, drains, locks, and access points rather than
+  just fixing the visible problem.
+- A location code on their clipboard matches a seawall span or project file the
+  party later finds.
 
 If confronted, Barnacle says:
 
-> If you saw this, then you are already too close.
+> This area is closed.
+
+If pressed, Barnacle says:
+
+> Water got in. I was asked to check it.
+
+If asked who sent them:
+
+> Public Works.
+
+If the party says there is no record:
+
+> Then someone forgot to file it.
 
 Then they try to leave with the evidence.
 
@@ -267,7 +384,26 @@ Then they try to leave with the evidence.
 
 Precise, restrained, impatient with obvious questions.
 
-Barnacle speaks like someone measuring how much truth the room can survive.
+Barnacle speaks like a tired contractor who is used to being challenged by
+people without the right keys. Their early dialogue should be mundane, clipped,
+and defensible.
+
+Good early lines:
+
+> You're not supposed to be back here.
+
+> I don't handle the desk. I handle leaks.
+
+> If there's a complaint, put it through Public Works.
+
+> I patch things before they become paperwork.
+
+> Move your foot. You're standing on the panel.
+
+> No, I don't know who called it in. I know who gave me the key.
+
+Later, once the supernatural situation is clearer, Barnacle can sound more like
+someone measuring how much truth the room can survive.
 
 ## Connections
 

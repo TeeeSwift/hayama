@@ -20,8 +20,10 @@ Cosmology, myth, supernatural systems, and campaign-scale themes.
   manifestation of reclaiming pressure
 - [[Lore/The Salt Lease|The Salt Lease]]: mortal name for the perceived covenant
   between [[Atlas/Hayama|Hayama]] and the sea
+- [[Lore/WIP Underwater Cave Shrine|WIP Underwater Cave Shrine]]: working draft
+  for a possible hidden shrine, medallion chamber, communing point, or divine
+  pressure interface
 
 ## Themes
 
 - [[Lore/Themes and Motifs|Themes and Motifs]]
-

@@ -20,6 +20,8 @@ tags: []
 
 - **Origin:** A lesser god associated not with the sea as a whole, but with the
   ocean’s trace within life—salt in water, blood, and tears.
+- **Lineage:** An ancestor of
+  [[Actors/Player Characters/Aizawa Marin|Aizawa Marin]].
 - **State:** Improperly revived by [[Actors/Teru|Teru]] during a funerary rite
   affected by instability in [[Lore/The Barrier|The Barrier]].
 
@@ -108,8 +110,9 @@ He does not initially understand what it is, only that:
 
 > something that was his is no longer with him
 
-His displaced divinity has manifested in
-[[Actors/Player Characters/Aizawa Marin|Marin]].
+Because Zenji is part of
+[[Actors/Player Characters/Aizawa Marin|Marin]]'s ancestral line, his displaced
+divinity manifested in her instead of settling back into him.
 
 This results in:
 

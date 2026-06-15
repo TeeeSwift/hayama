@@ -28,6 +28,29 @@ tags:
 - [[Actors/Chizuru|Chizuru]]
 - [[Actors/Daimon|Daimon]]
 
+## Anchored Concept Notes
+
+- [[Actors/Sea Glass|Sea Glass]]
+- [[Actors/Driftwood|Driftwood]]
+- [[Actors/Hermit Crab|Hermit Crab]]
+- [[Actors/Sea Foam|Sea Foam]]
+- [[Actors/Coral|Coral]]
+- [[Actors/Light Patterns on Water|Light Patterns On Water]]
+- [[Actors/Surf and Waves|Surf And Waves]]
+- [[Actors/Tide Pools|Tide Pools]]
+- [[Actors/Burrowing Tide Creatures|Burrowing Tide Creatures]]
+- [[Actors/School of Tiny Fish|School Of Tiny Fish]]
+- [[Actors/Big Tuna|Big Tuna]]
+- [[Actors/Shirasu|Shirasu]]
+- [[Actors/Nagi|Nagi]]
+- [[Actors/Kelp|Kelp]]
+- [[Actors/Bioluminescence|Bioluminescence]]
+- [[Actors/Scallops|Scallops]]
+- [[Actors/Sound of Waves|Sound Of Waves]]
+- [[Actors/Riptide|Riptide]]
+- [[Actors/Current|Current]]
+- [[Actors/Horizon|Horizon]]
+
 ## Session 1 And Active NPCs
 
 - [[Actors/Hayashi|Hayashi]]
