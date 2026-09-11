@@ -1,0 +1,34 @@
+---
+id: The Salt Lease
+aliases: []
+tags: []
+---
+
+> Note: The "Salt Lease" is not a literal contract.
+> It is a term used by mortals and scholars to describe the perceived
+> relationship between [[Atlas/Hayama|Hayama]] and [[Actors/Watatsumi|Watatsumi]].
+> In reality, the events attributed to the Salt Lease are part of
+> [[Actors/Watatsumi|Watatsumi]]'s natural cycle of ebb and reclaiming.
+
+The founders of [[Atlas/Hayama|Hayama]] were not humans, but Spirits of the Foam and Shore
+(perhaps Kodama of the coastal trees or Iso-onago). They desired to live as
+mortals—to experience the brevity, heat, and passion of human life. The great
+sea god [[Actors/Watatsumi|Watatsumi]] granted this, but like the tide, all
+things he gives must eventually "ebb."
+
+Members of [[Actors/The Morning Tide|The Morning Tide]] are immortal, as they are gods, until they
+choose to reproduce. Once they have children, their divinity begins to fade and
+they start to age.
+
+By the time of the campaign, most of [[Actors/The Morning Tide|The Morning Tide]]
+are long gone. [[Atlas/Hayama|Hayama]] is inhabited by their descendants, who
+have no idea about [[Actors/Watatsumi|Watatsumi]] or the original lease. These
+individuals and their descendants are known as
+[[Actors/The Drifted|The Drifted]]. They chose to reproduce because that's the
+whole point of mortality. They wanted to experience loss and toil and tiredness
+and the stakes of mortality.
+
+There are few who have maintained connection with
+[[Actors/Watatsumi|Watatsumi]], known as [[Actors/The Anchored|The Anchored]].
+Some hibernate or go away for decades at a time. They also use little tricks and
+ambiguity / anonymity to get by.

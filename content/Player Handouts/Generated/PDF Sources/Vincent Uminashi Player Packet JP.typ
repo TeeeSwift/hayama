@@ -1,0 +1,140 @@
+// Generated from content/Player Handouts/Character Packets JP/Vincent Uminashi.md
+// Edit the Markdown source, then rerun scripts/build-player-handouts-typst.mjs.
+
+#set document(title: "Vincent Uminashi Player Packet JP")
+#set page(
+  paper: "a4",
+  binding: left,
+  margin: (inside: 22mm, outside: 14mm, top: 16mm, bottom: 18mm),
+  numbering: "1",
+)
+#set text(
+  font: ("Noto Sans CJK JP", "Hiragino Sans", "Yu Gothic", "Arial"),
+  size: 10.5pt,
+  lang: "ja",
+)
+#set par(justify: false, leading: 0.62em)
+#set heading(numbering: none)
+#show heading.where(level: 1): it => block(above: 0pt, below: 10pt, text(size: 20pt, weight: "bold", it.body))
+#show heading.where(level: 2): it => block(above: 14pt, below: 6pt, text(size: 14pt, weight: "bold", it.body))
+#show heading.where(level: 3): it => block(above: 10pt, below: 4pt, text(size: 11.5pt, weight: "bold", it.body))
+#show table: set text(size: 9pt)
+
+= Vincent Uminashi
+
+この資料は、セッション中に「何ができるか」を思い出すための早見表です。数字で迷ったらキャラクターシートを優先してください。
+
+== まず覚えること
+
+- *クラス:* レンジャー
+- *背景:* 民衆英雄
+- *最大HP:* 11
+- *呪文能力値:* 判断力
+- *呪文セーヴ難易度:* 12
+- *呪文攻撃ボーナス:* +4
+- *呪文スロット:* 1レベル呪文スロット2つ
+- *常に準備済み:* Hunter's Mark
+- *準備中の1レベル呪文:* Animal Friendship、Longstrider
+- *武器マスタリー:* Shortsword、Handaxe
+- *得意なセーヴ:* 筋力、敏捷力
+- *受動知覚:* 14
+
+== ターンの基本
+
+自分のターンでは、だいたい次のものを1回ずつ使えます。
+
+- *アクション:* 攻撃、呪文、多くの技能行動
+- *ボーナスアクション:* Hunter's Markの移動など、呪文や特徴が指定する行動
+- *移動:* 移動速度ぶん動く
+- *リアクション:* 条件が起きた時に使う反応
+
+== レンジャーとしての動き方
+
+あなたは「危険を先に見つけ、重要な相手に集中して、実用的に解決する」タイプです。
+
+- 戦う前に、足跡、音、におい、配置、逃げ道を確認する。
+- 強い敵や長く戦う相手にはHunter's Markを使う。
+- 武器攻撃を中心に、必要な時だけ呪文を使う。
+- 動物、地形、町の空気から情報を拾う。
+- パーティの前に立つより、見える位置から堅実に圧力をかける。
+
+== クラス特徴
+
+=== Favored Enemy / Hunter's Mark
+
+Hunter's Markは常に準備されています。長めの戦闘で同じ敵を何度も攻撃するなら、とても強い選択肢です。
+
+使いどころ:
+
+- ボスや危険な敵に集中攻撃したい
+- 相手を追跡したい
+- 何ターンか攻撃し続けられそう
+
+注意:
+
+- 集中が必要です。
+- 他の集中呪文を使うと、Hunter's Markは終わります。
+
+=== 武器マスタリー
+
+ShortswordとHandaxeはどちらも *Vex* です。命中してダメージを与えたら、次の自分のターン終了前までに同じ相手へ行う次の攻撃ロールが有利になります。
+
+Handaxeは投げても使えます。離れた相手に当ててVexをつけ、次の攻撃を当てやすくする動きができます。
+
+== 選んだ呪文
+
+#table(
+  columns: (1fr, 1fr, 1fr, 1fr),
+  inset: 5pt,
+  stroke: 0.45pt + rgb("#D0D5DD"),
+  fill: (x, y) => if y == 0 { rgb("#F2F4F7") } else { white },
+  strong([呪文]),
+  strong([種類]),
+  strong([使う場面]),
+  strong([注意]),
+  [Hunter's Mark],
+  [常に準備済み],
+  [同じ敵を何度も攻撃する時],
+  [集中。攻撃に追加ダメージ],
+  [Animal Friendship],
+  [1レベル],
+  [獣を落ち着かせたい、味方にしたい時],
+  [獣が判断力セーヴ。傷つけると関係が壊れる],
+  [Longstrider],
+  [1レベル],
+  [移動が重要な探索、追跡、逃走の前],
+  [集中不要。長めに効く移動強化],
+)
+
+== 戦闘で迷ったら
+
++ 一番危険な敵を選ぶ。
++ その敵を何度も攻撃できそうならHunter's Mark。
++ 武器で攻撃し、位置を取り直す。
++ 周囲の地形や逃げ道を見て、仲間に伝える。
+
+== 背景メモ
+
+Vincentは葉山の古い家につながる地元の人物です。家の資産や人間関係を背景に、土地、建物、修繕、開発、業者との調整に関わっています。
+
+町は彼にとってただの舞台ではなく、暮らしてきた場所です。誰がどこに住んでいるか、どの家が古いか、どの道が妙に使われないか、といった地元感覚があります。
+
+== 最近の出来事
+
+- 海岸沿いの開発や工事に、家や仕事を通じて接点がある。
+- 町の問題が「単発の事故」ではなく、複数の場所でつながっているように見え始めている。
+- 地元の人間として、外から来た人には見えない小さなズレに気づけるかもしれない。
+
+== 関係
+
+- *父:* 現代的な影響力と資金力を持つ実業家。
+- *母:* 葉山の古い家筋につながる人物。地元との結びつきが深い。
+- *家の使用人:* 長く家に仕えている、落ち着いた人物。ある古い噂があるが、真相ははっきりしない。
+- *町の関係者:* 物件、修繕、開発の調整で顔を合わせることが多い。
+
+== セッション中に聞いていいこと
+
+- 「この場所について、地元民として知っていそうですか？」
+- 「足跡や人の動きから何かわかりますか？」
+- 「Hunter's Markを維持したままこれができますか？」
+- 「この武器マスタリーは今回使えますか？」
